@@ -32,13 +32,13 @@ He wrote the estimate out on a pad in duplicate, gave one to the chandler, kept 
 
 "The bracket's out of true."
 
-"The bracket's out of true and it has been for four years, which is why the clock's slow, and I am not going to put a bar to a clock that's hanging on a bracket at an angle and call it a repair." He got the spirit level. "I have done that. I did it in the month of the second. Eleven minutes on a wet road for nothing and the two minutes that came out of it have never been anybody's and never will be."
+"The bracket's out of true and it has been for four years, which is why the clock's slow, and I am not going to put a bar to a clock that's hanging on a bracket at an angle and call it a repair." He got the spirit level. "I have done that. I did it in the month of the second, on a lane in the Weirs, in about an hour, and it took eleven minutes and it is not in a receipt and it never will be."
 
 He took the dial off and the bell-wire out and did the bracket true and re-bushed the steady pin and re-rigged the escapement, and it was six hours, and the invoice was one pound seven shillings and sixpence, and the chandler paid it in coin on the counter without arguing and said, "You are the only man I have ever had in this street who has told me the price of a thing before doing it and then charged exactly that."
 
 Orrin wrote the certificate. It took four minutes and it is the shortest thing he has ever written: *Street clock, Weir Lane. Bracket found out of true, steadied and re-bushed. Escapement re-rigged. Bell-wire renewed. Within tolerance. No fault. No recommendation.*
 
-Four minutes. He had spent nine minutes longer than that in the second month, on a certificate, reading the reverse twice before he pressed it, and the reverse of a certificate is not read by anybody, and he had done it anyway because the deal was the deal.
+Four minutes. He had spent eighteen minutes on one in the second month, on a certificate, reading the reverse twice before he pressed it, and the reverse of a certificate is not read by anybody, and he had done it anyway because the deal was the deal.
 
 The whole job had cost one pound seven shillings and sixpence and six hours, and the useful part of it — the part that made the clock right — was about forty minutes, and the rest of it was paper and honesty and a bracket.
 
@@ -80,7 +80,7 @@ He stopped there, and read it, and did not like where it went, and went and look
 
 > *Which means that a printed return of three hundred and eighty-eight hours is a bill.*
 >
-> *Not a bill to the guild — the guild has paid its eight shillings and the eight shillings are two years old. A bill to the district. A district that has proved it worked three hundred and eighty-eight hours without being paid for them has proved that the rates of the pumping ward have been set on a return that was nil when it should not have been nil, and a ward's rates are set on a certified return, and the district is eleven years behind on a sum that nobody has counted, and every pound of it comes off a reserve that has been empty since the diversion, and the reserve is empty because seventy-one households on Carrow Street got water in the second month instead of a ward that had none.*
+> *Not a bill to the guild — the guild has paid its eight shillings and the eight shillings are two years old. A bill to the district. A district that has proved it worked three hundred and eighty-eight hours without being paid for them has proved that the rates of the pumping ward have been set on a return that was nil when it should not have been nil, and a ward's rates are set on a certified return, and the district is eleven years behind on a sum that nobody has counted, and every pound of it comes off a reserve that has been empty since the diversion, and the reserve is empty because seventy-one households on Carrow Street got water in March instead of a ward that had none.*
 >
 > *So the number I can now say out loud without checking is a number that, if it is believed, takes money from the poorest ward in this city to pay the city for a clock that has been wrong for four months. And I have wanted to be able to say that number since the seventh of the second month.*
 
@@ -88,7 +88,7 @@ He put the pencil down and worked out what to do about it, and there was nothing
 
 Then he wrote one more line, because it was true and because he was tired and because it was the only reward available.
 
-> *There has been no ninth beat since the seventeenth of the first month. I have not gone looking. I notice that I have not gone looking and I do not know what to do with that, and I have had three Sundays to do something about it and I have not, and I have concluded that the honest thing is to record that the ninth tick has not come and that I stopped listening, and that those are two facts about a man and not about a machine, and that one day one of them will turn out to be the other.*
+> *There has been no ninth beat since the seventeenth of the first month. I have not gone looking. I notice that I have not gone looking and I do not know what to do with that, and I have had ten Sundays to do something about it and I have not, and I have concluded that the honest thing is to record that the ninth tick has not come and that I stopped listening, and that those are two facts about a man and not about a machine, and that one day one of them will turn out to be the other.*
 
 ---
 

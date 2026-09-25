@@ -64,7 +64,7 @@ She had put the kettle on before he came up the outside stair, which he noticed,
 
 He sat.
 
-"There are four," said Wenna Pruitt. "The district's own shift book, eleven years, and it begins in the autumn. My aunt's, going back twenty, in the same hand and a different ink, and I can vouch for every year of it because I was in the room for most of them. And the one that goes back forty, which is a different book and not a shift book, because the thing that happened in the first year of it is not a shift. And a rent book, which is a rent book, and which I keep because the rent book is how I know who is in these houses." She put her hand flat on the first one. "Fifty-one years of the family keeping something in this kitchen on this table, and I have reconciled all three of them twice and I will do it a third time if anybody asks me in a room, and I would like the asking to be in a room, and I would like it to be a question with a number in it."
+"There are four," said Wenna Pruitt. "The district's own shift book, eleven years, and it begins in the autumn. My aunt's, going back twenty, in the same hand and a different ink, and I can vouch for every year of it because I was in the room for most of them. And the one that goes back forty, which is a different book and not a shift book, because the thing that happened in the first year of it is not a shift. And a rent book, which is a rent book, and which I keep because the rent book is how I know who is in these houses." She put two fingers on the first one. "Fifty-one years of the family keeping something in this kitchen on this table, and I have reconciled all three of them twice and I will do it a third time if anybody asks me in a room, and I would like the asking to be in a room, and I would like it to be a question with a number in it."
 
 "You're the only one who can do that."
 
@@ -166,13 +166,13 @@ Teo Arden stood very still, which was the thing he did instead of swearing.
 
 "Right," he said. "Right. Well. That is where that goes, then."
 
-"That is where that goes," said Orrin Vale. "And I am sorry, and it is not a small sorry, because I have watched you spend three weeks on it and I have watched two women in good coats come across a city for it."
+"That is where that goes," said Orrin Vale. "And I am sorry, and it is not a small sorry, because I have watched you spend three weeks on it and I have watched two women cross a city for it."
 
 "Then say the next part."
 
 "There is no next part. That is the next part. There is a hall form that will not hold a woman, and a price schedule that will hold a woman at two shillings, and a copyist who signed a true copy eleven times without knowing what a standby was, and I have got no instrument. I have got a bar and a book and a rule I wrote on a Sunday, and the rule says I do not get to be the one who decides."
 
-"Mr Vale," said Nell Arter, from the front of the counter, in a good coat. "I did not come here to be entered. I came because the boy asked me to, and I would like to say one thing and then I will take my coat off this hook and go home. Nine of them on that stair, and not one of them has ever been asked whether she wants to be in a record. Have you."
+"Mr Vale," said Nell Arter, from the front of the counter, still in the coat she had come in. "I did not come here to be entered. I came because the boy asked me to, and I would like to say one thing and then I will take my coat off this hook and go home. Nine of them on that stair, and not one of them has ever been asked whether she wants to be in a record. Have you."
 
 "No," said Orrin. "No, I have not."
 
@@ -206,7 +206,7 @@ He wrote it up in the grey book that night, on a clean page, standing up, in the
 
 *Holding is free. The copying is not. Bessie Crane, of the Bellweather Road, says she can do a page in twenty minutes and has not tried in a long time and will not be paid, and she said that in four seconds and asked us to move on, and we should have moved on and did not.*
 
-*Compromise, and I said so in the room and I meant it: a ledger that goes round on Fridays to a building that has not held it, carried by a man who is going that way anyway. No owner. Nobody may be asked who cannot say what they want it for. The hall, the works, the Cathedral, the Office, the water users' committee, and the insurer of any building in the district, may not be asked.*
+*Compromise, and I said so in the room and I meant it: a ledger that goes round on Fridays to a building that has not held it, carried by a man who is going that way anyway. No owner. Nobody may be asked who cannot say what they want it for. The hall, the works, the Cathedral, the Office, and the insurer of any building in the district, may not be asked.*
 
 *It is going to fail. Wenna Pruitt says so and has watched two of them fail from the same table. I believe her, and I have said so, and I want it here that I believed her at the time, because in about four months one of the nine is going to be in a kitchen in a bad mood and I do not want to have been the man who said he knew.*
 
@@ -222,6 +222,6 @@ Twenty-four days. A form, a fee, an interview on Tuesday, and an hour on a Sunda
 
 The shop was warm behind him and the lathes were cold and there was a greenish smear on the bench where he had been working on a regulator that was sound and that he had been paid three shillings for.
 
-Twenty-four days. And a district in the Weirs had a date in it and a boy of twenty had eleven addresses and a woman of sixty-one could make a page in twenty minutes and would not be paid, and a landlady had walked across a city in her good coat to be told that a hall's column would not hold a woman, and eight people had stood on a slipway in the rain because there was tea in a pump house.
+Twenty-four days. And a district in the Weirs had a date in it and a boy of twenty had eleven addresses and a woman of sixty-one could make a page in twenty minutes and would not be paid, and a landlady had walked across a city to be told that a hall's column would not hold a woman, and eight people had stood on a slipway in the rain because there was tea in a pump house.
 
 He went in and shut the door and made tea he did not want and stood in the doorway with it, and did not listen for anything, because there was nothing to listen for, and because he had noticed on Sunday that he was no longer listening, and he had not written down what to do about that either.

@@ -2,15 +2,15 @@
 
 Three requests went into the Clockwork Quarter guild hall on the morning of Monday the twenty-seventh of the month, and they were the same question, and they went in before eleven, and the hall's answer was on the mat by a quarter past two.
 
-That was the part. Not the answer. Orrin had a strong idea by the Sunday night of what the answer would be, because he had read the answer already, in writing, in this shop, on the twenty-fourth of the first month, and it had been four lines long and had not been wrong, and the card said the same four things in the hall's own type with two words of a connective left off to save a line.
+That was the part. Not the answer. Orrin had a strong idea by the Sunday night of what the answer would be, because he had read the answer already, in writing, in this shop, on the twenty-fourth of the first month, and it had been four lines long and had not been wrong, and the card said the same four things in the hall's own type with the letter's own *is asked to note* and one connective with it left off to save a line.
 
 What he did not have, and what nobody had, was the four hours.
 
 ---
 
-The first went in from the Office of Public Reckoning, because that office was the only one in the city that had any standing to ask a guild for anything at all, and because Mara Venn had said at half past eight on the Friday, standing in a room over a chandler's shop with her coat already on, "I am going to ask for the book, and I am going to do it in the morning, and I want you to understand that I am doing it because it is the correct instrument and not because I think it will work."
+The first went in from the Office of Public Reckoning, because that office was the only one in the city that had any standing to ask a guild for anything at all, and because Mara Venn had said at half past eight on the Friday, in the passage outside that room with her coat already on, "I am going to ask for the book, and I am going to do it in the morning, and I want you to understand that I am doing it because it is the correct instrument and not because I think it will work."
 
-The second went in from the tenant council of the pumping district, on the council's paper, with a signature that was Wenna Pruitt's and a second signature that was a woman's from the Weir One gate, and the council's address was an upper room over a chandler's shop, and the clerk wrote it down exactly.
+The second went in from the tenant council of the pumping district, on the council's paper, with a signature that was Wenna Pruitt's and a second signature that was a woman's from the Weir One gate, and the council's address was an upper room over a chandler's shop, and the clerk wrote it down exactly. The council's request carried four pounds ten in coin, which was the whole of what the tenant council had, and the clerk wrote that down as well.
 
 The third went in from Hanna Stroud, in her own name, as the owner of nine buildings in the district, asking a question about the uninsurability of one of them, and she telephoned it in herself at a quarter to eleven and dictated it and made him read it back to her.
 
@@ -76,7 +76,7 @@ Neither of them said anything for a moment.
 
 "Who changed it?"
 
-"Nobody changed it," said Della Marsh. "That's what I'd have you understand and I've got about ninety seconds before the floor wants me. Nobody changed it. It's printed once a year with the cards and it is set by the forms printer along with eleven other standing orders, and what it says has said for longer than the two of us have been in this trade, and the difference is that five years ago it said *on any working day in the last week of the term* and this year it says what it says, and that is a sentence in a printed book that nobody read until a man stood in front of a board and wanted something off it."
+"Nobody changed it," said Della Marsh. "That's what I'd have you understand and I've got about ninety seconds before the floor wants me. Nobody changed it. It's printed once a year with the cards and it is set by the forms printer along with eleven other standing orders, and the slot on that board is older than the two of us have been in this trade, though the words in it are not — five years ago it said *on any working day in the last week of the term* and this year it says what it says, and that is a sentence in a printed book that nobody read until a man stood in front of a board and wanted something off it."
 
 She put her spectacles on.
 
@@ -88,7 +88,7 @@ She put her spectacles on.
 
 "Go on."
 
-"W-4, current issue, is two pages, and it is a two-sided sheet, and it is printed in the form in stacks of two hundred at a time and it comes out of that press about four times a year, and the issue changes when the press is re-set, and the issue changes without notice to anybody and without any letter, because there is nowhere to put a letter. That is why the card says *current issue* and does not give a number." She nodded at the shelves. "You have never seen the current issue. I can see from your face that you have never seen one. And I am not going to hand you one off this shelf, and if you come back and ask me for one I shall not have it, and if you had it now you would fill it in wrong and I would have to look at it and I do not want to look at it."
+"W-4, current issue, is two pages, and it is a two-sided sheet, and it is printed in the form in stacks of two hundred at a time and it comes out of that press about four times a year, and the issue changes when the press is re-set, and the issue changes without notice to anybody and without any letter, because there is nowhere to put a letter. That is why the card says *current issue* and does not give a number." She looked at the shelves instead of nodding at them. "You have never seen the current issue. I can see from your face that you have never seen one. And I am not going to hand you one off this shelf, and if you come back and ask me for one I shall not have it, and if you had it now you would fill it in wrong and I would have to look at it and I do not want to look at it."
 
 "Then how am I supposed to—"
 
@@ -190,7 +190,7 @@ They got up at half past three because the box on the second floor was emptied a
 
 She put the card back in the drawer and shut it.
 
-"There is a sealed archive under the Cathedral with forty-one entries in a single batch in it, and there is a working book in this building with nine series in it, and between the two of them they are the whole of what has been withdrawn from every district in this city, and the working book is a list of sites," she said. "I asked for the index of the sealed one in October of last year and got a courteous note, and there is no form in the world that opens it, and nothing that has been done in this month to any form in this city has brought it one inch nearer being opened. I mention it because you are going to be tempted, and because it is the only room I know of where the answer is, and because it is the room you will never be in."
+"There is a sealed archive under the Cathedral with forty-one entries in a single batch in it, and there is a working book in this building with nine series in it, and between the two of them they are the whole of what has been withdrawn from every district in this city, and the working book is a list of sites," she said. "I asked for the index of the sealed one a year ago and got a courteous note, and there is no form in the world that opens it, and nothing that has been done in this month to any form in this city has brought it one inch nearer being opened. I mention it because you are going to be tempted, and because it is the only room I know of where the answer is, and because it is the room you will never be in."
 
 ---
 

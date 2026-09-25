@@ -18,7 +18,7 @@ Eleven years, one line a year, in a small upright hand that was not the hand of 
 
 And under it, in the fair copyist's hand, which is a better hand than the original and a much more careful one: the class, the batch number, the year, and a ruled column, and a signature at the foot with the word *true* in it and the copyist's name against it.
 
-He knew the original. He had read it in a hall on a Saturday in the first month, on a page where the ink above had a Sunday in it and the line under it was in a different, smaller, harder-pressed, wrongly slanting hand, and he had stood in a brick room that smelled of sizing and mouse two months ago and watched a competent woman find it in a drawer.
+He knew the original. He had read it in a hall on the Tuesday in the first month, on a page where the ink above had a Sunday in it and the line under it was in a different, smaller, harder-pressed, wrongly slanting hand, and he had stood in a brick room that smelled of sizing and mouse two months ago and watched a competent woman find it in a drawer.
 
 The fair copy was perfectly made. Every character of it was right. It was signed, dated, and stamped, and it was true, and it was in a hand that any clerk in the licensing office could have identified as the work of the woman who had made eleven thousand of them.
 
@@ -148,7 +148,7 @@ Hester Lomas looked at him for a moment. Then she took a sheet out of a drawer, 
 
 He paid her the shilling. He did not try to reduce it and she did not offer.
 
-"One question," she said, at the door. "You have not asked me what I want. Everybody asks me. What I want is a lease and a wage a month, on the Bellweather Road, from a man who has a chandler's shop and a business premises, and I have wanted it for eleven weeks, and I am not going to pretend that I would not take it."
+"One question," she said, at the door. "You have not asked me what I want. Everybody asks me. What I want is a lease and a wage a month, from a man who has a chandler's shop and a business premises, and I have wanted it for eleven weeks, and I am not going to pretend that I would not take it."
 
 "There is a chandler's shop two doors from a kitchen in Weir Lane," said Orrin, "and the man upstairs keeps a copy of a labour book because a copy in a shop is a copy in a business."
 

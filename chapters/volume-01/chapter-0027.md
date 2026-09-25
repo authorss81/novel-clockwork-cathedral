@@ -1,6 +1,6 @@
 # Chapter 27 — The Licence, Renewed
 
-He was in the shop at seven on the Sunday morning, and the lathes were cold until nearly half past eight, and he had let the front door in for the air.
+He was in the shop at seven on the Saturday morning, and the lathes were cold until nearly half past eight, and he had let the front door in for the air.
 
 He had the W-4 on the bench with the second sheet under it, and the fee in a tin on the corner — four shillings and sixpence, in coin, counted twice in nineteen days — and the grey book open on the end of the bench with a prop against it.
 
@@ -26,7 +26,7 @@ He did what any competent man would do. He took the faults on civic machines for
 
 The eighth line was the Halloway Street pillar clock, and it took a line and a half, and it is the truest thing in the book this year.
 
-*Halloway Street pillar clock. Within tolerance on four readings, the district file being three minutes short of the truth, as this maintainer certified in the first month, and the file is still three minutes short, and the two minutes it is short by are not entered on any form in this city and are not entered here. No receipt, no form, charged to no district. Hand correction, not a fault. Nothing further recommended.*
+*Halloway Street pillar clock. Within tolerance on four readings, the district file being two minutes short of the truth, as this maintainer certified in the first month, and the file is still two minutes short, and those two minutes are not entered on any form in this city and are not entered here. No receipt, no form, charged to no district. Hand correction, not a fault. Nothing further recommended.*
 >
 *Two hand corrections are entered in this book in nineteen years and neither of them is on this form, because this form has no column for one: eleven minutes on a lane in the Weirs, with a bar, on a wet road, in about an hour, in the month of the second; and eight on a bracket clock at the Ferrywright corner, in about eleven minutes, the same. Neither is on a receipt and neither is on a form, and the reason they are written here is that this is the only copy of either of them in any office in this city, and the count is two, and it was two before this morning and it is two after it.*
 
@@ -64,7 +64,7 @@ Then he stopped, with the pencil on the end of the word *further*, for about fou
 
 He was aware, in the way you are aware of a sound in a room you had not noticed, of what the sentence was.
 
-It was eleven years' worth of the pumping district's night work entering an institutional record. Not a copy of the hall's book — worse, and better, and a different thing altogether: a licensed maintainer of the Clockwork Quarter, in a form in the hall's form, in his own hand, on a Sunday morning in a cold shop with a lease, stating on paper that the night work exists. It had gone in. It was not going to come out. It would be transcribed at fourpence a page, in a small upright hand, and signed, and bound, and it would sit in the hall's series room in the same brown bindings as everything else, and from this afternoon the pumping district's hours existed in an office in this city, and no vote had been taken, no meeting had been called, no person had been asked, and no one had decided anything.
+It was eleven years' worth of the pumping district's night work entering an institutional record. Not a copy of the hall's book — worse, and better, and a different thing altogether: a licensed maintainer of the Clockwork Quarter, in a form in the hall's form, in his own hand, on a Saturday morning in a cold shop with a lease, stating on paper that the night work exists. It had gone in. It was not going to come out. It would be transcribed at fourpence a page, in a small upright hand, and signed, and bound, and it would sit in the hall's series room in the same brown bindings as everything else, and from this afternoon the pumping district's hours existed in an office in this city, and no vote had been taken, no meeting had been called, no person had been asked, and no one had decided anything.
 
 *A result of mine*, said the rule, *goes out of this room without a person named who can refuse it.*
 
@@ -86,7 +86,7 @@ He put the entry in.
 
 Then he filled the other thirty lines with faults on machines, because that is what the book is for and the ordinance says so in the standing request, and it took him fifty minutes, because a line is a machine and a fault and a piece of work and he can write one in the time it takes to look up a thing in his own book.
 
-At two o'clock on the afternoon of the nineteenth of the third month of a year in which nothing whatever had happened to him he read the whole thing through from the top, twice, at the speed of a man who has been doing this for nineteen years, and squared it, and put the second sheet under it, and put the tin on the counter by the door, and got his coat, and walked down to Verge Lane with the book in a carrier, and sat down on the bench outside the guild hall at twenty-five to three.
+At two o'clock on the afternoon of the eighteenth of the third month of a year in which nothing whatever had happened to him he read the whole thing through from the top, twice, at the speed of a man who has been doing this for nineteen years, and squared it, and put the second sheet under it, and put the tin on the counter by the door, and got his coat, and walked down to Verge Lane with the book in a carrier, and sat down on the bench outside the guild hall at twenty-five to three.
 
 And then sat on it, because the counter took renewals between ten and twelve and it was twenty-five to three, and the light went at about four, and the hall's street lamp came on at a quarter to five, and the porter who had let him in at six o'clock came past twice and looked at the book across his knees and did not ask him anything, because a man sitting on a bench outside a hall with a book is a thing a porter has seen before.
 
@@ -96,7 +96,7 @@ And then, on the front of the sheet, in the space under the four printed things:
 
 And on the second sheet, which is the hall's return copy, and which is not asked for and which a man on a counter will hand you over because he can see you have not thought of it: the same, and the date, and his name, and the class, and the fee.
 
-He was on that bench from twenty-five to three until about ten to ten, in the rain, on the last day of his licence, and he was the only one on it, and it was the nineteenth hour of a bench.
+He was on that bench from twenty-five to three on the eighteenth until about ten to ten on the nineteenth, in the rain, and by the end of it he was on the last day of his licence, and he was the only one on it, and it was the nineteenth hour of a bench.
 
 ---
 
@@ -108,7 +108,7 @@ There was a porter at the door of the hall on Verge Lane who looked at a clock i
 
 "Ten to twelve for renewals," said the clerk, "and you're in, go on." He took the fee without counting it in front of him, and put it in a tin, and the tin went into a drawer with a lot of other tins, and then he turned the two sheets over and read the front of the first one the way a clerk reads a form, which is quickly and in the right order.
 
-"Twenty-two blanks is the whole stack," he said. "There's no more coming this month. You've brought the second sheet, which is more than most."
+"Twenty-two blanks is the whole stack," he said. "There's no more coming this month, and the rack has never once been right about that in the whole time I have been behind it."
 
 "Second sheet's signed, which is more than most," said the clerk, "and if you have not signed the top of the first, sign it in front of me, because I would rather see a man do it than find out in a year that he didn't." He put a small green slip in front of him. "Sign there, and the master signs under, and that's it done, and you'll have your receipt and it's stamped, and there's no charge for the book and there's no charge for the stamp."
 
@@ -146,7 +146,7 @@ Not the flatness he had braced for. He had braced for a kind of grief — for th
 
 The correct thing and the useful thing were two different documents. That was all. The correct thing was two thousand pages in a school exercise book on a shelf behind a bench in Verge Lane, in his own hand, in no office, unreadable by anybody including him at two in the morning.
 
-The useful thing was a two-page form with four things printed at the head and a ruled table of three columns beneath, of which the third was a third of an inch wider than the other two because the guild had found out in 1908 that men will say anything at all if the box is big enough, and it had gone onto a cart that evening to a copyist in the back room of that building, and it would be transcribed at fourpence a page, and bound, and it would be in an office in this city for as long as the hall stands.
+The useful thing was a two-page form with four things printed at the head and a ruled table of three columns beneath, of which the third was a third of an inch wider than the other two, for the reason the guild found out in 1908 and has never put in writing, and it had gone onto a cart that evening to a copyist in the back room of that building, and it would be transcribed at fourpence a page, and bound, and it would be in an office in this city for as long as the hall stands.
 
 And he could not write in it that the front of the Lower Weirs would be running four cycles a day from the fifteenth, or that the Weir One gate's escapement governor was made for two and was thirty years older than the works' standard and would hold all the same and was the only thing in the whole of it that ought to frighten anybody, because that had come out of a brass case in a hall on the eighth with his hand on it, and there is no form in the world for that, and a boy of twenty had refused him permission to say it out loud in a room, and had been right to.
 

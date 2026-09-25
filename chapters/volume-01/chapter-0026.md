@@ -22,7 +22,7 @@ The list is this. It is written in a hand that is not Orrin's and it is not on a
 >
 > **4. A hospital.** The Green Span hospital's auxiliary rising main, third-floor landing, draws off the Lower Weirs pumping line. **The auxiliary was re-packed and re-seated in the second month, the packing is correct, it was correct when it was done, and it is holding. The sub-line that feeds that floor has been correcting out of something for eleven years. The Reading ran over it on the eighth and took eleven minutes out of a morning on the Thursday, and what went was not the pump and was not the packing.** The ward on the third floor lost a morning on the Thursday, the day after. **The sub-line has been correcting out of something for eleven years and this is the first week it gave any of it up.** Four minutes between two medicines. A girl of nineteen on nights did the ward clock's work by hand and was paid for it and did not know that any of it was connected to a question filed on the second.
 >
-> **5. A bridge.** Ferrywright Bridge, gate interlock, Lower Weirs approach. **The interlock is a fixed delay, released a fixed number of minutes after the last pump of a window. A Reading of this size over the main runs the window long; the interlock counts from the pump and does not care that anything else is going on, so it released the approach early, and the road came open before the water had.** R. Morrow, night porter, Green Row, on the night of the eighth, came off the pump house shift at ten past two in the morning and found the interlock had released the approach at twenty to ten the night before instead of a quarter past eleven, and the bridge still standing open on a water that was forty minutes from being where the model said it would be, and walked round. **He was brought back across at four in the morning by a man with a lamp.** There is no form for a lamp. There is no form for an hour and three quarters of a man's walk. He has told two people and one of them wrote it down.
+> **5. A bridge.** Ferrywright Bridge, gate interlock, Lower Weirs approach. **The interlock is a fixed delay, released a fixed number of minutes after the last pump of a window. A Reading of this size over the main runs the window long; the interlock counts from the pump and does not care that anything else is going on, so it released the approach early, and the road came open before the water had.** R. Morrow, night porter, Green Row, on the night of the eighth, came off the pump house shift at ten past two in the morning and found the interlock had released the approach at twenty to ten the night before instead of a quarter past eleven, and the bridge still standing open on a water that was forty minutes from being where the model said it would be, and walked round. **He was brought back across at four in the morning by a man with a lamp.** There is no form for a lamp. There is no form for an hour and fifty minutes of a man's walk. He has told two people and one of them wrote it down.
 >
 > **6. A ferry timetable.** The Weirs slipway. **The printed sheet is dated eleven weeks ago and is the document about eleven hundred people are holding, and it was set from the Quarter's public clock, and the Quarter's public clock was wrong for an hour on the morning of the eighth, and the boat ran on the eighth out of it, and the sheet cannot be reprinted, and from the fifteenth, when the schedule begins, the boat will be between four and eleven minutes out on eleven nights, which is in the notice and is not yet a bill.** The company's clerk has written on the sheet, in pencil, in one hand, in eleven places: *as printed — see notice.* That is the whole of the city's response to eleven hundred people and it is by a man with a pencil and a proper hand.
 >
@@ -88,7 +88,7 @@ She read it out from the printed notice, which she had copied out by hand, becau
 
 "And the effect of that is not that the machine says something untrue. The effect of that is that the machine cannot feel us. The rows and the wards and the early shifts and the girls who do a ward clock by hand at two in the morning because a clock has gone out — we are not represented, and so the pressure we put on the system is not represented, and so the system does not slow down to ask about us, and so it does not know that it is asking us.
 
-""Forty-three years ago somebody wrote a compact with four safeguards in it, and the second one is that the benefit and the cost are both shown, and this office is the cost. We are the cost. And the cost is not wrong; the cost is not a lie. It is simply not in."
+"Forty-three years ago somebody wrote a compact with four safeguards in it, and the second one is that the benefit and the cost are both shown, and this office is the cost. We are the cost. And the cost is not wrong; the cost is not a lie. It is simply not in."
 
 Nobody in the room said anything for about a minute.
 
@@ -144,7 +144,7 @@ His finding was two paragraphs and the second paragraph was not a fault and had 
 
 Four lines of true thing, in a printed column, in a file that went on a shelf. He read the fourth reading out twice before he signed it, because that was his practice.
 
-A man with a lamp, at two in the morning, on the ninth, is still a man with a lamp. But on the Thursday of the seventeenth the Ferrywright approach has a sentence in it, in a public file, saying that a forty-one-minute delay has not been reviewed by anybody since the mechanism went in, and that sentence is true, and it was not there on the Wednesday, and there is a form in Morrowfen with a four-inch column in it and the sentence is in the column and nobody can take it out.
+A man with a lamp, at two in the morning, on the ninth, is still a man with a lamp. But on the Friday of the seventeenth the Ferrywright approach has a sentence in it, in a public file, saying that a forty-one-minute delay has not been reviewed by anybody since the mechanism went in, and that sentence is true, and it was not there on the Wednesday, and there is a form in Morrowfen with a four-inch column in it and the sentence is in the column and nobody can take it out.
 
 Mara Venn read it on the Friday morning with her tea in her hand and put it down.
 
@@ -156,7 +156,7 @@ Mara Venn read it on the Friday morning with her tea in her hand and put it down
 
 ---
 
-He went up to the guild hall at half past two on the Friday afternoon and stood on the licensing floor in front of the board for a while, reading the fifth notice again, which he had read four times on the twenty-seventh of last month and had not liked.
+He went up to the guild hall at half past two on the Friday afternoon and stood on the licensing floor in front of the board for a while, reading the fifth notice again, which he had read four times on the twenty-seventh of the second month and had not liked.
 
 *A renewal is complete only when the fee, the endorsement, and the work book in hall form have all been received at this counter. The counter receives renewals on the day of expiry only, and between the hours of ten and twelve.*
 

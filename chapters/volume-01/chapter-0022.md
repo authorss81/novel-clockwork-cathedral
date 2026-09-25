@@ -184,7 +184,7 @@ He wrote it out.
 
 *And the Weirs are not a thing that wants anything. Eleven times, says Bevin Sarr. So we cannot be asked. And the three who can be asked will not meet. And the only door in the city that opens without somebody's standing on it is the Advertiser, and that is the door we have used, and it is one door in three, and the other two are what we are now living on.*
 
-*Which means the next move is not a meeting. The next move is a form, with a name on it, in an office, asking the hall of the Guild of Horologists for its labour book for the pumping district, four months, and the name has to belong to somebody with standing, and the three who have standing cannot be got into a room, and I have got a name and no standing, which is exactly the wrong way round.*
+*Which means the next move is not a meeting. The next move is a form, with a name on it, in an office, asking the hall of the Guild of Horologists for its labour book for the pumping district, fourteen months, and the name has to belong to somebody with standing, and the three who have standing cannot be got into a room, and I have got a name and no standing, which is exactly the wrong way round.*
 
 He read it back.
 

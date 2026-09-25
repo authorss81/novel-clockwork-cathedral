@@ -30,7 +30,7 @@ There were two answers available, and Orrin had known that on the Friday, and he
 
 "The second one. And the third, sort of, but not somebody."
 
-"Mm." Hask turned the cup again. "I'll tell you what I do with that, since you'll want to know and I'd rather you didn't spend the night on it. I do nothing with it. I write in the book *year: bad, holder's own word* and I put the date against it, and that goes in a file that is not published, and it has been in a file that is not published for twenty-two years, and I could not tell you this morning what I wrote in nine of them. It's not a kindness. It's a filing system. There is a great deal in this trade that looks like a kindness and is a filing system, and the ones that are only a filing system are the ones you can rely on."
+"Mm," said Hask, and did not turn the cup. "I'll tell you what I do with that, since you'll want to know and I'd rather you didn't spend the night on it. I do nothing with it. I write in the book *year: bad, holder's own word* and I put the date against it, and that goes in a file that is not published, and it has been in a file that is not published for twenty-two years, and I could not tell you this morning what I wrote in nine of them. It's not a kindness. It's a filing system. There is a great deal in this trade that looks like a kindness and is a filing system, and the ones that are only a filing system are the ones you can rely on."
 
 He picked up his tea.
 
@@ -38,7 +38,7 @@ He picked up his tea.
 
 Orrin took the tea. It was as bad as it had been a month ago and about one degree warmer, and there was a skin on it.
 
-"My father," he said. "Eighteen years this month."
+"My father," he said. "Eighteen years ago, in the storm month."
 
 Hask put the cup down.
 
@@ -60,7 +60,7 @@ Hask put the cup down.
 
 "Nothing on those that wanted a certificate."
 
-"The timer wanted one and I did it. It's a pharmacy interval timer on the same line as the ward and the corridor, and the ward is right, and I certified the timer and the certificate says nothing about the ward and it took twenty minutes." He turned the cup he had not been given a saucer for. "Which is a sentence I have been turning over since the Sunday and I have not got to the bottom of it yet."
+"The timer wanted one and I did it. It's a pharmacy interval timer on the same line as the ward and the corridor, and the ward is right, and I certified the timer and the certificate says nothing about the ward and it took twenty minutes." He turned the cup he had not been given a saucer for, which put it near the edge of the desk. "Which is a sentence I have been turning over since the Sunday and I have not got to the bottom of it yet."
 
 "That's a better sentence than most of what I hear in here and I have heard four years of them." Hask got up, went to a drawer, and took out a sheet of the guild's own printed stock, folded once, and put it on the table between them. "Second sheet of the W-4. That's what I wanted to give you, and I have been waiting for a quarter of an hour to find a way in."
 
@@ -74,7 +74,7 @@ Hask had not mentioned the fee. Orrin had it in his coat. Hask had not mentioned
 
 "There is a new standing order on the licensing floor," said Orrin.
 
-"There is a standing order on the licensing floor," said Hask, "and I did not write it, and I have not changed it, and I am not going to ask you what it says, because if I asked you what it says I would be a master asking a man about a notice, and there is a difference between that and a man telling a man where the counter is." He turned the cup. "The counter is open on Sundays for licensing, by the way. There is no law saying it is not and there is no law saying it is, and it has been open on Sundays for as long as I have been in this room, and there is usually a porter at the door and a clerk behind the counter and nobody else in the building, and you will not be troubled and you will not be hurried and I am telling you that now, on the twenty-eighth, on purpose, so that you spend the nineteen days between now and then not dreading a Sunday."
+"There is a standing order on the licensing floor," said Hask, "and I did not write it, and I have not changed it, and I am not going to ask you what it says, because if I asked you what it says I would be a master asking a man about a notice, and there is a difference between that and a man telling a man where the counter is. The counter is open on Sundays for licensing, by the way. There is no law saying it is not and there is no law saying it is, and it has been open on Sundays for as long as I have been in this room, and there is usually a porter at the door and a clerk behind the counter and nobody else in the building, and you will not be troubled and you will not be hurried and I am telling you that now, on the twenty-eighth, on purpose, so that you spend the nineteen days between now and then not dreading a Sunday."
 
 That was a kindness. It was exactly a kindness, and it had been arranged with a precision that Orrin could feel in his teeth, and the two facts sat side by side and neither of them cancelled the other, and that was the entire machinery of the thing, and Hask had not threatened him once in forty minutes.
 
@@ -92,7 +92,7 @@ It was a kind question, asked genuinely, by a man who knew what he was asking. O
 
 "No," he said. "No, I can't tell."
 
-"Mm," said Hask, and nodded, and did not ask him a second question about it, and that was so careful that it took Orrin a moment to work out what it was.
+"Mm," said Hask, and did not look up, and did not ask him a second question about it, and that was so careful that it took Orrin a moment to work out what it was.
 
 "You can tell by the top of the click," Hask said, "and by the way the drop sits on the escape wheel, and you always could. You've been listening for forty years." He lifted the glass off and put his thumbnail against the cock. "It's dry, by the way. About a fortnight dry. Not badly, and it's not hurting anything, and it'll run for another two months and then the click will start to go and you'll hear *that* if the room's quiet." He put the glass back. "I only asked because a man came in here in January who hadn't been in a room with a good escapement in twenty years and wanted to talk about it, and I found out more about him in ten minutes than I've found out about him in nine years, and it wasn't what I was after. That's the whole trade, and there's no lesson in it, and you'd think there was."
 
@@ -114,7 +114,7 @@ He turned the cup round one last time and did not turn it back.
 
 He squared the paperwork on the desk between his two hands and did not look at it.
 
-"You've been in this building six times since the card came and you have not been afraid once, and I have been waiting to see whether you would be, and you have not, and I have found that interesting, and I have not written anything down about it." He got up and opened the door, which is a thing a master does at the end of a conversation and which ended it. "Twenty-second of the third month, if you want to come and tell me how the year went. Same room. Same cup. Optional. Nothing follows from it."
+"You've been in this building six times since the card came and you have not been afraid once, and I have been waiting to see whether you would be, and you have not, and I have found that interesting, and I have not written anything down about it." He got up and opened the door, which is a thing a master does at the end of a conversation and which ended it. "The twenty-eighth of next year, if you want to come and tell me how the year went. Same room. Same cup. Optional. Nothing follows from it."
 
 ---
 
@@ -134,7 +134,7 @@ Hask stopped in the doorway with his hand on the frame.
 
 "I have been in this room twenty-two years," said Hask, "and I could not tell you, and I have never once wanted to, and I would like you to understand that those two clauses are the same clause. When I took this hall the steward showed me the returns and the certifications and the fees and the price books, and there is a shelf in that room of things that are answered once a year, and a ledger is not on that shelf, because nothing has ever come up that has wanted one." He came back three steps into the room, which he had not done in the whole forty minutes. "I will tell you what I have instead. I have a card. It has a form number and it is in a drawer and it goes out about four times a year, and it goes out because somebody asks a question a free question, in a corridor, and the answer is that there is no such thing, and the answer is on the card, and I do not have any say in it and I have never been asked whether I would like to change it, and I would not, because it is true, and being right about it is not the interesting part of my morning."
 
-"Did you know it came out four times last month?" said Orrin. "Because it came out three times on Monday, and I put one of them on the table of a woman with four staff, and the drawer has four in it now, three of them older than this month, and she is going to write a paper about the fact that it is not a refusal, because it is not, and I have not got an answer to that either."
+"Did you know it came out three times on Monday?" said Orrin. "Because it came out three times on Monday, and I put one of them on the table of a woman with four staff, and the drawer has four in it now, three of them older than this month, and she is going to write a paper about the fact that it is not a refusal, because it is not, and I have not got an answer to that either."
 
 Hask looked at him for about three seconds longer than the conversation had required.
 

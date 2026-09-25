@@ -69,7 +69,7 @@ The Compact had been amended about twenty years ago to permit a written district
 
 ---
 
-There were three quarters of an hour of waiting and Orrin spent eleven minutes of it on a lamp, between half past nine and twenty to ten, because a man in a hall of clocks is the man they fetch when a lamp on an indicator is flickering, and because there was nothing else to do with a quarter of an hour and nothing in the book to write in it.
+There was a bit over half an hour of waiting before the question was called and Orrin spent twenty minutes of it on a lamp, between half past nine and twenty to ten, because a man in a hall of clocks is the man they fetch when a lamp on an indicator is flickering, and because there was nothing else in the building to do with and nothing in the book to write in.
 
 The district indicator stands on the wall at the left of the hall, a brass case the size of a biscuit tin with eleven small windows in it, one for each district, and a needle in each window showing how much stored rotation that district was holding. Three of the windows were showing a fault lamp and the hall's own men were somewhere at the back with a board, because a lamp that is out is not a fault and a lamp that is *flickering* is a lamp on the end of its life, and a flickering lamp on an indicator in a Question Hall is a thing somebody will be asked about in an inquiry in about four years.
 
@@ -125,9 +125,9 @@ At two minutes to ten the operator at the left station read the question aloud, 
 
 "The paying district is on the question," said Orrin, to nobody, in the third bench. "It is never on the notice. It never has been."
 
-At ten of the clock the record keeper took the four lines off the board and the operator read them out, because that is the procedure, and the procedure does not vary, and the reason the procedure does not vary is that the Compact requires the whole of it to be stated in a room with three people on a rail.
+At ten of the clock the record keeper took the four lines off the board and read them out, because that is the procedure, and the procedure does not vary, and the reason the procedure does not vary is that the Compact requires the whole of it to be stated in a room with three people on a rail.
 
-The notice was on a brass-framed card and the third line was set two sizes smaller than the other three, and sat above the operator's signature, and the operator read all four at the same speed and in the same voice.
+The notice came up out of the spindle on a long strip of pressed paper, and the type under the rule was half the size of the type above it, which is the blind margin, which is a required line on every notice the Cathedral has ever printed, and which is set below the rule in small foot and carries no name, no address, and no shift. Ostrand read it twice, the way the form requires, and turned the strip so that the room could see it, which is also what the form requires, and he read all four at the same speed and in the same voice.
 
 > *QUESTION RECEIVED*
 >
@@ -139,7 +139,7 @@ The notice was on a brass-framed card and the third line was set two sizes small
 >
 > *TOLL: twenty-six district minutes and a witness interval.*
 
-He read the last two and then signed, and put the card into the slot, and the Loom behind the screen began to move a little faster and did not stop for about two hours and ten minutes.
+He read the last two again, and then the three of them signed the rail, and the strip went back into the spindle, and the Loom behind the screen began to move a little faster and did not stop for about two hours and ten minutes.
 
 ---
 
@@ -213,18 +213,18 @@ He went down the Rise at ten past one, on foot, because he wanted to walk, and a
 
 Three minutes in the first month. Twenty-six in the third. Off the same district, in the same direction, under a question he had filed himself the first time and had not filed the second.
 
-The Toll Stair was scrubbed at half past twelve and re-chalked at one, and the new chalk was still wet on the third step, and there was a bucket and a board and a man on the stair with a piece of chalk, and it said:
+The Toll Stair was scrubbed at half past five and chalked at six every morning, and the rain had taken it off twice since and it was being put on for the third time, and there was a bucket and a board and a man on the stair with a piece of chalk, and the chalk on the third step was still white and still coming off on his sleeve, and it said:
 
 *26*
 *CLOCKWORK QUARTER*
 
-Twenty-six minutes. Off the district that holds the most reserve in this city and has the most accurate public clock in this city, and has never once in forty-three years had an opinion about a Reading it did not care for. The draw was in proportion to what the Quarter held, and the Quarter held a great deal, and the draw from a full reserve is a rounding error, and the whole of the volume's argument about where a toll lands was sitting in wet chalk on the third step of a public staircase in the rain.
+Twenty-six minutes. Off the district that holds the most reserve in this city and has the most accurate public clock in this city, and has never once in forty-three years had an opinion about a Reading it did not care for. The draw was in proportion to what the Quarter held, and the Quarter held a great deal, and the draw from a full reserve is a rounding error, and the whole of the arithmetic was sitting in wet chalk on the third step of a public staircase in the rain.
 
-And the number on the stair was still the only number this city published, and it was the smallest number in the book, and it was the same as it had been in the first month, and the only thing that had changed was that it was now eight times as big and the omission in the footer had gone from a crew to a district, and both of those were improvements, and both of them were the Cathedral doing exactly what it was built to do, in front of forty-one people from the Weirs who had read the footer in the first month and understood it perfectly, and who were not on the rail.
+And the number on the stair was still the only number this city published, and it was the smallest number in the city, and it was the same as it had been in the first month, and the only thing that had changed was that it was now eight times as big and the omission in the footer had gone from a crew to a district, and both of those were improvements, and both of them were the Cathedral doing exactly what it was built to do, in front of forty-one people from the Weirs who had read the footer in the first month and understood it perfectly, and who were not on the rail.
 
 He stood on the stair in the rain and looked at the two figures and did the sum, because it was the sum, and because it was the only thing he had.
 
-*First month. Third month. Three minutes, and a footer that said a night crew was not represented. Now twenty-six minutes, and a footer that says district labour is not represented. Twice the size, twice the width, and the second one is better in every measurable way, and the water is worth more than the bridge was, and nobody did anything wrong, and eight people stood on a wet slipway in the rain thirteen days ago because there was tea in a pump house, and four drawing pins is what the ordinance asks for.*
+*First month. Third month. Three minutes, and a footer that said a night crew was not represented. Now twenty-six minutes, and a footer that says district labour is not represented. Eight times the size, and a good deal wider, and the second one is better in every measurable way, and the water is worth more than the bridge was, and nobody did anything wrong, and eight people stood on a wet slipway in the rain thirteen days ago because there was tea in a pump house, and four drawing pins is what the ordinance asks for.*
 
 *And there is not one thing in this city that I can put in a sentence that makes the next one smaller.*
 

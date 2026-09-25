@@ -56,7 +56,7 @@ They had been standing since the Saturday and had run for eleven years before th
 
 He wrote the price on the back of an order pad before he took his coat off, which is a thing he has done four times in eleven years and does not enjoy, and which Hanna Stroud has paid for without arguing once, and which Ombersley at the ropeworks said four months ago was the only reason he had ever let this man into his building.
 
-> *12–20 Ferrywright Row, fourth floor. Four clocks, private spur, 1911. Clean, let down, bush, re-beat, hang and certify. Twenty-two hours at the hall's out-of-shop rate of four shillings and sixpence, being four pounds nineteen shillings. Materials, cord, one click spring, four bushings, a pint of solvent, one pound seventeen shillings and sixpence. **Total, five pounds sixteen shillings and sixpence.***
+> *12–20 Ferrywright Row, fourth floor. Four clocks, private spur, 1911. Clean, let down, bush, re-beat, hang and certify. Twenty-two hours at the hall's out-of-shop rate of four shillings and sixpence, being four pounds nineteen shillings. Materials, cord, one click spring, four bushings, a pint of solvent, seventeen shillings and sixpence. **Total, five pounds sixteen shillings and sixpence.***
 >
 > *One thing would make it dearer and I am telling you now instead of afterwards: if the big one's going barrel is cracked, a new barrel is about three pounds more and a fortnight's notice. I do not think it is cracked. If it turns out to be cracked, you will get a telegram from me and not an invoice.*
 
@@ -98,13 +98,13 @@ The bracket clock on the half-landing wall was the one he had been dreading and 
 
 Then he hung all four, and wound all four, and started all four within about four minutes of each other, and stood on the landing and let them run and did not look at any of them for eleven minutes, because the first eleven minutes after a hanging are the eleven minutes in which a clock will tell you it is pleased with itself whatever has been done to it.
 
-They were still running on the Thursday. He read them one more time against the chronometer, and wrote his ledger entry, and the entry is the only reason this chapter is in the book rather than being a nice morning somebody had.
+They were still running on the Thursday. He read them one more time against the chronometer, and wrote his ledger entry, and the entry is the reason the week is any good, because without it this is a nice morning somebody had.
 
-> *Monday the 1st, the fifth month. Four clocks, 12–20 Ferrywright Row, fourth floor, private spur, 1911, let down, cleaned, rebushed, re-beat to their own rate. Two long-case and one long-case and one bracket. Twenty-two hours. Materials one pound seventeen shillings and sixpence. **Total five pounds sixteen shillings and sixpence, which is the figure I gave Mrs Stroud on the Monday and the figure on the invoice.**
+> *Monday the 1st, the fifth month. Four clocks, 12–20 Ferrywright Row, fourth floor, private spur, 1911, let down, cleaned, rebushed, re-beat to their own rate. Two long-case and one long-case and one bracket. Twenty-two hours. Materials seventeen shillings and sixpence. **Total five pounds sixteen shillings and sixpence, which is the figure I gave Mrs Stroud on the Monday and the figure on the invoice.**
 >
 > *Mean rate of the four, two and a quarter seconds a day slow, spread one and a half seconds a day. Four minutes ten out of the district reference, as they have been for eleven years, and the district reference is the one the town keeps now and it is not going to stop for four clocks.*
 >
-> **This is maintenance on a customer's machine. It is not a correction. The count of my own hand corrections is two and it was two on Monday morning and it is two now.** A correction is a bar against a civic clock and a receipt and a column. These four are on a private spur that has not spoken to a district since 1923, and I have not altered a minute of anybody's time anywhere in this city this week, and Mrs Amnersley in 4B has four clocks that agree with one another and cannot tell anybody what time it is, and she asked for exactly that and I have given her exactly that, and it is her decision and not mine, and she is sixty-six and it is the only thing in this book that has gone right this year.*
+> **This is maintenance on a customer's machine. It is not a correction. The count of my own hand corrections is two and it was two on Monday morning and it is two now.** A correction is a bar against a civic clock and a receipt and a column. These four are on a private spur that has not spoken to a district since 1923, and I have not altered a minute of anybody's time anywhere in this city this week, and Mrs Amnersley in 4B has four clocks that agree with one another and cannot tell anybody what time it is, and she asked for exactly that and I have given her exactly that, and it is her decision and not mine, and she is sixty-six and it is the only thing this year that has gone right.*
 
 Then the certificate, which is four of them, one to each clock, on a single sheet with four heads, because a certificate is a certificate of one machine and four clocks is four machines and there is no provision on the form for saying so, and the hall's practice is that a man writes four.
 
@@ -114,7 +114,7 @@ And then the fifth line, which is not on the form, on all four, in the same hand
 
 > *Wound and maintained on Mondays by the occupier of 4B, to whom a key was given in 1911 and whose tenancy record states that the key is not a service. Eleven years. No charge. The person named has asked that her name be not written, and has said the reason, and the reason is on file: she has been paid nothing for eleven years and does not intend to be paid now and would rather not be found out.*
 
-Dilly Amnersley read that on the Thursday morning with her glasses down her nose and did not say a word for about a minute, and then she said, "You were asked," which is a sentence about a rule and not about a clock, and he said, "You were," and she said, "Then it stays," and went down, and he wrote down that she had read it and that she had said it stays, and dated it, because the whole of this batch is a fight about whether a thing that happens is written down.
+Dilly Amnersley read that on the Thursday morning with her glasses down her nose and did not say a word for about a minute, and then she said, "You were asked," which is a sentence about a rule and not about a clock, and he said, "You were," and she said, "Then it stays," and went down, and he wrote down that she had read it and that she had said it stays, and dated it, because everything he has been doing since the second month has turned on whether a thing that happens is written down.
 
 The invoice went out on the Thursday afternoon in an envelope with a copy of the certificate in it, and it is the only piece of work this year that has gone out of that room with a name on it that can be refused.
 
@@ -154,7 +154,7 @@ He had a job on the Friday. It was a regulator on a church clock at Ferrywright 
 
 What he did not have, on the Thursday night, in a shop with a lease, was a person in four districts who had been told that he was going to pay eighty-two shillings of his own money on Monday to put a crew's standing back into the civic model for a year, and who could have stopped him. He had looked for one on the Monday and had found a counter and a wet stamp and four minutes and a woman who said *don't* before he could say thank you, and that was the whole of the room.
 
-He wrote the last line of the day and it is the shortest thing in the book and the only one in this batch that is not a number.
+He wrote the last line of the day and it is the shortest thing in the book and the only one in it this week that is not a number.
 
 > *Fifth month, the fourth. £5 16s 6d, paid, and a woman who could have sent it back did not.*
 > *Forty-one heads, a year, on the Monday. Eighty-two shillings. And nobody in the Weirs will ever hear of it, and the ward's rates go up in the spring whatever the form says, and I told her the price on Saturday and she told me the price again and I have still not got a counter-argument, and I have decided that a piece of paper with a name on it that can be refused is worth a great deal more than a form with forty-one heads on it that cannot, and that both of those things are true, and that I do not have the other one.*

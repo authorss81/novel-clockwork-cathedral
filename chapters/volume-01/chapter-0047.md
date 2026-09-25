@@ -2,7 +2,7 @@
 
 The first thing the new process caught was a variation by the woman who had written it.
 
-On the Sunday morning of the twenty-seventh of the fifth month the warden's office entered a variation in the ward's book and posted it on the ward board at about eleven o'clock, and the book is a ruled book about two inches thick that cost four shillings and sixpence, and the entry is in her own hand, and it is the first entry in it ever, and the variation is the night draw on the canal front, and the quantity is three hundred and sixty minutes, and the beneficiary is the Green Span hospital, and the date is the thirtieth.
+On the Saturday morning of the twenty-seventh of the fifth month the warden's office entered a variation in the ward's book and posted it on the ward board at about eleven o'clock, and the book is a ruled book about two inches thick that cost four shillings and sixpence, and the entry is in her own hand, and it is the first entry in it ever, and the variation is the night draw on the canal front, and the quantity is three hundred and sixty minutes, and the beneficiary is the Green Span hospital, and the date is the thirtieth.
 
 It is a variation. It is a variation of the front's own draw, made by a warden, this morning, by signing a book.
 
@@ -10,7 +10,7 @@ On the Friday the nineteenth, in a room over a boat-builder's shop, at about fou
 
 The variation is the draw. The variation is the front's night draw coming off for six hours on the thirtieth, and it happened at about eleven o'clock this morning when she wrote the quantity and the date into a book and carried the book to a board, and clause one of a process she wrote at eleven o'clock on the Tuesday before, on the back of a warden's return, in her own hand, without being asked, requires her to enter it, to give the quantity, to give the date, and to post it on a board within one working day of its being made.
 
-She posted it on the Sunday, which is the same day, and that is within one working day, and it is the first thing the process has caught and it is hers, and she wrote it, and she let it.
+She posted it on the Saturday, which is the same day, and that is within one working day, and it is the first thing the process has caught and it is hers, and she wrote it, and she let it.
 
 ---
 
@@ -26,7 +26,7 @@ Leda Vale stood in the nurses' room on the third floor of the Green Span hospita
 
 "Here is the cost, and I am naming it before anybody spends it and not after. The ward's total slack between the free clocks and the line clocks, across eleven patients and three staff, is forty minutes. On the best night of the year. I have asked for a column for it four times over two years and there is no column for it and there is going to be no column for it tomorrow either, and I am the only person in this city who knows what this number is.
 
-"Six hours is a quarter of that gone twice over, and my two buildings' clocks are going to be free for the whole of it, and the pharmacy is going to compare three clocks by hand every four hours, and every one of those three clocks is going to be running free and none of them is going to be in agreement with any of the others, and I am not going to be able to fix that and neither is anybody else in this room.
+"Six hours is nine times that, and my two buildings' clocks are going to be free for the whole of it, and the pharmacy is going to compare three clocks by hand every four hours, and every one of those three clocks is going to be running free and none of them is going to be in agreement with any of the others, and I am not going to be able to fix that and neither is anybody else in this room.
 
 "And Elsie is going to do the ward clock by hand for six hours and be paid at the ward rate, and her name is on this card and has been on it since the twenty-fourth of the fourth month and anybody who wants her name off can come and take it off and it will be written down who and when, and nobody has."
 
@@ -36,7 +36,7 @@ The card went up on the board in the nurses' room at ten past eight on the Sunda
 
 ---
 
-The document went up on four boards on the Monday the twenty-eighth of the fifth month at about eleven in the morning, and it is worth saying that nobody in this city has ever been told in advance what a district's hours were going to be on a particular night, and that a sheet of foolscap with eleven paragraphs on it, put up on four boards in daylight by hand, is the whole of the instrument, and that it is not a Reading and has no blind margin in a footer, because a Reading is not what this is.
+The document went up on four boards on the Monday the twenty-ninth of the fifth month at about eleven in the morning, and it is worth saying that nobody in this city has ever been told in advance what a district's hours were going to be on a particular night, and that a sheet of foolscap with nine paragraphs on it, put up on four boards in daylight by hand, is the whole of the instrument, and that it is not a Reading and has no blind margin in a footer, because a Reading is not what this is. The schedule overleaf went up with it in the rough, house by house, and the times in it were filled in that night, and signed, and carried back to the four places before one o'clock.
 
 > **NIGHT WORK AND LOSS OF RATE. LOWER WEIRS PUMPING DISTRICT AND GREEN SPAN HOSPITAL BRANCH.**
 >
@@ -52,7 +52,7 @@ The document went up on four boards on the Monday the twenty-eighth of the fifth
 >
 > **5. The men's morning.** The men whose hour begins at five begins at six. Six men are named overleaf. **That hour belongs to the six men on the street and not to any office in this city, and no document in this city has ever been able to give it back.**
 >
-> **6. The hospital.** Six hours of free-running ward clocks. The ward's total slack between free clocks and line clocks, across eleven patients and three staff, is **forty minutes**. Spoken by L. Vale, sister, in the nurses' room on the twenty-seventh of the fifth month, in front of eleven people, and entered on the ward card with the date. Four names are on that card, one of whom is the night sister who is paid at the ward rate.
+> **6. The hospital.** Six hours of free-running ward clocks. The ward's total slack between free clocks and line clocks, across eleven patients and three staff, is **forty minutes**, and six hours is nine times that. Spoken by L. Vale, sister, in the nurses' room on the twenty-seventh of the fifth month, in front of eleven people, and entered on the ward card with the date. Four names are on that card, one of whom is **E. Cobb, night sister, nineteen, paid at the ward rate**, who has asked twice to be named and has not been taken off.
 >
 > **7. TOLL.** **Three hundred and sixty minutes. Paying district: Lower Weirs.**
 >
@@ -66,23 +66,23 @@ The document went up on four boards on the Monday the twenty-eighth of the fifth
 >
 > *I have no licence to certify a district toll. I have signed this because a posted document that cannot be certified is a request, and if the work is done on a request then the work is done at night and the posting is furniture. I expect to be suspended. I would rather be suspended for this than for anything else I have ever done.*
 
-The nine hundred words of that went up on four boards in daylight in a district of a hundred and forty thousand people, and it is the reason the front's clocks were wound by hand by named people at named times for six hours on the morning of the thirtieth, and it cost a ward forty minutes of slack and six men an hour each of their morning, and the price of those six hours of the district's own labour at the guild's out-of-shop rate of four shillings and sixpence an hour is **twenty-seven shillings**, and there is no fund and there is no line and nobody is going to be paid it.
+The five hundred and fifty words of that went up on four boards in daylight in a district of a hundred and forty thousand people, and it is the reason the front's clocks were wound by hand by named people at named times for six hours on the morning of the thirtieth, and it cost a ward forty minutes of slack and six men an hour each of their morning, and the price of those six hours of the district's own labour at the guild's out-of-shop rate of four shillings and sixpence an hour is **twenty-seven shillings**, and there is no fund and there is no line and nobody is going to be paid it.
 
 The objections came in inside four hours and they came in correctly.
 
 Bevin Sarr had the front. She had been winding the front's clocks by hand for eleven years and had done it on the sixteenth, the seventeenth, the eighteenth and the nineteenth of the month, in a flood, off a painted board, with the men starting at six, and she had written it in the ward's night book on the morning of the seventeenth in front of nine people, and the new document told the whole district about it in advance and that was the first time anything in this city had ever done that, and she had about nine objections to it and six of them were good.
 
-"One: two days. You are giving us two days' notice of six hours of hand-winding for twenty-seven clocks and four standpipes, and you are doing it on the Monday for the Tuesday, and you have made that list in one night, and the only way anybody in this district can make a list in one night is by walking down a street knocking on doors, and I have said in this district for three months that a list of addresses is a list of routes, and I said it about a printed page, and I am now saying it about my own district's winders' list, and the argument has not changed and I am not going to pretend that the fact that I agree with it makes it less true.
+"One: a day. You are giving us a day's notice of six hours of hand-winding for twenty-seven clocks and four standpipes, and you are doing it on the Monday for the Tuesday, and you have made that list in one night, and the only way anybody in this district can make a list in one night is by walking down a street knocking on doors, and I have said in this district for three months that a list of addresses is a list of routes, and I said it about a printed page, and I am now saying it about my own district's winders' list, and the argument has not changed and I am not going to pretend that the fact that I agree with it makes it less true.
 
 "Two: that hour. The hour from five to six belongs to six men and the document says so, in writing, in public, on a board, which is more than has ever been done about it, and I have written their names on the list and the six men have read it and four of them are content and two of them are not, and the two who are not are content to be named, because the whole point of a name.
 
 "Three: and this is the one I want in writing, at the top, before the day. **We are doing the work.** Not him and not the works and not a committee. Us, the front, the twenty-seven clocks, the six men, the fourteen houses, and the four standpipes. On the list, with our names, and not a crew. The last crew in this district had a batch number and forty-one heads and two shillings each and no name on it at all, and the one before that had a name on a board and no batch number, and this one has both and is on a board in a public street, and I did not get that by arguing for it, I got it because a man with a bar stood in a pump house at four in the morning and wrote the men's hours in the night book before he went near a bridge. That is all. Do not make a speech about it."
 
-They argued for two hours on the Monday evening on Weir Lane with a winders' list on the table, and Teo Arden and Wenna Pruitt did not speak to each other and neither of them left, and the list was finished at about eleven o'clock at night by nine people who had walked the front and knocked on doors.
+They argued for two hours on the Monday evening on Weir Lane with a winders' list on the table, and Teo Arden and Wenna Pruitt did not speak to each other and neither of them left, and the times in it were finished at about eleven o'clock at night by nine people who had walked the front and knocked on doors.
 
 Fourteen houses. Twenty-seven clocks. Four standpipes. Six men whose hour begins at five. And at the foot of it, in a young man's upright hand, the winder's own column: **T. Arden, licensed: no.** He wrote that in himself and he wrote the time he took and he wrote the houses he had done, and it is the first piece of paper in this district's history that has an unlicensed man's name at the bottom of it, and it is a piece of paper in a kitchen with a drawer in it, and nobody thanked him for it and he was not thanked for it and he did not want to be.
 
-The last thing Orrin said on the Monday, in the pump house, at about eleven at night, to about fourteen people, before he went to write the winders' list out fair with a copyist and take it round four places in daylight in the morning, was this, and he said it first and he said it before anybody else could, and he had been thinking about it since the Friday.
+The last thing Orrin said on the Monday, in the pump house, at about eleven at night, to about fourteen people, before he went to write the winders' list out fair with a copyist and take it round the four places before the work started, was this, and he said it first and he said it before anybody else could, and he had been thinking about it since the Friday.
 
 "One thing, and then I am going to write the list out, and I want the list written out and in before I say it, and I am not going to be able to come back to it.
 
@@ -92,7 +92,7 @@ The last thing Orrin said on the Monday, in the pump house, at about eleven at n
 
 ---
 
-The problem with a toll is who may certify it, and the problem was worked out in a pump house on the Tuesday the twenty-ninth of the fifth month at about eleven in the morning by four people who had nothing else to do because the work could not start for fourteen hours.
+The problem with a toll is who may certify it, and the problem was worked out in a pump house on the Monday the twenty-ninth of the fifth month at about eleven in the morning by four people who had nothing else to do because the work could not start for fourteen hours.
 
 A local toll is a working window bought with minutes off a district's clocks, so that a difficult repair can be done. It is a district toll, and a district toll may be certified only by a licence of the second class or above, or by the district that owns the reserve.
 
@@ -153,17 +153,17 @@ At four minutes to ten past one in the morning on the thirtieth of the fifth mon
 
 He did it at the end, and not at the beginning, because a man who signs a thing at the beginning is a man who has decided and is informing the room, and he had spent four months learning that the whole of his method is doing it at the end, in front of the people it is done to.
 
-He said it out loud first, in nine words, in the middle of the floor where a pump house is loudest, so that the words would be the same in four people's mouths afterwards.
+He said it out loud first, in thirty-three words, in the middle of the floor where a pump house is loudest, so that the words would be the same in four people's mouths afterwards.
 
 "I am not a person who may sign this, and I am signing it, and the hall has told me why not, and I have asked for it in front of you all."
 
-Then he signed, and the date, and his class, and his street, and Sel Kade countersigned as the warden who made the variation and Bevin Sarr signed the front's line and Wenna Pruitt signed for the council and the chandler witnessed it as a man with a shop and no function, and it is the only piece of paper in this volume that has ever been signed by five people who were not required to sign it and cannot be made to un-sign it.
+Then he signed, and the date, and his class, and his street, and Sel Kade countersigned as the warden who made the variation and Bevin Sarr signed the front's line and Wenna Pruitt signed for the council and the chandler witnessed it as a man with a shop and no function, and it is the only piece of paper any of them has ever signed that nobody was required to sign and nobody can be made to un-sign.
 
 The work began at ten past one.
 
 ---
 
-The six hours are not a chapter of this book, and the only way to write them honestly is to say what they were, which is: twenty-seven clocks, four standpipes, fourteen houses, six men, and one man in a boat.
+The six hours are not a thing anybody can be shown, and the only honest way to set them down is to say what they were, which is: twenty-seven clocks, four standpipes, fourteen houses, six men, and one man in a boat.
 
 Bevin Sarr wound the front and Teo Arden wound the front, and there were four others, and they went down the street in pairs and did twenty-seven clocks in about fifty minutes and then began again, and the schedule overleaf had each house's time on it and they were at each house within about a minute of it, and the times were Bevin Sarr's and not Orrin's, because the schedule was made by the front.
 
@@ -173,7 +173,7 @@ The old conduit came out of the span in three lengths between half past two and 
 
 The new length went in between five and a quarter past six, and the feed went back on at ten past seven, and at ten past seven the front's clocks were driven and the ward's clocks were driven and the six men had lost the first hour of their morning and were owed it for the rest of their lives, and the first clock in the front to be driven again was at the Ferrywright corner, and the second was at Bellweather Road, and Bevin Sarr wrote the times in the night book with the hour on them, and the ward's night book for the fifth month of this year is now eleven pages long and every page of it is a document that did not exist in the second month, and it is in a pump house on the canal road and it is not in any office, and nobody has copied it and nobody has been asked for a copy.
 
-It was over at ten past seven. It had taken six hours and it had not gone wrong, and the whole of what it had cost is in nine paragraphs on a sheet of foolscap that was on four boards in daylight two days before it happened, and there is not one hour of it in any ledger in this city, except the twenty-seven shillings that nobody is going to be paid and that Bevin Sarr has written at the bottom of a page in the ward's night book in her own hand with a figure against it and a note that says *this is what we are owed and by whom, and it is a quarter of the price of one of the works' brackets, and the bracket on the works' sheet is item six and it is eighteen hundred and ninety pounds, and I have got a book of hours that is worth twenty-seven shillings, and I am not going to be the woman who says those two things are comparable, because they are not, and a sheet does not know that and a stair does not know that and a room does not know that, and I have said it here so that it is said, and none of you are to write it down.*
+It was over at ten past seven. It had taken six hours and it had not gone wrong, and the whole of what it had cost is in nine paragraphs on a sheet of foolscap that was on four boards in daylight the day before it happened, and there is not one hour of it in any ledger in this city, except the twenty-seven shillings that nobody is going to be paid and that Bevin Sarr has written at the bottom of a page in the ward's night book in her own hand with a figure against it and a note that says *this is what we are owed and by whom, and it is half the price of the bracket that came off that bridge on the Saturday, and the bracket on the works' sheet is item seven at two pounds fourteen shillings and sixpence, and there are six hundred standpipe brackets on the same sheet at item six for one thousand eight hundred and ninety pounds, and I have got a book of hours that is worth twenty-seven shillings, and I am not going to be the woman who says those two things are comparable, because they are not, and a sheet does not know that and a stair does not know that and a room does not know that, and I have said it here so that it is said, and none of you are to write it down.*
 
 Which is the whole of the argument, said by a woman on a night pump house floor at ten past seven in the morning to about eleven people who were all too tired to disagree with her, and it is in a book, and the book is in a room.
 

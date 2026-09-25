@@ -6,9 +6,9 @@ It had come out in daylight, in front of forty people, in about two hours, with 
 
 The third fixing came out whole.
 
-That is the sentence the whole batch of the last nine days comes down to, and it needs two parts. It came out whole: not in three pieces, not in a shower, not with a sound anybody could describe afterwards. It came out as one piece of cast iron, about the size of a clenched hand, with four holes in it, of which two had been empty for two years and three months and two were still in the iron of the span, and the two that were in had come out with the iron round them, in a ring about a quarter of an inch wide, which is what a casting does when it has been carrying a load on two of its four holes for two years and three months and the metal round the two good holes has gone the colour of a wet slate.
+That is the sentence the last nine days come down to, and it needs two parts. It came out whole: not in three pieces, not in a shower, not with a sound anybody could describe afterwards. It came out as one piece of cast iron, about the size of a clenched hand, with four holes in it, of which two had been empty for two years and three months and two were still in the iron of the span, and the two that were in had come out with the iron round them, in a ring about a quarter of an inch wide, which is what a casting does when it has been carrying a load on two of its four holes for two years and three months and the metal round the two good holes has gone the colour of a wet slate.
 
-The inside of it, where the load had been, was the colour of a bright spot on the ninety-eighth tooth of a going barrel, and Orrin Vale had looked at that on the Wednesday of the fourth of the fifth month through a glass in a fourth-floor recess on Ferrywright Row, and he said so out loud on the bench, to about thirty people, without any drama at all, and the woman who had been standing at the end of the bench said, "That's the tooth," and he said, "That is the tooth," and that was the whole of the two men and the two women who understood anything about it in that yard.
+The inside of it, where the load had been, was the colour of a bright spot on the ninety-eighth tooth of a going barrel, and Orrin Vale had looked at that on the Thursday of the fourth of the fifth month through a glass in a fourth-floor recess on Ferrywright Row, and he said so out loud on the bench, to about thirty people, without any drama at all, and the woman who had been standing at the end of the bench said, "That's the tooth," and he said, "That is the tooth," and that was the whole of the two men and the two women who understood anything about it in that yard.
 
 ---
 
@@ -18,7 +18,7 @@ The number went on a board at eleven o'clock, in chalk, in the middle of the yar
 > *Setting-out marks cut in the north coping, 1911, two punch marks. Steel rule and four-inch level, level reversed and averaged. Third bracket drawn 11.20, the twentieth of the fifth month.*
 > *FIFTEEN THIRTY-SECONDS OF AN INCH. Survey of two years and three months ago: twelve thirty-seconds. Difference: three thirty-seconds in two years and three months, which is a twenty-fourth of an inch a year.*
 > *Two of four fixings withdrawn from the castings at the survey. Two of four withdrawn at the drawing of this bracket, today, in front of this board.*
-> *This bracket carried, alone, from about the sixteenth of the third month of this year to about ten past eleven this morning, with the hospital branch dead. It was not the dead that finished it. It was two years and three months.*
+> *This bracket carried the conduit alone, for two years and three months, and the hospital branch has been dead since about eleven o'clock on the night of the sixteenth of the third month, and it was dead when it came out of the seat at ten past eleven this morning. It was not the dead that finished it. It was two years and three months.*
 >
 > *Read by: M. Vale, class three, in the works' permit book, page 61. Called aloud and written by: A. Bream, boat-builder. Checked and entered by: T. Rill, Continuity Office, hourlines. Duration of the isolation observed: to be entered.*
 
@@ -32,7 +32,7 @@ He put his own name under that, and Orrin did not take it off.
 
 Tobias Rill came at about half past ten on the Saturday morning and he was in daylight and he had his own pen, and he was right about everything he said, and nobody in that yard thought him a villain, and he took out a notebook and a stopwatch and did the job he had come to do.
 
-A Continuity Office inspector of hourlines certifies that a line agrees with its own record. That is the whole of the office and Chapter 11 of this book is what happens when a man who understands that perfectly well is asked for something else, and this was the other thing.
+A Continuity Office inspector of hourlines certifies that a line agrees with its own record. That is the whole of the office, and a man who understands that perfectly well and is asked for something else is a thing this city has done before and did not enjoy, and this was the other thing.
 
 "What I can enter is the isolation and the duration of it," he said, "and the fact that the hospital branch lost pressure at about eleven o'clock on the night of the sixteenth and was re-isolated at ten past ten this morning for the drawing of this bracket, and the fact that a line on a works' asset has been out of service for four days and is to be returned to service on a date. Those are observations of a line and they are within my authority, and they will be in a public file within a week, and my name will be on them, and I do not need anybody's standing to say them and nobody can make me not say them.
 
@@ -52,10 +52,10 @@ Teo Arden signed for all five in his own name in the fourth month and put the ad
 
 Neither of those things is a scandal. Both of those things are true at once, and there is no form in Morrowfen that can hold two true things that are in opposition, and the form that would hold them is the one that has no column, which is a form nobody has written because a form is not a place where two truths go to argue.
 
-The inspector said one thing to Orrin, at about half past two, in daylight, in about eleven seconds, and it was flat and it was not a favour and it was not an accusation.
+The inspector said one thing to Orrin, at about half past two, in daylight, in about as long as it takes to say it, and it was flat and it was not a favour and it was not an accusation.
 
 "The work tonight is carried out by persons who may not certify it, on a works' asset, and the works' engineer has instructed an emergency repair and that is a lawful instruction from the man entitled to give it. The question of who is on the crossing is a matter for the works and for this office and I have no power over it and I have not got any view. I am going to write that the work was carried out at night by persons not licensed to certify it, because it was, and it will be in a file, and I would like you to know that now instead of in a year."
-ENDOFPART>
+
 "I have known since the twelfth of the fourth month," said Orrin Vale.
 
 "Then we are both in the same position and I have said mine out loud."
@@ -74,13 +74,13 @@ Nobody had looked in box 41, because the estimate said *with new pattern from th
 
 The man of fifty opened the box in front of about thirty people and turned the pattern over twice and said, "There is one of these left in the world and it is in this yard."
 
-The works' engineer then did something that was not in anybody's plan, which was to look at the pattern, and then at the drawing, and then at the estimate, and then to write a figure on the back of the estimate in his own hand, and the figure is the whole of the batch's arithmetic in a tradesman's mouth and he said it out loud in a yard.
+The works' engineer then did something that was not in anybody's plan, which was to look at the pattern, and then at the drawing, and then at the estimate, and then to write a figure on the back of the estimate in his own hand, and the figure is the whole of the arithmetic of that yard in a tradesman's mouth and he said it out loud in front of thirty people.
 
 "The bracket is two pounds fourteen and sixpence, and that has been the figure for two years and three months, and it is the right figure and I have checked the iron order. The pattern, if I had to have a new one cut, is three pounds four shillings, because a pattern off a drawing is not a thing you can buy at a price, it is eight hours of a man's time and a man's time is not a price, it is a rate. So the job is five pounds eighteen shillings and sixpence instead of two pounds fourteen shillings and sixpence, and the three pounds four shillings is the price of nobody having opened a box in two years and three months."
 
 "Somebody had to have the drawing out to write the estimate," said Rill. "He is right. Both halves of that are on this yard and they do not need a form to agree with each other."
 
-The works' charge for the whole business, when it was settled, was **£5 18s 6d**, and it was charged to item seven of the published schedule of maintenance works for the Lower Weirs pumping district, item seven being *Green Span hospital trestle, conduit bracket: survey and re-estimate, with new pattern from the original drawing, £2 14s 6d, programme year three*, and it went in early, on a variation, in the first week of programme year three, on the strength of a survey, and the reason there was a survey to raise the variation on at all was item ten, which an investigator had got into a document on the Friday of the twenty-eighth of the fourth month in about eleven minutes, and the whole of the eighty-seven pounds and the four thousand two hundred and two pounds and the inspection interval are in this, somewhere, in a way that nobody will ever be able to pull apart, which is the most that a district can hope for.
+The works' charge for the whole business, when it was settled, was **£5 18s 6d**, and it was charged to item seven of the published schedule of maintenance works for the Lower Weirs pumping district, item seven being *Green Span hospital trestle, conduit bracket: survey and re-estimate, with new pattern from the original drawing, £2 14s 6d, programme year three*, and it went in early, on a variation, in the first week of programme year three, on the strength of a survey, and the reason there was a survey to raise the variation on at all was item ten, which an investigator had got into a document on the Thursday of the twenty-seventh of the fourth month in about eleven minutes, and the whole of the eighty-seven pounds and the four thousand two hundred and two pounds and the inspection interval are in this, somewhere, in a way that nobody will ever be able to pull apart, which is the most that a district can hope for.
 
 ---
 
@@ -102,20 +102,26 @@ Eleven shillings and fourpence. Nobody in this city will ever put that figure ne
 
 The casting came back from the foundry on the Monday morning and they had it on, and the tell-tale on, and the joint closed, by ten past one, and the branch went live at ten past one on the morning of the twenty-second of the fifth month, and the ward had a clock that was driven.
 
-It was not the end, and that is the sentence this chapter has to finish on, because a man who reads the number on that board and does not understand the rest of it will get the whole book wrong.
+The box on the board stood empty for two days and then it did not. Rill came back on the Monday afternoon with his notebook open at the page where he had written the start, and he filled it in himself, in chalk, in the middle of a yard with the rain starting again, and read it out twice because that is what he does, and then wrote his name and his office under it.
+
+> *Duration of the isolation observed: **2 days 3 hours.** From ten past ten on the twentieth to ten past one on the twenty-second. Stopwatch, against the district reference. T. Rill, Continuity Office, hourlines.*
+
+Then he said the thing he had said in the yard on the Saturday that he would say, which is that it is a figure of time and it does not say whose time it was, and nobody said anything back to him, and a duration that anybody can fill in is one of the very few things that came out of those ten days.
+
+It was not the end, and that is the sentence this has to finish on, because a man who reads the number on that board and does not understand the rest of it will get the whole thing wrong.
 
 The load came back on at ten past one on the morning of the twenty-second, and it came back onto a new casting with a new seat and iron that is sound, and it came back onto a conduit that has a set in it of about a third of a degree, because that conduit has been carried on two fixings and then on one for two years and three months, and a conduit with a set in it, in a seat that has just been re-cut, is a thing that walks.
 
 It will not walk this week. It may walk in a month, and if it walks it will walk at the third fixing, and when it walks the tell-tale will have shown it a long time before the fixing let go, and that is the whole of what eleven shillings and fourpence bought, and it is not safety. It is notice. A ward in Green Span and about eleven hundred people on a canal front now have between them a four-inch brass pointer and a hardened point and a fortieth of an inch, and that is the only instrument between that ward and a second night of the sixteenth of the fifth, and it is the only instrument in this business that nobody in an office has to be asked to look at.
 
-And the conduit has to be renewed, and it is a length of about thirty feet, and it has to come out of the span at one end and go in at the other with the feed off the line, and taking the feed off the line is the operation that costs the six hours, and the six hours is the same six hours as the second month of this year, and the men who begin at five begin at six, and it is a Tuesday in the third week of the fifth month and not a Saturday night at eleven o'clock, because he worked that out on a bench in a yard in daylight on the twentieth with thirty people standing round it and there was no argument in it and nobody made one.
+And the conduit has to be renewed, and it is a length of about thirty feet, and it has to come out of the span at one end and go in at the other with the feed off the line, and taking the feed off the line is the operation that costs the six hours, and the six hours is the same six hours as the second month of this year, and the men who begin at five begin at six, and it is a Tuesday in the last week of the fifth month and not a Saturday night at eleven o'clock, because he worked that out on a bench in a yard in daylight on the twentieth with thirty people standing round it and there was no argument in it and nobody made one.
 
-The joint was closed and the ward had its clocks, and the load was on a new casting with a brass pointer on it, and the proper work was eight days away and had to be posted, and the reason it had to be posted rather than done is the reason this chapter is not a happy one.
+The joint was closed and the ward had its clocks, and the load was on a new casting with a brass pointer on it, and the proper work was eight days away and had to be posted, and the reason it had to be posted rather than done is the reason none of this is a happy ending.
 
-He wrote it at the bench in the grey book on the Tuesday the twenty-second, and there are four lines of it, and the fourth is the one that has been sitting on the front page of this book since the second month of the year and had never once been said out loud in a room in daylight with a number on it:
+He wrote it at the bench in the grey book on the Monday the twenty-second, and there are four lines of it, and the fourth is the one that has been sitting at the front of that book since the second month of the year and had never once been said out loud in a room in daylight with a number on it:
 
 > *Fifth month, the twenty-second. The bracket is new and the seat is new and the tell-tale shows a fortieth of an inch to anybody who stands on a towpath in daylight, and the cost of the bracket was five pounds eighteen shillings and sixpence against an estimate of two pounds fourteen shillings and sixpence, and the difference of three pounds four shillings is the price of a box nobody opened.*
 >
-> *And a district cannot be on a rail, and there is no reading anybody may hold, and there is no Reading anybody may hold, and the load comes back on in eight days, and the eight days are going to cost eleven hundred people the first hour of a morning, and I am not doing that at night.*
+> *And a district cannot be on a rail, and there is no reading anybody may hold, and the load comes back on in eight days, and the eight days are going to cost eleven hundred people the first hour of a morning, and I am not doing that at night.*
 >
 > *I have said that out loud, in a yard, in daylight, to about thirty people, on the twentieth of the fifth month, and nobody has written it down but me.*

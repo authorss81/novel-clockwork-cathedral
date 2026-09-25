@@ -35,7 +35,7 @@ He had put it in the recommendation column of a hall form in a shop on the sixte
 
 Ambrose had a permit-to-inspect in the works' own book, and it took him about nine minutes to produce it and about four seconds to say what it was for.
 
-"I am not writing you a certificate and you are not getting one off me, and if you stand on that crossing and tell anybody in a good coat that the district works inspected the crossing, I will deny having had a conversation with you." He put the book down on the counter with a finger on the line. "This says a licensed maintainer is admitted to the Green Span hospital crossing on the eighth and ninth to take such measurements as he may name in advance, and that nothing he finds binds the works. There is a column for the measurements. You are to write them in it yourself, in your own hand, and not on a separate paper, and I am going to have a copy of that page in a month, and if the figures in your book and the figures on that page differ then we are going to have a morning about it and I will not enjoy it."
+"I am not writing you a certificate and you are not getting one off me, and if you stand on that crossing and tell anybody in a clean coat that the district works inspected the crossing, I will deny having had a conversation with you." He put the book down on the counter with a finger on the line. "This says a licensed maintainer is admitted to the Green Span hospital crossing on the eighth and ninth to take such measurements as he may name in advance, and that nothing he finds binds the works. There is a column for the measurements. You are to write them in it yourself, in your own hand, and not on a separate paper, and I am going to have a copy of that page in a month, and if the figures in your book and the figures on that page differ then we are going to have a morning about it and I will not enjoy it."
 
 "What may I name in advance," said Orrin Vale.
 
@@ -51,7 +51,9 @@ The kit was a steel rule, a four-inch machinist's level, a straight edge, a plum
 
 You do not measure a drop by sighting. That is the first thing and it is the thing that a man who can see a thing is always wrong about. You take a datum that cannot move, you take the thing that has moved relative to it, and you get the angle between the two with a level, and you turn the level end for end and average the two readings, because a level that reads a twenty-second out when you turn it round is a level that is a twenty-second out and not the bridge.
 
-The datum was already in the ironwork. The tramway's own masons cut a chisel line and two punch marks into the coping stone on the north side when the span was put up in 1911, one foot east of the third bracket, because you have to have somewhere to come back to in forty years and the masons of this city have always been more practical than anybody who has come after them. It is cut in stone. It is three inches long and a sixteenth of an inch deep and it has not moved, and a man with a straight edge and a level can come back to it in nine minutes, and the whole of what happened to that span in the last eleven years is written in the difference between the two ends of that line.
+He could not use the parapet, and it took him the best part of an hour to find out why. The parapet is a wall built in courses, and a wall built in courses is set out from a line that was true when the first course was laid and is not necessarily true now, and the top of it is forty-three years of rain on a coping that was never dressed flat. He put the straight edge on it in four places and it did not agree with itself, which is the answer to a question nobody had asked him.
+
+What he found instead was in the stone, and it took him longer than the measurement did. The tramway's own masons had cut a chisel line and two punch marks into the coping on the north side when the span was put up in 1911, one foot east of the third bracket, because you have to have somewhere to come back to in forty years and the masons of this city have always been more practical than anybody who has come after them. It is cut in stone. It is three inches long and a sixteenth of an inch deep and it has not moved, and a man with a straight edge and a level can come back to it in nine minutes, and the whole of what happened to that span in the last eleven years is written in the difference between the two ends of that line. He found it because it was the only thing on that coping that had not been touched, and the only way to find that is to look at the whole length of a stone and not at the place you came to measure.
 
 What he read, on the Monday, off the third bracket, was this.
 
@@ -60,17 +62,17 @@ What he read, on the Monday, off the third bracket, was this.
 
 And what the works' file said, from two years and three months ago, on the annual line survey, with the engineer's name on it, was this.
 
-> *At the third bracket, span against parapet, three-eighths of an inch.*
+> *At the third bracket, span against the setting-out line, north coping, three-eighths of an inch dropped.*
 
 Three-eighths is twelve thirty-seconds. He wrote the subtraction out in longhand on the coping in chalk, in a hand that a person on a towpath could read from a boat, and Bevin Sarr read it back to him, because a number that only one man can read is not a record and she had known that for eleven years and had been proving it with a painted board in a pump house since long before there was anything to prove.
 
 > *Fifteen thirty-seconds now. Twelve thirty-seconds then. Difference, three thirty-seconds of an inch, in two years and three months.*
-> *Which is a twenty-fourth of an inch a year.*
+> *Two years and three months is two and a quarter years. Three thirty-seconds of an inch set upon two and a quarter years is a twenty-fourth of an inch a year, and he wrote the division out longhand underneath it in case a person on a towpath wanted to do it with a pencil.*
 > *And every figure on this stone can be checked by a person with a rule and a level, in about nine minutes, and does not require anybody to believe anybody.*
 
 And the load, which was the fourth line and was not arithmetic.
 
-Two of the four fixings had been out of their castings for the better part of two years, which the survey already said, and he had the drift in and a lamp on them and he could see it. The third fixing was carrying the conduit alone and had been carrying it for about a year and a half, and the cast iron of the bracket at the fixing holes was grey and pitted and, where the pitting had gone deepest, it was a colour he knew from a different job four days before, because on the Wednesday of the fourth of the fifth month he had looked through a glass at ninety-eight teeth in a going barrel and counted a bright spot the width of a hair where the grease had gone and the tooth had touched steel.
+Two of the four fixings had been out of their castings for the better part of two years, which the survey already said, and he had the drift in and a lamp on them and he could see it. The third fixing was carrying the conduit alone and had been carrying it alone for two years and three months, since the last of the two let go, and the cast iron of the bracket at the fixing holes was grey and pitted and, where the pitting had gone deepest, it was a colour he knew from a different job four days before, because on the Thursday of the fourth of the fifth month he had looked through a glass at ninety-eight teeth in a going barrel and counted a bright spot the width of a hair where the grease had gone and the tooth had touched steel.
 
 Grey iron does not warn. It has no ductility left in it and it does not creep and it does not cry out; it goes from sound to a line of graphite flakes in the length of a breath and then it is in pieces, and the length of the breath is shorter every year the iron is loaded and the shorter it gets the more of the load goes onto the third fixing. That is the whole of the eleven years. A clock tells you a month before and a bridge tells you on the day, and there is no instrument in this city that makes a bridge say it early, and that is not a sentence anybody would put on a printed sheet.
 
@@ -78,7 +80,7 @@ Grey iron does not warn. It has no ductility left in it and it does not creep an
 
 The other half of it was a gauge, and the gauge was on the third floor of the Green Span hospital on the Wednesday morning, and Leda Vale took him up herself and would not leave him with it.
 
-The hospital line carries its pressure along a conduit and the conduit crosses the canal on that trestle, and the district's working figure for the branch is forty to forty-two pounds, and a clock that has not got pressure is a clock that slips, and the third bracket had a weeping joint at the far end of the run because a conduit that has been carried on two fixings and then one for a year and a half has been sitting in a bed it does not fit, and a bed it does not fit leaks.
+The hospital line carries its pressure along a conduit and the conduit crosses the canal on that trestle, and the district's working figure for the branch is forty to forty-two pounds, and a clock that has not got pressure is a clock that slips, and the third bracket had a weeping joint at the far end of the run because a conduit that has been carried on two fixings and then on one for two years and three months has been sitting in a bed it does not fit, and a bed it does not fit leaks.
 
 He read the hospital gauge at twenty past nine on the Wednesday and read it again at half past ten, with the machine in charge of a routine ward round, which is the condition the figure means, because a gauge read with the machine idle is a gauge read in a lie.
 
@@ -95,7 +97,7 @@ The make-up is the part he could not measure and had to be given to him.
 
 "Mr Vale." Leda had the gauge in front of her and she was not reading it; she had stopped reading it when he said the word *tank*. "It is the pumping ward's. It is all the pumping ward's. There is no other tank on this line."
 
-That is the whole of it, and it took him about ninety seconds in a corridor and it is the fourth thing this book has been about since the fifteenth of the first month.
+That is the whole of it, and it took him about ninety seconds in a corridor, and it is the fourth thing he has been writing down since the fifteenth of the first month and the first three are the same thing.
 
 The hospital's clock pressure, the eleven minutes and forty seconds the ward loses, the medicine drawn off a clock that has not got its grip, and a hundred and forty thousand people at the bottom of a tidal basin: all of it is bought by pumping a little harder, out of one tank, in a ward that has been at under two days' reserve since the second of the third month, in a district whose canal front has been drawing four times a night since the seventeenth of the fourth, on a schedule made by nine men with a property qualification who were not able to consult the district and did not consult it.
 

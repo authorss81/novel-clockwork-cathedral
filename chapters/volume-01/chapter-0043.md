@@ -1,6 +1,6 @@
 # Chapter 43 — A Rate, and a Card
 
-The card came back on the Friday the twelfth of the fifth month, four days after the form went in, and it was the four lines, and it was the four lines in the hall's own type, and he had written them out in longhand in the grey book on the Saturday before last as a thing he knew would happen, word for word, with the emphasis where the emphasis goes.
+The card came back on the Friday the twelfth of the fifth month, eleven days after the form went in, and it was the four lines, and it was the four lines in the hall's own type, and he had written them out in longhand in the grey book on the Saturday before last as a thing he knew would happen, word for word, with the emphasis where the emphasis goes.
 
 > *The hall does not keep a record of hours for work that is not part of a certified shift, there being no such hours, there being no such shifts.*
 
@@ -12,7 +12,7 @@ Della Marsh put it on the counter with a book under it, the way she puts everyth
 
 She was right. He had not told her on the counter and she had not told him in the room; Sel Kade had told him, in about ninety seconds, with a sluice key on the table, and it had taken him four days to get here and a fortnight to work out what it was.
 
-He stood at the counter and understood the whole of it, and it is worth setting down in the order he understood it, because he is not a quick man about this kind of thing and it took him about eleven minutes.
+He stood at the counter and understood the whole of it, and it is worth setting down in the order he understood it, because he is not a quick man about this kind of thing and it took him the better part of twenty minutes standing up.
 
 For one year, from the first of the fifth month, forty-one heads are in the Lower Weirs pumping district's standing, in the ordinary class, at the guild's price of two shillings the head, and the hall keeps a record of machines and does not keep a record of hours for work that is not part of a certified shift. Those forty-one heads are now part of a certified shift, because that is what a reinstatement in a form series does, and therefore for one year and for those forty-one heads the four lines on the card are not true.
 
@@ -24,7 +24,7 @@ He wrote all of it in the grey book that night, in the plainest words he could f
 
 > *Fifth month, the twelfth. Four pounds two shillings, paid, and it has bought one year in which the hall's own answer is not true of forty-one named heads, and no person in this city can be made to notice, including me, on any day that is not the day the form expires.*
 
-That is not nothing. He sat with it for a while and let it be not nothing. It is a year in which the Weirs' night crew exist in the civic model in writing. It is not a shift and it is not a wage and it will not bring back eleven years and it will not give anybody back one minute of a lost afternoon, and in about eleven months, or whenever a year from a Monday in the fifth month falls, it will stop, and nobody will be in a room when it stops.
+That is not nothing. He sat with it for a while and let it be not nothing. It is a year in which the Weirs' night crew exist in the civic model in writing. It is not a shift and it is not a wage and it will not bring back eleven years and it will not give anybody back one minute of a lost afternoon, and when the form runs out in the fifth month next year it will stop, and nobody will be in a room when it stops.
 
 He did not write that down. He wrote the first four lines and he underlined the last one and he shut the book, which is a thing he has done about four times in two thousand pages.
 
@@ -78,7 +78,7 @@ He wrote it in the book, all of it, including the eleven pounds, because a thing
 
 ---
 
-The council's room over the chandler's shop on Weir Lane had eleven people in it on the Saturday afternoon, which is the most it has held since the first month, and the reason it was full is a piece of paper on a board outside a pump house that anybody on that stretch can walk out and read, and it took two people saying so at the market on the Friday to fill a room.
+The council's room over the chandler's shop on Weir Lane had eleven people in it on the Saturday afternoon, the thirteenth, which is the most it has held since the first month, and the reason it was full is a piece of paper on a board outside a pump house that anybody on that stretch can walk out and read, and it took two people saying so at the market on the Friday to fill a room.
 
 Wenna Pruitt had the return. She had asked for a copy on the Friday morning, and a ward office will give a copy to anybody who asks and cannot be refused, and she had asked, and she had it in her hand, and she had done the arithmetic twice before she came down, which is what she has done since the first month and what she will be doing in September for the following spring, and the September is the same September it has always been and the year has changed underneath it.
 
@@ -94,7 +94,7 @@ They did not choose. It is the third time this year those two women have been as
 
 Wenna did the September arithmetic on the back of the return, in public, out loud, and that is a thing she does because she says that a set of figures in a hand is a figure and a set of figures said out loud in a room of eleven people is a set of figures somebody can be asked about.
 
-Teo Arden was at the back, and he had been at the back, and Wenna Pruitt had not looked at him once in an hour and a half, and everybody else in the room had noticed and nobody said anything, and they had been not speaking since the ninth of the fourth month, which is nine weeks and four days, and which is the longest they have gone since the first month of the year.
+Teo Arden was at the back, and he had been at the back, and Wenna Pruitt had not looked at him once in an hour and a half, and everybody else in the room had noticed and nobody said anything, and they had been not speaking since the ninth of the fourth month, which is four weeks and six days, and which is the longest they have gone since the first month of the year.
 
 He had a sheet of paper in his hand and he did not put it on the table for the first hour. At about twenty to five he got up and put it on the table in front of Wenna Pruitt, and it was a fair copy in a young man's upright hand of four lines, with a date and a source and a name at the bottom.
 
@@ -109,7 +109,7 @@ He had a sheet of paper in his hand and he did not put it on the table for the f
 
 "Then I will put it up at eight in the morning when the board is empty and I will not tell you, and you will find it, and you may take it down, and we will both know what we have done."
 
-"That is not a method," said Wenna Pruitt, "that is a quarrel, and we said in the second month that we would not settle it and that we would not be the same arithmetic in a year, and it is the fourteenth of the fifth month and we are not the same arithmetic and I have not moved and neither have you, and I will say one thing about your sheet and then I am going to stop."
+"That is not a method," said Wenna Pruitt, "that is a quarrel, and we said in the second month that we would not settle it and that we would not be the same arithmetic in a year, and it is the thirteenth of the fifth month and we are not the same arithmetic and I have not moved and neither have you, and I will say one thing about your sheet and then I am going to stop."
 
 "Say it."
 
@@ -119,7 +119,7 @@ He had a sheet of paper in his hand and he did not put it on the table for the f
 
 "It is the same thing with a date on it," said Wenna Pruitt, and picked up the return, and the hour was up.
 
-He had put it on the board on the Monday morning, and it was on the board on the Monday, and she did not take it down, and neither of them said a word about that either, and that is where the argument stands at the end of the fifth month: open, unresolvable, and correct on both sides, and neither of them has been made a liar and neither of them has got what they wanted, and they had said in the second month in this room that they would not be the same arithmetic in a year, and it is three months and they are not the same arithmetic and both of them were right about that as well.
+He had put it on the board on the Monday morning, and it was on the board on the Monday, and she did not take it down, and neither of them said a word about that either, and that is where the argument stands on the fifteenth of the fifth month: open, unresolvable, and correct on both sides, and neither of them has been made a liar and neither of them has got what they wanted, and they had said in the second month in this room that they would not be the same arithmetic in a year, and it is three months and they are not the same arithmetic and both of them were right about that as well.
 
 ---
 

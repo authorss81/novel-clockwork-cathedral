@@ -2,11 +2,9 @@
 
 The Toll Stair had been washed twice by the rain in ten days and it was chalked on the Tuesday morning of the seventh of the sixth month at six o'clock by a man with a bucket and a board, and Ostrow has done it every morning for nineteen years, and the stair is a stone stair in the Cathedral with a rail down the middle and a wall on one side, and about four hundred people a day go up it and about the same number come down, and it is the one place in Morrowfen where people stop to read things.
 
-Ostrow scrubs it at half past five and chalks it at six. He had a chamois and a lump of chalk and a board he had made himself out of a piece of a shutter, and he is not a clerk and he is not an officer The two new columns had been chalked out on the wall in full for the first time in the life of the stair on the evening of Friday the third of the sixth month, and the Office's note had been in the pumping ward's case since the Friday afternoon, and on the Monday a district works man had measured the gap between the existing columns and the stair wall with a folding rule and it was about two feet, and the two new columns were chalked inside those two feet, and the rule and the chalk were both in the picture, and a stranger could see that they had been done by somebody who had measured.
+Ostrow scrubs it at half past five and chalks it at six. He had a chamois and a lump of chalk and a board he had made himself out of a piece of a shutter, and he is not a clerk and he is not an officer. The two new columns had been chalked out on the wall in full for the first time in the life of the stair on the evening of Friday the third of the sixth month, and the Office's note had been in the pumping ward's case since the Friday afternoon, and on the Monday a district works man had measured the gap between the existing columns and the stair wall with a folding rule and it was about two feet, and the two new columns were chalked inside those two feet, and the rule and the chalk were both in the picture, and a stranger could see that they had been done by somebody who had measured.
 
 ---
-
-He was there at about half past ten on the Tuesday morning because he had gone up to read the notice about the classification — no, there was no classification on that board any more;
 
 So on the Tuesday morning the seventh of the sixth month, at six o'clock, the stair carried four columns.
 
@@ -48,7 +46,7 @@ The stranger looked at the two new columns for a while.
 
 "What is the other one."
 
-"There is no other one. The column is for how much. And no instrument in this city timed how much of that shift the reading took, and I was in the building on the night, and I have had eleven weeks with a rule and a tape and a stopwatch to try to work it out, and I am not going to put a number in that column that I made up, and that is not modesty, that is the only thing I have got to put there."
+"There is no other one. The column is for how much. And no instrument in this city timed how much of that shift the reading took, and I was in the building on the night, and I have had a rule and a tape and a stopwatch and about twenty weeks with them to try to work it out, and I am not going to put a number in that column that I made up, and that is not modesty, that is the only thing I have got to put there."
 
 He heard himself say it and heard how thin it sounded on a stair, and he let it sound thin, because the alternative was a sentence about how much he cared, and there is no column for that either and there never has been.
 
@@ -58,11 +56,11 @@ The stranger turned round and looked at him properly, which nobody on that stair
 
 Orrin Vale stood on the other side of the stair with the chalk still in his hand — he had it because he had come up to do the two new columns at half past six that morning with Ostrow and had put the rule down afterwards and had forgotten about the chalk, and had been carrying it about the Quarter all morning like a man carrying a thing he had no reason to be carrying.
 
-It is not a difficult question. He had been asked it, in effect, by a woman in a stairwell and by a man in a bus and by a man on a landing and by a woman on a wet fourth floor of a block in the Weirs, and he had not answered it in fifty chapters, and the reason he had not answered it is that every answer he had is about one man.
+It is not a difficult question. He had been asked it, in effect, by a woman in a stairwell and by a man in a bus and by a man on a landing and by a woman on a wet fourth floor of a block in the Weirs, and he had not answered any of them, and the reason is that every answer he has is about one man.
 
 "Perry Vance," he said. "Forty-one. He was on the night crew at Weir Two. He went down on his own initiative to close a hand valve that the model had already said was shut, and the pump that should have stopped did not stop, and the Directorate put a notice on the pump house door the next day and every word of it was true."
 
-The stranger said, "Right," and then said the other thing, and it was the thing this book has spent fifty chapters refusing to say.
+The stranger said, "Right," and then said the other thing, and it was the thing nobody had asked him since the fifteenth of the first month.
 
 "How many more?"
 
@@ -84,7 +82,7 @@ On the Wednesday the eighth of the sixth month he was on the second step of the 
 
 The Cathedral's public clock is the clock this city keeps its reference in, and it was the clock he had certified in the first month of the year in two hours and forty minutes with a gauge and a second watch and a sounding board, and it is a good clock and it is right, and the street below it is the busiest in Morrowfen at a quarter to twelve and there were about four hundred people on it and a tram going by and a man selling hot water.
 
-He counted. He counts. It is nineteen years of standing and it is not a superstition and he would be embarrassed to have it called one; it is that a clockmaker who stands under a public clock and does not count is doing something else, and he was doing what he does, and he counted eleven of them, and the last stroke came down through the frame of the door and into the stone, and it had a shove in it.
+He counted. He counts. It is nineteen years of standing and it is not a superstition and he would be embarrassed to have it called one; it is that a clockmaker who stands under a public clock and does not count is doing something else, and he was doing what he does, and he counted nine of them, and the last stroke came down through the frame of the door and into the stone, and it had a shove in it.
 
 Round, and low, and not at all the sound of a wheel. It came up out of the ground under the pavement the way water comes back into a pipe it has been out of, and it arrived the way it has arrived twice before in his life, with eight of them and then one over, and it went on past the tick with a weight on it somewhere he could not name and could not go and find.
 

@@ -1,6 +1,6 @@
 # Chapter 46 — The Review Is Not a Punishment
 
-The room over the chandler's shop on Weir Lane holds about thirty and it is heated by a fire that smokes, and on the Wednesday morning of the twenty-third of the fifth month there were twenty-two people in it and the thing on the table was a process.
+The room over the chandler's shop on Weir Lane holds about thirty and it is heated by a fire that smokes, and on the Tuesday morning of the twenty-third of the fifth month there were twenty-two people in it and the thing on the table was a process.
 
 They had a chair from before the war that was given up at nine and not taken back, and a tea urn that belonged to the landlord and was not theirs, and a table with a ring on it from a wet glass in the second month of the year.
 
@@ -40,7 +40,7 @@ Wenna Pruitt wrote that one and did not read it out, and the reason she did not 
 
 ---
 
-The review was held on the Friday the twenty-fifth, from eleven to twelve ten, in the same room, with about thirty people in it, and there was no bar, and there was a minute taken by a woman of about sixty with a shorthand book who is not in the council and was paid eleven shillings for it out of a tin that had been empty since the first week of the fourth month.
+The review was held on the Thursday the twenty-fifth, from eleven to twelve ten, in the same room, with about thirty people in it, and there was no bar, and there was a minute taken by a woman of about sixty with a shorthand book who is not in the council and was paid eleven shillings for it out of a tin that had been empty since the first week of the fourth month.
 
 Nobody was punished. Nothing was overturned. The diversion had been ended eleven weeks ago by the district works on the works' own tables, before this meeting was called, and the process being built could not have stopped it and did not claim to have.
 
@@ -58,7 +58,7 @@ The chandler asked her, because he is a courteous man and because nobody had tho
 
 ---
 
-The finding was read out at ten past twelve on the Friday the twenty-fifth of the fifth month by the woman with the shorthand book, and it is the whole of what came of the first review ever held of a warden of the Lower Weirs pumping district, and it is four paragraphs, and it is now on a board outside a pump house in chalk in a copyist's hand and a copy of it is in the council's file and a copy of it went to the district works on the canal road on the following Monday, and nobody has thanked anybody.
+The finding was read out at ten past twelve on the Thursday the twenty-fifth of the fifth month by the woman with the shorthand book, and it is the whole of what came of the first review ever held of a warden of the Lower Weirs pumping district, and it is four paragraphs, and it is now on a board outside a pump house in chalk in a copyist's hand and a copy of it is in the council's file and a copy of it went to the district works on the canal road on the following Monday, and nobody has thanked anybody.
 
 > *That the diversion of the ward's reserve to the Carrow Street main, commenced on the second of the third month and ended on the nineteenth of the fifth month, was a decision of the warden's and not of the works, and that the works is not to be found against, the works having no function in the question and having ended the diversion on its own tables eleven weeks before this review.*
 >
@@ -72,7 +72,7 @@ The finding was read out at ten past twelve on the Friday the twenty-fifth of th
 
 "The finding is against me," said Sel Kade, "and it is right, and it is in the words I used in this room on the tenth of the fourth month in about the third minute of my speech, and I have been waiting eight weeks for a room in this city with the power to say it out loud and to put it on a wall, and I am not going to pretend to you this morning that I am not glad, and I am not going to pretend to you either that I would have written clause two or that anybody asked me to."
 
-She was not recruited and she was not converted and she was not the villain and she did not cry, and she said the last thing she said in that room in about eleven seconds and it is the whole of the woman.
+She was not a woman who was going to be got at, and she did not cry in a room over a shop, and she said the last thing she said in that room in about eleven seconds and it is the whole of her.
 
 "I am not going to be thanked and I would like it minuted that I do not intend to be thanked, and if the minute says otherwise the minute is wrong. I moved a reserve in the second month to keep water out of forty kitchens on a street that floods because of a gate, and the works on that street is the reason the street floods, and I did the thing I did and I would do it again in a flood and I would not do it again in a spring, and both of those are in this finding because I asked for one of them to be."
 
@@ -82,7 +82,7 @@ Then she went, because she had a sluice key and a bank and a shift, and she was 
 
 The consequences of it came out over the weekend and none of them were about the finding.
 
-The galvanising and wire works on the Carrow Street main was shut from noon on the Friday the nineteenth and had not restarted by the Saturday the twenty-sixth, and its certificate of the twenty-ninth of the second month — the certificate that says the main is not to be shut, signed by the works, on a works' file, four feet from the table on which the tables that ended the diversion are kept — is not being complied with, and no body in this city has the power to make those two documents agree with each other.
+The galvanising and wire works on the Carrow Street main was shut from noon on the Friday the nineteenth and had not restarted by the Friday the twenty-sixth, and its certificate of the twenty-ninth of the second month — the certificate that says the main is not to be shut, signed by the works, on a works' file, four feet from the table on which the tables that ended the diversion are kept — is not being complied with, and no body in this city has the power to make those two documents agree with each other.
 
 Ivy Pike put that on the table on the Saturday morning and nobody could answer it and nobody pretended they could.
 
@@ -94,17 +94,17 @@ The chandler said it, and he said it flatly, to the room and not to anybody.
 
 "I have a function in a water schedule and none in a galvanising works. I have been in this room an hour and a quarter this morning and I have not been able to help anybody, and I would like it minuted that I am a chandler and that this is not my room in any sense that matters, and that in about four years, when one of you tells a council that the Weirs hold reviews, somebody is going to stand up in front of about forty people and ask what the review is *for*, and there had better be an answer on a board somewhere and not in a head."
 
-The answer, when it came, was the four paragraphs in chalk on a board outside a pump house on the canal road, put up on the Saturday afternoon of the twenty-sixth of the fifth month in a copyist's hand, in full, with the date on it, and a copy of it in the council's file and a copy of it on the district works' desk on the Monday morning.
+The answer, when it came, was the four paragraphs in chalk on a board outside a pump house on the canal road, put up on the Friday afternoon of the twenty-sixth of the fifth month in a copyist's hand, in full, with the date on it, and a copy of it in the council's file and a copy of it on the district works' desk on the Monday morning.
 
-The Advertiser page was eleven shillings and it did not happen, and the argument about that was had on the Saturday in about nine minutes and was not resolved, and has not been resolved, and Teo Arden said the whole of his side in one sentence — *a printed page has no address, it cannot be served, it cannot be refused, and there are thirty-one people on Bellweather Road who would read it and nine hundred who would not, and both of those are the same page* — and Wenna Pruitt said the whole of hers in another, which was that a page costs eleven shillings and the tin is empty, and that the tin being empty is the reason the process exists at all, and that she is going to be doing the arithmetic in September for the spring as she does every year, and that the September is the same September and the year has changed underneath it.
+The Advertiser page was eleven shillings and it did not happen, and the argument about that was had on the Saturday in under ten minutes and was not resolved, and has not been resolved, and Teo Arden said the whole of his side in one sentence — *a printed page has no address, it cannot be served, it cannot be refused, and there are thirty-one people on Bellweather Road who would read it and nine hundred who would not, and both of those are the same page* — and Wenna Pruitt said the whole of hers in another, which was that a page costs eleven shillings and the tin is empty, and that the tin being empty is the reason the process exists at all, and that she is going to be doing the arithmetic in September for the spring as she does every year, and that the September is the same September and the year has changed underneath it.
 
 And then, at about half past four on the Saturday afternoon, in the doorway of the room over the shop, with the chalk still in the copyist's hand and the finding going up on the pump house board at five, a thing happened that nobody had planned and that one clause made possible.
 
-Dilly Amnersley did not look at Teo Arden for the whole of the Friday or the whole of the Saturday, and she was in the room for both, and he was in the room for both, and they had been in the same room on the Thursday of the fourteenth of the fourth month on a wet fourth-floor landing with a bucket under a pipe, and a landlord of fifty-four and a woman of sixty-six and a clockmaker of thirty-two had all three said on that landing that it was the bracket on her riser and not the dark and not the clocks, and nobody in this city has said one word about it since except in the two minutes it took to say it.
+Dilly Amnersley did not look at Teo Arden for the whole of the Thursday or the whole of the Friday, and she was in the room for both, and he was in the room for both, and they had been in the same room on the Friday of the fourteenth of the fourth month on a wet fourth-floor landing with a bucket under a pipe, and a landlord of fifty-four and a woman of sixty-six and a clockmaker of thirty-two had all three said on that landing that it was the bracket on her riser and not the dark and not the clocks, and nobody in this city has said one word about it since except in the two minutes it took to say it.
 
 She said it in the doorway, in about nine words, to him, and it was not forgiveness and she did not offer it and she was not thanked for it and it was not put in the minute.
 
 "I did not come here about the ceiling," said Dilly Amnersley.
 
-And she went out into Weir Lane to get her cardigan on over her arm because it was raining, and Teo Arden stood in a doorway over a chandler's shop and did not follow her, and the finding went up on the board at five o'clock on the Saturday the twenty-sixth of the fifth month, and it is the first thing on that board that is a finding about anybody instead of a notice about water.
+And she went out into Weir Lane to get her cardigan on over her arm because it was raining, and Teo Arden stood in a doorway over a chandler's shop and did not follow her, and the finding went up on the board at five o'clock on the Friday the twenty-sixth of the fifth month, and it is the first thing on that board that is a finding about anybody instead of a notice about water.
 

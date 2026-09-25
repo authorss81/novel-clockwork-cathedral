@@ -1,6 +1,6 @@
 # Chapter 48 — Four Lines
 
-The document went up on the licensing floor of the Guild of Horologists on the Monday the twenty-eighth of the fifth month at about two in the afternoon, because paragraph eight of it said the licensing floor of this hall was one of four places, and nobody in that building had any power to stop a sheet of foolscap being put on their own wall, and by the Wednesday morning of the first of the sixth month it had been on the wall for two days and about four hundred people had walked past it and the hall's own master had read it twice and declined to sign it in front of twenty people in a pump house four miles away.
+The document went up on the licensing floor of the Guild of Horologists on the Monday the twenty-ninth of the fifth month at about two in the afternoon, because paragraph eight of it said the licensing floor of this hall was one of four places, and nobody in that building had any power to stop a sheet of foolscap being put on their own wall, and by the Wednesday morning of the first of the sixth month it had been on the wall for two days and about four hundred people had walked past it and the hall's own master had read it twice and declined to sign it in front of twenty people in a pump house four miles away.
 
 Gerren Hask did it on the Wednesday the first of the sixth month at ten in the morning, on the licensing floor, standing at the counter, in front of about thirty people, and he did not do it with a question.
 
@@ -28,7 +28,7 @@ Then he read it out. He read it out himself, standing at the counter, in his own
 >
 > *4. That this hall does not find that the holder acted in bad faith; and it is determined that the licence of the holder be suspended in accordance with the standing orders of this hall; and that the term of the licence is not altered by this determination; and that the licence expires on the nineteenth of the third month next year.*
 
-Nobody applauded and nobody cheered and about four people in that room did not breathe for a moment. The hall's oldest clerk put her hand flat on the counter. Orrin Vale heard line four twice and only understood the whole of it the second time, and what the whole of it was, is this: nobody had shortened his clock. His licence still ran until the nineteenth of the third month next year, four months off, and a master had moved before his own expiry by four months, on his own signature, in front of thirty people, in four true lines, and there was nothing in the world to appeal it to and no date anywhere in the year at which it might have been better for him.
+Nobody applauded and nobody cheered and about four people in that room did not breathe for a moment. The hall's oldest clerk put her hand flat on the counter. Orrin Vale heard line four twice and only understood the whole of it the second time, and what the whole of it was, is this: nobody had shortened his clock. His licence still ran until the nineteenth of the third month next year, nine months and a bit off, and a master had moved before his own expiry by the best part of a year, on his own signature, in front of thirty people, in four true lines, and there was nothing in the world to appeal it to and no date anywhere in the year at which it might have been better for him.
 
 "Thank you, Master," he said.
 
@@ -38,7 +38,7 @@ It was the same Della Marsh who had said *don't*, four times, since the first of
 
 ---
 
-Then he read the second thing, and the second thing is the part of this chapter that the volume of the future is built on, and it took eleven minutes and it had three parts, and every part of it was the guild's own standing orders operating correctly on a guild master.
+Then he read the second thing, and the second thing is the part that everything after this rests on, and it took eleven minutes and it had three parts, and every part of it was the guild's own standing orders operating correctly on a guild master.
 
 "Where a master of this hall declines a certification which the ordinance permits him to make, the master's class is subject to review, and the master's class is determined by the licensing floor, and the determination is published." He read it out of a book and not out of his own head, which is what a man does when he wants the room to be able to look it up. "I declined a certification on the thirtieth of the fifth month. I declined it for a reason I gave in a pump house and the reason is on a sheet of foolscap on the wall of this hall, and I stand by the reason and I am not going to pretend that I declined it for any other."
 
@@ -62,7 +62,7 @@ He put the sheet down and squared it, and did not shake anybody's hand, and went
 
 The other two things in the settlement were not the guild's and were not done on the Wednesday.
 
-The district works' schedule of maintenance works for the Lower Weirs pumping district has nine items and an interval at item ten and it was adopted on the twenty-second of the fourth month for £4 202 10s 6d and raised to £4 613 18s 6d on the twenty-eighth of the fourth. Item one is *Weir Two, second stage: bearing renewal and re-alignment of the gate-handling line, £412 6s, programme year three.*
+The district works' schedule of maintenance works for the Lower Weirs pumping district has nine items and an interval at item ten and it was adopted on the twenty-second of the fourth month for £4 202 10s 6d and raised to £4 613 18s 6d on the twenty-seventh of the fourth. Item one is *Weir Two, second stage: bearing renewal and re-alignment of the gate-handling line, £412 6s, programme year three.*
 
 It was brought forward into the current programme year on the Wednesday the first of the sixth month, by a variation, in about nine minutes, on a sheet at a counter, by a man who is about thirty and has been at that counter for eleven years and who refused correctly and to whom nothing whatever was done, and who did not make a speech about it, and whose name is on the variation, and who was thanked by nobody including the person it was for.
 
@@ -79,7 +79,7 @@ The fifth name on a night board at Weir Two has been a boy who cannot be entered
 
 The toll ledger went into a case on the wall of the outer room of the pumping ward on the canal road on the Friday the third of the sixth month at about two in the afternoon, and the case has a glass in it and a lock and the key is on a string and the string is on the counter and anybody in the district may ask for the key, and there is a chair in that room for a person who wants to sit and read it, and there is a book of pencil and a book of ink on the ledge.
 
-It is the Office of Public Reckoning's requirement, and the Office required it on the strength of its own audit and it needed no vote from anybody, because the Office audits tolls and a toll is a thing a city is obliged to have written down somewhere, and the Office's requirement is one line and it is the first line in this book that anybody has ever written down:
+It is the Office of Public Reckoning's requirement, and the Office required it on the strength of its own audit and it needed no vote from anybody, because the Office audits tolls and a toll is a thing a city is obliged to have written down somewhere, and the Office's requirement is one line and it is the first line anybody in this city has ever written down about a person:
 
 > *That every body toll recorded by any body in this city be recorded with the name of the person, and with the duration of the interval; and that where no instrument recorded the duration, the column shall be left empty and shall not be filled by inference.*
 
@@ -91,7 +91,7 @@ And the ledger has two sets of columns, and the first two are old, and the secon
 > | 26 | Clockwork Quarter | | | |
 > | | | | VANCE, P. | |
 
-And the head of the book carries a headnote in the Office's own type, and it is printed on the inside cover and it is the sentence the whole of the last year of this book has been walking towards, and it is five lines long, and it is this:
+And the head of the book carries a headnote in the Office's own type, and it is printed on the inside cover and it is the sentence the last year has been walking towards, and it is five lines long, and it is this:
 
 > *The four columns at the head of this book are the city's toll ledger. The first two carry the minutes taken from a district's clocks and the district they were taken from, and have been kept in public for forty-three years, and the stair on Cathedral Rise carries them in chalk every morning of the world.*
 >
@@ -109,10 +109,10 @@ Orrin Vale shut the shop on the Friday the third of the sixth month at six, and 
 
 > *Sixth month, the third. Suspended. Certifying a district toll with no standing to certify it, in a room, in daylight, on a sheet, with my name on it and the reason in my own hand on the same sheet.*
 >
-> *My licence runs to the nineteenth of the third month next year and nobody has moved that date and nobody has shortened my clock, and a master has done a thing four months before he had to, in four true lines, at a counter, in front of thirty people, and it is the correct use of a well-run system and I would not be able to explain to anybody why it is not.*
+> *My licence runs to the nineteenth of the third month next year and nobody has moved that date and nobody has shortened my clock, and a master has done a thing nine months before he had to, in four true lines, at a counter, in front of thirty people, and it is the correct use of a well-run system and I would not be able to explain to anybody why it is not.*
 >
 > *I cannot certify a civic machine. I can still clean a barrel and bush a wheel and beat a clock to a rate, and there is a lease on two benches in Verge Lane that runs to Michaelmas, and there is a woman of sixty-six who winds four clocks on a Monday, and a man with a bar in the Weirs who will not be thanked, and a copyist in a front room three doors down from me who is owed eleven shillings and has asked for a lease and a wage a month and has not been given either.*
 >
 > *Nothing of mine went out of that room without a person named who could refuse it. That is the only line I have got out of the whole of the year and I have got it the hard way and the price of it is on a sheet in four places, and I would do the hour again, at six in the morning, in front of the people it is done to.*
 
-The man who could have written the number next to Vance's name is in that entry, and so is the man who could have written nothing, and those are the same man, and the book does not say which it was.
+The man who could have written the number next to Vance's name is in that entry, and so is the man who could have written nothing, and those are the same man.

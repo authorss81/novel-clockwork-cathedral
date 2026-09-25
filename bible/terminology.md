@@ -210,7 +210,13 @@ A quick unofficial re-run of a Reading made to reassure a frightened public with
 
 ### Non-certified standby
 
-Guild bookkeeping for work that keeps a machine running but is not part of a certified shift. It is how a night pump crew is written off the books as not existing, which is how Perry Vance's crew was removed from the model. An inspector's phrase, and the phrase Orrin learns to search for.
+Guild bookkeeping for work that keeps a machine running but is not part of a certified shift. It is how a night pump crew is written off the books as not existing, which is how Perry Vance's crew was removed from the model. An inspector's phrase, and the phrase Orrin learns to search for. **On the page in Chapter 2**, as one line in a copying clerk's hand in the hall's labour book: *Weir Two, night pumping, non-certified standby, 1 crew, 3 nights.*
+
+### Standing withdrawal
+
+The guild request that removes a district's or a crew's standing from the civic model, recorded as work not done because there was no money to pay for doing it. Requested on a numbered form in the guild's own series, in the maintenance-deferred class, and priced per head per year. It is the paper side of the omission that the Censor Gate performs mechanically: the form says a crew was not there, the machine then has nothing to represent, and the hours become a saving. **On the page in Chapters 8 and 10.** The form series prefix is the guild's; the class number is fixed; the price schedule is the hall's own property and is not ashamed of itself. The withdrawal is lawful, priced, signed, and — this is the point — never described as a withdrawal anywhere a district would read it.
+
+A standing withdrawal requires a countersignature from the affected district, which is how a district that has no standing still ends up with its name in the record. It also generates a routing card, because a transfer out of the public record has to be registered or the public record would simply have holes in it. **The routing card goes to the guild, the affected ward, the Continuity Office inspection file, and one public-health rota, and a rota is a list of volunteers' names.** That is how a woman on a rota ends up signing at a witness rail and on a routing card four removes apart from a night crew, and nobody connects them for twenty years.
 
 ### Continuity movement
 

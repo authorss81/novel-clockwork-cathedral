@@ -50,13 +50,15 @@ The instruction was: shut the hand valve before you start the stage.
 
 And the hand valve was open, because a man had opened it in the dark in June to keep a cellar from filling, and had written nothing down, because the form for that is the same form as everything else here and the form is a courtesy.
 
-He heard it in the pipe. He heard it in the frame. And then, in the middle of the afternoon, with his hand flat on the second stage's case and the water climbing the white marks, the ninth beat came up through the floor.
+He heard it in the pipe. He heard it in the frame. And then, before eleven, with his hand flat on the second stage's case and the water climbing the white marks, the ninth beat came up through the floor.
 
-It was the same shove he had felt in the crown case at the Cathedral, the low round knock of water finding a pipe again — but here it was not a noise under a machine, it was a pull. It came in and it did not stop, it went on past the tick and kept leaning, the way a rope leans when something on the far end of it is heavier than the weight of the rope, and what it leaned toward was the second stage and midnight and a thing that had not happened yet, and for about four seconds Orrin could feel the shape of a night he had never seen, running, with a machine that would not stop and a man's hands on a wheel.
+It was the same shove he had felt in the crown case at the Cathedral, the low round knock of water finding a pipe again, and it belonged to no part of this room any more than it had belonged to that one. Here it was not a noise under a machine. It came in and it did not stop, and it went on past the tick and leaned, the way a weight leans on a scale that has already decided, and what it leaned on was not the stage under his hand and not the water climbing the wall but somewhere else, and heavier there than it was here, and there is no instrument in Morrowfen that will tell a man where.
+
+It gave him nothing else. No night in it, no picture of anything, and not one word, and it lasted about four seconds, and after it there was nothing in him that felt used.
 
 Then it went, and the pump turned over, and the room was a room again.
 
-He sat down on the step outside with his back to the wall and his ears full of the room's noise, and understood with total clarity that he had just been told a future, and that he had no way on God's earth to write it down.
+He sat down on the step outside with his back to the wall and his ears full of the room's noise, and understood that he had it twice in two days, once in a cathedral and once in a pump house, under two machines that were each doing their job perfectly, and that both times it had been about a place and not about a machine, and that the first time he could have written a fault and did not, and that the second time there was nothing at all to write.
 
 ---
 

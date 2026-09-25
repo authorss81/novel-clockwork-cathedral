@@ -2,7 +2,7 @@
 
 The afternoon was the strangest of his life, and he could not have said why at the time.
 
-He had got in at ten past five with a clean certificate and a fee receipt in his coat, and had not taken his coat off since the Hill, and the bench was there, and the vice was there, and the list was on the board, and every single thing on the list was a machine that a person had paid him to fix. Market scale, done. School bell, done. Ropeworks work clock, done on the day before. Four clocks in the Saturday row, two tap repairs, a regulator to look at for a man in Northglass who had been waiting a week.
+He had got in at ten past five with a clean certificate and a fee receipt in his coat, and had not taken his coat off since the Hill, and the bench was there, and the vice was there, and the list was on the board, and every single thing on the list was a machine that a person had paid him to fix. Market scale, done. School bell, done. Ropeworks work clock, done on the Monday. Four clocks in the Saturday row, two tap repairs, a regulator to look at for a man in Northglass who had been waiting a week.
 
 He stood in the middle of his own shop with his coat still on and found that he did not want to do any of it, and could not have told a client.
 

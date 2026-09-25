@@ -112,7 +112,7 @@ The young man put it down. Nobody followed it up. Nobody in that room had any st
 
 They took the Weirs tram at four, and the district was on time.
 
-That was the sentence Orrin heard in every kitchen on the lane as they walked down it. *We're on time. We're on time, we fixed it Monday night, we're on time.* And the chandler's window said a quarter past two when the sky outside said one o'clock, and the nine of them who had held the rate and lost an hour of their Tuesday morning had it back, and the ward had its forty minutes back, and nobody in the district had any idea that those two things had been connected, and Orrin did not say so, because it was not his to say, and because Bevin Sarr said it to him first, in the lane, without being asked.
+That was the sentence Orrin heard in every kitchen on the lane as they walked down it. *We're on time. We're on time, we fixed it Saturday night, we're on time.* And the chandler's window said a quarter past two when the sky outside said one o'clock, and the nine of them who had held the rate and lost an hour of their Sunday morning had it back, and the ward had its forty minutes back, and nobody in the district had any idea that those two things had been connected, and Orrin did not say so, because it was not his to say, and because Bevin Sarr said it to him first, in the lane, without being asked.
 
 "You'll be at the hearing," Sel Kade said. She was standing in the doorway of the pumping ward office in a coat, going out, on her way to a tenants' meeting about a different drain. "The committee. You'll be there."
 
@@ -128,7 +128,7 @@ That was the sentence Orrin heard in every kitchen on the lane as they walked do
 
 The bench at ten past nine, the last bell gone, the Quarter keeping its perfect time.
 
-Orrin took the grey book down and turned to the page with the long entry in it, the one he had written in the small hours on Tuesday morning, and read it over, and it was all true, and it was a load report.
+Orrin took the grey book down and turned to the page with the long entry in it, the one he had written in the small hours on Sunday morning, and read it over, and it was all true, and it was a load report.
 
 He took a fresh page, and ruled it the way he had ruled six years of pages, in the two columns he had always used: hours against work. Then he put the pencil on the first line and set down, in the second column, *17th, 20.00–04.30, Weir Two second stage, 8h30* — and stopped with the nib still on the paper, because that was how a man is entered on a shift board, and that was how the man had been entered on the guild's book for twenty years, and it was a line about hours, and he was trying to write a line about a man.
 
@@ -150,7 +150,7 @@ Then he went back four pages to the entry of the seventeenth and copied the two 
 
 *Street clock, Halloway Street, found: 5 minutes slow. 2 of them charged to nobody, drawn from the same reserve, appearing in no receipt, no entry, no hand's writing, and not knowable from any document in this city.*
 
-*Monday night, the trestle: the district's morning an hour short. Eleven people, a ward, forty minutes, two hours unbudgeted. Nobody charged. Nobody.*
+*Saturday night, the trestle: the district's morning an hour short. Eleven people, a ward, forty minutes, two hours unbudgeted. Nobody charged. Nobody.*
 
 He looked at the two lines for a long time.
 
@@ -162,7 +162,7 @@ Under the two lines, in a hand that got smaller as it went, he put this:
 
 *The three and the five do not agree, and the difference is not mine and is not anybody's and is not on any document. 3 is what was charged. 5 is what it cost. I cannot account for the 2, and I have asked four people, and the answer in every case was that a hand correction is not a toll. So either the stair is wrong, or the city has been correcting its own clocks out of somewhere it has never written down, and I know which of those I believe, and I am writing it down here because I am the only ledger in this city that nobody can read.*
 
-Then he turned back three pages, to the entry he had made in the small hours of Tuesday on the trestle, and read the last line of it again, because it was the first rule he had ever set himself and he wanted it where he could not get at it.
+Then he turned back three pages, to the entry he had made in the small hours of Sunday on the trestle, and read the last line of it again, because it was the first rule he had ever set himself and he wanted it where he could not get at it.
 
 *Nothing of mine is used again without its blind margin and its toll named in public, in a room, to somebody who can object.*
 
@@ -182,4 +182,4 @@ Orrin put the kettle on, and looked at the case, and thought that there was a fo
 
 Eight weeks. He could wait eight weeks, or he could not.
 
-He took out the grey book again, and turned to a clean page, and set the number of the form at the top of it in a hand that did not shake, because it was the first time in three weeks that his hand had been entirely steady.
+He took out the grey book again, and turned to a clean page, and set the number of the form at the top of it in a hand that did not shake, because it was the first time in three days that his hand had been entirely steady.

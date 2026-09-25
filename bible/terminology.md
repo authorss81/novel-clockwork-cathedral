@@ -52,6 +52,10 @@ The public stairway in the Cathedral where operators display the minutes spent f
 
 ## Reading language
 
+### The ninth beat
+
+A low, round, sourceless pulse that arrives under a machine in Morrowfen and counts one over: eight, and then a ninth, coming up through a floor, a frame, or a case, with the wet sound of water coming back into a pipe it has been out of. It is heard exactly twice in the prose, in Chapter 1 under the Cathedral's crown case and in Chapter 3 through the pump house's own line, and never again inside Volume 01. It is **not a stage, not a power, and not Aftershock**, and the two must never be fused on the page: Aftershock is a load that answers a question asked in plain words about a named load, and it costs a keeper's toll every time, whereas the ninth beat answers nothing, predicts nothing, and costs nothing. On the page it leans — it goes on past the tick with a weight on it somewhere Orrin cannot name or locate — and it gives no picture of anything, no night, no face, and not one word. It is the volume's title and it stays unexplained through Chapter 50. Never write it as a prophecy, as a vision, as a warning, or as a free reading; nobody else in Morrowfen ever hears it.
+
 ### Trace
 
 The strongest mechanically supported result under current conditions. A trace is still conditional. If the pressure changes, the trace changes.
@@ -481,3 +485,29 @@ Do not use: status, skill, level, quest, XP, cooldown, health bar, currency, API
 - Use “pressure” for likelihood and “consequence” for the result. Do not describe the machine as “predicting” unless a character is speaking imprecisely.
 - A blind margin is an omission, not a hidden stat waiting to be unlocked.
 - If a term is newly revealed, show it through a physical object, job task, legal argument, or consequence before giving a long definition.
+
+## On-page objects and minor names
+
+Registered by the writer phase and maintained by the fix pass. These are things and people that exist in Chapters 1–10 as written and that a later batch may refer to without re-deriving.
+
+### The Long Nine regulator
+
+The eighteen-year-old governor Gerren Hask brings to Vale's Bench in Chapter 2 and asks Orrin to reduce to unrecorded scrap. It is not damaged: it was stopped mid-travel on purpose with a tool, the pin teeth are engaged, there is a dent in its flank, and the jaw marks on it are a bar's. Orrin refuses to scrap a regulator with a cut pin and takes it home, where it stands in a cloth on the shelf behind the bench, behind the private ledger, in no book anywhere in the city. **No character calls it a Long Nine part.** On the page it is *the regulator* and *a governor*, and its age and its night are Orrin's reading; Hask never confirms either. Hask is never asked about the Long Nine in Volume 01.
+
+### The hall's labour book
+
+The guild hall's book of shift totals — ruled, quarto, dates, works, hours, copied up fair for the tax man. In Chapter 2 one line in it is in a different, smaller, harder-pressed, wrongly slanting hand: *Weir Two, night pumping, non-certified standby, 1 crew, 3 nights*, entered on a day when the ink above it has a Sunday in it. In Chapter 10 the hall's four-line answer to the Office is the defence of this book: the hall keeps a record of machines and not a record of hours for work that is not part of a certified shift. The book and the answer are both true, and a later batch must not quietly contradict either.
+
+### Petrossian
+
+The clockmaker whose wall of lathes is in Vale's Bench and whose grandfather overhauled the Cathedral movement before Orrin was born. Named twice in Chapter 1 and never on the page as a living character. He is a debt, not a person, and he does not appear, write, or send anything in any volume without a deliberate decision.
+
+### Ostrand
+
+Ivo Pell's assistant and the record keeper at the witness rail in Chapter 4, copying notices into a ledger the size of a paving stone and not wishing to be asked a single question. Minor. Do not promote him.
+
+### Ostrow
+
+The Toll Stair chalker named by Mara Venn in Chapter 10: the man with the bucket and the board who writes a district's figure on the stair each morning and scrubs it off at half past five, which is the whole of the chapter's argument about chalk. One line, no scene, not the guild's man.
+
+**Ostrand and Ostrow are two different men**, in two different districts, and the near-collision is deliberate-looking and accidental. Do not merge them, do not correct either spelling, do not let one appear in the other's company, and do not let a later batch promote Ostrow into a scene in the Question Hall or Ostrand onto the Toll Stair.

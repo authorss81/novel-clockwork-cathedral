@@ -2,11 +2,11 @@
 
 The young man by the pump house had been awake for two nights and had better information about the death than Orrin did, and did not appear to have the slightest intention of giving it to him.
 
-He was standing with his back to a wall and his hands in the pockets of a coat that had been let out at the elbows twice, and he had the narrow, spatulous look of somebody who has been measuring adults against a standard they do not meet. When Orrin came up the slipway he did not move, and when Orrin stopped he said, without preamble, "You were the crown case man."
+He was standing with his back to a wall and his hands in the pockets of a coat that had been let out at the elbows twice, and he had the narrow, pinched look of somebody who has been measuring adults against a standard they do not meet. When Orrin came up the slipway he did not move, and when Orrin stopped he said, without preamble, "You were the crown case man."
 
 "I was."
 
-"Certify a bell. That's what the crew said you were doing, up the hill, the day before." He took his hands out of his pockets. They were filthy to the wrist and one of the nails was split. "Perry told me about you. He said the clock man was a decent sort who came down on a bad job because they were cheap. He said that about you at about two in the morning on the day before, and he was pleased about it, which I thought was a strange thing to be pleased about, and now I know it was the last time he was going to be pleased about anything."
+"Certify a bell. That's what the crew said you were doing, up the hill, the Monday before last." He took his hands out of his pockets. They were filthy to the wrist and one of the nails was split. "Perry told me about you. He said the clock man was a decent sort who came down on a bad job because they were cheap. He said that about you at about two in the morning on the night of the seventeenth, and he was pleased about it, which I thought was a strange thing to be pleased about, and now I know it was the last time he was going to be pleased about anything."
 
 "I wasn't inside."
 
@@ -36,7 +36,7 @@ Nobody came.
 
 "Three minutes."
 
-"Three minutes." The boy laughed once, with no amusement in it at all, in the way you laugh at a man who has measured a flood. "Perry worked forty-one minutes a week he wasn't paid for, and nobody has ever once read that out. Three minutes. That's the price of the bridge. I want you to understand that I am not saying you're a murderer, because everybody's already decided you're a murderer down at the shed, and if I start there then we're two people shouting. I'm saying that the number is on the door, and the number is three, and the man is Perry, and the machine that put one of them there is the machine you went and asked."
+"Three minutes." The boy laughed once, with no amusement in it at all, in the way you laugh at a man who has measured a flood. "Perry worked an hour a week he wasn't paid for, and nobody has ever once read that out. Three minutes. That's the price of the bridge. I want you to understand that I am not saying you're a murderer, because everybody's already decided you're a murderer down at the shed, and if I start there then we're two people shouting. I'm saying that the number is on the door, and the number is three, and the man is Perry, and the machine that put one of them there is the machine you went and asked."
 
 "Yes."
 
@@ -158,7 +158,7 @@ The tram slowed for the corner by the chandler's shop, which it always did, and 
 
 Not a question, quite. It came through a closed window at a walking pace and it was already going past, and he had about a second and a half in which to say four things, and he said the first one that came into his mouth, which was, "I'm sorry," which is useless, and she was gone, and the tram took her on around the corner into the Weirs.
 
-He lifted a hand from the door frame after she had gone. A small thing, a piece of courtesy, the kind of thing a man does for a neighbour's child, and it was for nobody, and he knew that, and he stood in the doorway with his hand still up.
+He lifted a hand from the door frame after she had gone. A small thing, a piece of courtesy, the kind of thing a man does for a neighbour's child, and it was for nobody, and he knew that, and his arm was still up when the tram had gone round the corner into the Weirs.
 
 He stood in the doorway with his hand still up.
 

@@ -54,7 +54,6 @@ Nobody spoke for a moment. Teo Arden, from his post by the door, said, "That is 
 
 ---
 
-
 Leda came on the tram from Green Span at half past ten with a lamp of her own and a folded chart and the particular cold fury of a competent woman who has been told a thing is fine by a machine.
 
 The ward's three clocks had gone out of one another. The public clock on the corridor wall, the staff clock at the nurses' office, and the little ward clock by the door, which is the one the medicine is drawn off, and they had been in agreement on Friday and were now eight minutes apart from each other, and the two of them that were wrong were wrong in opposite directions, and the medicine round on the little one was being written on a slip that was also timed by a bell on the main line, so a dose could be given at a moment the building had two opinions about.
@@ -127,7 +126,7 @@ Teo's men had a bearing block off a dead tram bogie and a length of conduit stra
 
 The third fixing came out at ten past one with a hammer and a drift, and the bracket came with it in three pieces, and the cast iron was grey inside and full of pits, and Orrin put it in Sarr's hand without a word and she looked at it and said, "Two years of that and you'd have a bridge on the canal," and handed it back, and neither of them said anything else about it for a long time.
 
-The new block went in at half past three. He shimmed it by ear and by tape, and then he did the thing that he would spend the rest of his life arguing was the only moral act of repair there is, and which cost him the second of his two charges: he put a sacrificial plate on the front of the bracket, a plain flat plate of soft iron, not to hold anything, but so that when the load came back it would find a plate to bend instead of a fixing to pull, and he told them what it was for, and made the boy who put it in write his own name on the back of it, because a ward that names its sacrificial plate is a ward that can find out later who owns it.
+The new block went in at half past three. He shimmed it by ear and by tape, and then he did the thing that he would spend the rest of his life arguing was the only moral act of repair there is: he put a sacrificial plate on the front of the bracket, a plain flat plate of soft iron, not to hold anything, but so that when the load came back it would find a plate to bend instead of a fixing to pull, and he told them what it was for, and made the boy who put it in write his own name on the back of it, because a ward that names its sacrificial plate is a ward that can find out later who owns it.
 
 Then, at five, the light came up grey over the river and they stood the conduit load off the line and the line came back into the district and held.
 

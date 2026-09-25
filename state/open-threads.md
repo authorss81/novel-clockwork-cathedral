@@ -31,6 +31,7 @@ Every row below names the volume whose outline actually contains the beat. If a 
 | The **binding plates**: why a minister can order a lock at all | Volume 11, in the guard scene | Volume 12; Volume 14's command line |
 | The **command line**: installed by the Continuity Office, never found | Volume 11 | Named in Volume 13's resolution as the unresolved wire; it is what makes Volume 14 possible |
 | **The Outer Sluice's deferred inspection** | Volume 06, minuted in a scene the reader can find | Volume 14: the Sluice fails |
+| **The emergency clause of the regional water and power scheduling act** | Volume 06, read aloud by a clerk over the diverted maintenance budget while the Sluice inspection is deferred; cited by section number in Volume 11 | Volume 14: Rusk's instrument, and the only legal reason a lock order can issue at all. **It must appear on the page twice before Volume 14.** |
 | **The Weirs flood doors**, surveyed and untested | Volume 07 | Volume 14: opened by the tenant council |
 | **The Northglass flood basin**, identified as the only relief site | Volume 07 | Volume 13: Northglass consents; Volume 14: it is used |
 | What the Dark Reservoir physically stores | Volume 08 | Volume 09 |
@@ -50,3 +51,11 @@ Every row below names the volume whose outline actually contains the beat. If a 
 ## Open right now
 
 No on-page promise exists yet. The first ten chapters must plant the ninth tick, the Weir Two night crew, the toll, and Vance's death, so that the reader has a reason to keep reading after the volume's small victory. Three quantities are tracked from Chapter 1 and must stay consistent: **the ninth tick**, **Perry Vance**, and **three minutes**.
+
+## Housekeeping flagged by the bootstrap review
+
+Kept here so a later phase does not rediscover them as new findings.
+
+- **`NOVEL_CATALOG.md:219`** still describes this novel as a cathedral whose "machinery predicts moral decisions." The bible forbids it: the question spindle accepts only a concrete named action. `NOVEL_SPEC.md` has been corrected; the catalog is a fleet-wide registry of other novels and was left alone as outside this phase's editable set. Correct the single catalog line by hand when convenient. It is not propagated into phase prompts, so it will not reach the prose.
+- **`state/phase-ledger.json`** still reads `phase-000-bootstrap: planned, attempts: 0`. That file is controller-owned and was not touched. If the phase re-dispatches, the controller should mark it from `state/current.md`.
+- `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md` are still `[pending]` templates. That is the declared job of `phase-001`, and its prompt already exists. Not a defect.

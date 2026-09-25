@@ -85,7 +85,7 @@ Eleven chapters, sequenced as physical choices. Each belongs to named people and
 The volume is not allowed to end on victory, and the last ten chapters are the ones that make the ending credible.
 
 - **691–695:** **cutting the command line.** The three release handles are located, and the first attempt fails because only two of the three stations will pull — the third is still inside a locked Continuity building. Getting that handle out is the whole of the third act, it takes nine days, and it is the smallest of the three and the hardest, which is the volume's last joke about institutions.
-- **696–697:** Ada Vance, now twenty-six and speaking from the tenant council table as an adult, files her father's batch of unlisted records into the public archive. The arithmetic of the cost. Twenty-three funerals, by name, with the decision that surrounded each one printed beside it. The Council of Hours meets for the first time and its first act is to record rather than to decide. A fight over compensation for the Weirs blocks and the eleven days without power, and it is not resolved in this volume.
+- **696–697:** Ada Vance, now twenty-six and speaking from the tenant council table as an adult, files her father's batch of unlisted records into the public archive — the Long Nine dead, two hundred and twelve names, of which her father's is the one the city has read aloud most often and understands least. The tide's arithmetic is done separately and in public: **twenty-three** funerals from the bridge and basin transition, by name, each with the decision that surrounded it printed beside it. The Council of Hours meets for the first time and its first act is to record rather than to decide. A fight over compensation for the Weirs blocks and the eleven days without power, and it is not resolved in this volume.
 - **698:** the trials and the testimony. Rusk's procedural guilt, Anja's unabsolved cooperation, Ivo Pell's late and expensive testimony, Sel Kade's diversion answered for. The camera is mostly on people in rooms, which is where this book has always said its important things happen.
 - **699:** the Cathedral opens. The threshold spring is catalogued and a school class is taken to see it. The machine is not smashed on camera; it is labelled, which is duller and truer.
 - **700:** the bells out of order, the removed prediction plate, Mara asking the time. Full text in section 8.
@@ -122,10 +122,10 @@ The plates are fused into the engine. Removing them destroys the central forecas
 
 The plan contains the tide, but not without loss:
 
-- Twenty-three people die during the bridge and basin transition. Their names and the decisions that surrounded their deaths are entered into the public ledger.
+- Twenty-three people die during the bridge and basin transition. This is the only twenty-three in the book: the Long Nine dead are two hundred and twelve, and the two numbers are never added together or used interchangeably. The tide's dead are entered into the public ledger by name, with the decisions that surrounded their deaths.
 - The Weirs lose power for eleven days and several blocks of the district flood.
 - Northglass rail service is interrupted for a season.
-- The Cathedral's central Consequence Engine is permanently fused as a binding oracle.
+- The Cathedral's central Consequence Engine is permanently fused. It sits where it stands and will never forecast again, and the routing plates that made omitted work disposable are physically gone and cannot be refitted. The machine is retired, not switched off, and not destroyed for spectacle.
 - Orrin loses the unique ability to hear a single machine cleanly. He can still repair, teach, and coordinate, but he cannot retreat into private certainty.
 - Mara's former Office of Public Reckoning post is not restored. She accepts the independent **Civic Time Keeper** role, which is outside both the Directorate and the Council of Hours.
 - Rusk is removed from office and placed on trial for the use of emergency powers, sealed questions, and the Censor Gate. His defeat is institutional and legal, not a magical execution.

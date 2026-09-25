@@ -214,7 +214,13 @@ Guild bookkeeping for work that keeps a machine running but is not part of a cer
 
 ### Continuity movement
 
-The Assembly faction, led by Halden Rusk, that wants every hourline, reservoir, and Reading room under one office with the power to act in an emergency. Distinct from the Continuity Office, which is the executive office, and from the Continuity Minister, which is the post. Characters in Volumes 04 and 05 use the movement to mean people and the Office to mean a building, and the volume should not blur it.
+The Assembly faction, led by Halden Rusk, that wants every hourline, reservoir, and Reading room under one office with the power to act in an emergency. Keep the three terms apart in every file, including outlines:
+
+- **Continuity movement** — the people, the faction, the votes, the campaign. Capital C, lowercase m.
+- **Continuity Office** — the executive office and, by extension, the building and the staff. It is the institution that acts, issues, certifies, and installs the command line.
+- **Continuity Minister** — the post and its holder.
+
+Do not write "Continuity faction" anywhere. In a list of factions, the movement belongs and the Office does not; in a list of locations, the Office building belongs and the movement does not. A character may blur them, because Rusk's supporters do, but narration and outlines may not.
 
 ### The Returning Tide
 
@@ -362,7 +368,7 @@ The cabinet post Rusk has held for the two years before the opening and widens t
 
 ### Continuity instrument
 
-The surviving legal basis Rusk invokes in Volume 14. It is not the Hour Compact and not a certainty permit: it is the emergency clause of the regional water and power scheduling act, which permits a declared regional emergency to be answered "by any measure the responsible office certifies is necessary." The clause predates the reforms and cannot be repealed by the Assembly alone, which is why decentralization does not end the threat. Chapter and volume work should name it at least once before Volume 14 so the climax does not introduce a legal instrument on the night it is used.
+The surviving legal basis Rusk invokes in Volume 14. It is not the Hour Compact and not a certainty permit: it is the emergency clause of the regional water and power scheduling act, which permits a declared regional emergency to be answered "by any measure the responsible office certifies is necessary." The clause predates the reforms and cannot be repealed by the Assembly alone, which is why decentralization does not end the threat. **Two on-page plantings are assigned and both must happen:** Volume 06, read aloud by a clerk over the diverted maintenance budget while the Outer Sluice inspection is deferred, and Volume 11, cited by section number by Rusk over the same Sluice minutes. Without them the climax introduces a legal instrument the night it is used, and the final volume's danger reads as a new rule instead of an old one.
 
 ### Emergency declaration
 
@@ -441,7 +447,7 @@ Orrin's seven stages are named once, here, and used consistently in prose and ou
 1. **Line sense** — hears imbalance in a machine he is touching. Earned before the opening.
 2. **Aftershock** — feels the next short-term failure of a named load on one connected machine. Earned in Volume 01.
 3. **Choice trace** — connected to the Loom, senses the three strongest pressure paths of a concrete proposal. Earned in Volume 02.
-4. **Civic rehearsal** — with independent hourlines and other operators, maps a proposal across districts. First attempt in Volume 02, stable in Volumes 03–05.
+4. **Civic rehearsal** — with independent hourlines and other operators, maps a proposal across districts. First attempt in Volume 02, a shared method he does not control in Volume 03, stable from Volume 05. It is awarded once, in Volume 05; Volume 03 is the beat where it becomes usable, not the beat where it is earned.
 5. **Counterweight ward** — alters a physical machine so a consequence is moved, reduced, or made survivable. First built in Volume 04, mature in Volumes 09–12.
 6. **Distributed horizon** — helps a group combine partial readings into an inspectable public map. First attempt in Volume 06, stable in Volume 10.
 7. **Open interval** — decouples the central binding forecast from local clocks for a planned period. Practiced in Volume 13, used in Volume 14.

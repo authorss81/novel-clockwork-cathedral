@@ -121,7 +121,7 @@ Orrin corrects systems before he asks what the people inside them need. He keeps
 
 ### Halden Rusk
 
-- **Age:** 58 at opening. He has been Continuity Minister for the two years before the story begins, and he widens the office's reach across the later volumes rather than arriving at it late.
+- **Age:** 58 at opening. He has been Continuity Minister for the two years before the story begins and still holds the post in Volume 14, so he widens the office's reach across the later volumes rather than arriving at it late. Do not write him as newly appointed, a junior minister, or an office he is still campaigning for; he is already in the chair in Chapter 1.
 - **Role:** Assembly politician who turns emergency forecasts into binding policy.
 - **Want:** prevent a repeat of the Long Nine through central control, even if the control is unpopular.
 - **Belief:** people do not want difficult truth; they want someone to make the difficult choice. He is willing to make that choice for them.
@@ -182,8 +182,8 @@ These people carry the opening. They recur or they have one clean function, and 
 
 ### Ada Vance
 
-- **Age:** 13 at the opening. She is 26 by Volume 13, and she is an adult every time she speaks after Volume 02. Do not have her speak as a child after Volume 01; the growth is the point of the character.
-- **Function:** the recurring image of what an omission looks like from inside a family. She appears in Volume 01 as the child on the six o'clock tram, in Volume 02 as a witness in the archive fight who finds her father's name in a dated batch, in Volume 08 and 09 as the adult running her own family's unlisted-records claim, and in Volume 13 at the Weirs council table, where nobody expected her to speak and she does.
+- **Age:** 13 at the opening. A volume is roughly a year, so her ages are fixed and must not be rounded: 13 in Volumes 01 and 02, 20 in Volumes 08 and 09, 25 in Volume 13, 26 in Volume 14. In Volume 02 she is still a child and appears as a witness being listened to, not as a child making adult arguments in public; from Volume 08 on she is an adult every time she speaks. Do not have her speak as a child after Volume 01, and do not have her speak as a twenty-six-year-old before Volume 14; the growth is the point of the character.
+- **Function:** the recurring image of what an omission looks like from inside a family. She appears in Volume 01 as the child on the six o'clock tram, in Volume 02 as a witness in the archive fight who finds her father's name in a dated batch, in Volumes 08 and 09 as the adult running her own family's unlisted-records claim, in Volume 13 at the Weirs council table, where nobody expected her to speak and she does, and in Volume 14 filing that batch into the public archive as a member of the tenant council.
 
 Two more people are named in this volume who carry the rest of the series. **Ivo Pell** is the veteran operator at the guild hall and in the Question Hall, and he supervises Orrin's first choice-trace session in Volume 02; see section 5. **Councilor Imani Rook** blocks the first demand for a public toll ledger in Volume 01 and files it three chapters later, once the Weirs have produced more arithmetic than she can dismiss; see section 5 for her full run through Volumes 03, 09, and 13.
 

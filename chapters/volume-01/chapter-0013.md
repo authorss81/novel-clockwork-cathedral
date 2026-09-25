@@ -34,7 +34,7 @@ She let the number be a number for a moment, in a way that Orrin could see she h
 
 "And here is the city's record of the same four months, at the same two stations, from the works' certified shift return, which is the document the city's own arithmetic runs on." She turned it round. "It is nil. Both stations. Four months. There is no certified night shift at Weir Two, and there is no maintenance line covering nights, and there is no wage paid on the return, because there is no shift. The maintenance line for Weir Two for the year shows fourteen hundred and six hours of honest daytime work, certified, paid, and good, and I have no complaint about it and it is not in dispute.
 
-"One thousand four hundred and twelve hours," she said. "That is the whole of the arithmetic, and it is three numbers and a subtraction. Five men, worked, at a civic machine, for four months. Nil on the return. Not under-recorded. Not recorded. And I want to be very careful about what I have just done, because I have been in this chamber nine years and I have watched people use a number like that to say far more than it will bear, and I am not doing it."
+"One thousand four hundred and twelve hours," she said. "That is the whole of the arithmetic, and it is two documents and a subtraction. Five men, worked, at a civic machine, for four months. Nil on the return. Not under-recorded. Not recorded. And I want to be very careful about what I have just done, because I have been in this chamber nine years and I have watched people use a number like that to say far more than it will bear, and I am not doing it."
 
 "Madam—"
 

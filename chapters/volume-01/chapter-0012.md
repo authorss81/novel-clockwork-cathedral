@@ -46,7 +46,7 @@ The interview was the part he had not been ready for, and he did not know until 
 
 "And if I don't come, when do you put it?"
 
-"The twenty-eighth of next month, at ten, in this room, and I'll leave it in your book here." He wrote it on the card's blank line in a small neat hand and turned it round. "That is a month from today and three weeks before your renewal, and I have put it in the middle on purpose, because a man who is going to have a conversation about his year is better off having it before he has decided what he thinks of it, and a man who is not going to have one is better off having it while there is still time to write to me about it."
+"The twenty-eighth of next month, at ten, in this room, and I'll leave it in your book here." He wrote it on the card's blank line in a small neat hand and turned it round. "That is a little over a month from today and three weeks before your renewal, and I have put it in the middle on purpose, because a man who is going to have a conversation about his year is better off having it before he has decided what he thinks of it, and a man who is not going to have one is better off having it while there is still time to write to me about it."
 
 Orrin looked at the date. The renewal was about eight weeks away and the conversation was a month, and Hask had put the conversation in the middle of the run rather than at either end of it, which meant that for the next four weeks the whole of his trade was going to sit in a warm room with a bad cup of tea in it at ten o'clock on a Tuesday morning, and that the eight weeks after it was going to be spent already having had it, and that there was no version of the next month in front of him in which that Tuesday was not standing in the middle of it like a chair in a waiting room.
 
@@ -146,7 +146,7 @@ Orrin sat down on the stool.
 
 "You'd already asked."
 
-"I asked on the twentieth. You'll have the file on Friday, the second, at nine, in a file room with a table and no fire, and I have booked the table." She was writing again. "Now. Tell me what Hask said, since you have come down here in a hurry on a Friday afternoon and you did not take your coat off, and one of those two facts is about the file and the other one is about the hall."
+"I asked on the twentieth. You'll have the file on Thursday, the second, at nine, in a file room with a table and no fire, and I have booked the table." She was writing again. "Now. Tell me what Hask said, since you have come down here in a hurry on a Friday afternoon and you did not take your coat off, and one of those two facts is about the file and the other one is about the hall."
 
 He told her. Both halves, in order, and the tea and the date on the card and the loupe going into the drawer and the third column that did not exist, the four weeks to the Tuesday, and the fact that from today the only record of what he had found in any office in this city would be written by a man who had not been in the room.
 

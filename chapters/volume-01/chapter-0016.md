@@ -89,7 +89,7 @@ The inspection at the end was Rill's, of course, and Orrin read all three of his
 
 ---
 
-They were in the corridor outside the reading room at twenty past eleven with two notebooks full and a bad feeling between them, and the corridor was not private: there were four men going to and from the Continuity Office's front desk and every one of them would have been within hearing.
+They were in the corridor outside the file room at twenty past eleven with two notebooks full and a bad feeling between them, and the corridor was not private: there were four men going to and from the Continuity Office's front desk and every one of them would have been within hearing.
 
 Mara said, "I want to use the deferral."
 
@@ -107,7 +107,7 @@ Mara said, "I want to use the deferral."
 
 "The bracket is the *case*," she said. "Perry Vance is the *reason*."
 
-"He is the only thing there is." He had the notebook in his hand and he did not open it. "Mara, look at what you have written in that book. You have got a woman's signature from eighteen years ago when she was twenty-six and a bracket that nobody renewed. And of the two, which one do you think somebody is going to be asked about at the end of it? The bracket has got a price tag on it and it is two pounds fourteen and sixpence and I can tell you exactly what it cost in one night, and by Christmas a committee will have the bracket nailed to a wall in a corridor and the reading room will be full of men discussing a bridge, and in five years there will be a deferred-maintenance schedule in the budget with a line in it and a lecture about the danger of starving the works, and there will not be one single person in this city who has ever heard the name of the man who died."
+"He is the only thing there is." He had the notebook in his hand and he did not open it. "Mara, look at what you have written in that book. You have got a woman's signature from eighteen years ago when she was twenty-six and a bracket that nobody renewed. And of the two, which one do you think somebody is going to be asked about at the end of it? The bracket has got a price tag on it and it is two pounds fourteen and sixpence and I can tell you exactly what it cost in one night, and by Christmas a committee will have the bracket nailed to a wall in a corridor and the file room will be full of men discussing a bridge, and in five years there will be a deferred-maintenance schedule in the budget with a line in it and a lecture about the danger of starving the works, and there will not be one single person in this city who has ever heard the name of the man who died."
 
 "And if we do not use the deferral, what do we use?"
 

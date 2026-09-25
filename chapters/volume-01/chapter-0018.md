@@ -110,6 +110,6 @@ It was Leda, and she was not on the ward floor, and she said so first, before he
 
 "I won't. And Orrin — I'm telling you and not asking you, and I would like you to notice the difference, because I have read what your rule says and your rule is about somebody who can object, and a ring at eleven at night from a woman who is not on your rota is the *cheapest* form of it there is and I am not going to let you pretend it was hard for me."
 
-He stood on Ferrywright Bridge in the dark for a while after she had gone, with the tram wires hissing over his head and the river going under the deck toward the sea, and thought: on Tuesday I will put my hand on that pump and ask it one question, and it will cost me something, and I will be right, and there will be a woman in a corridor who is not on anybody's rota, and a room with an engineer in it, and an investigator, and a rule of his own that he wrote on Saturday and meant.
+He stood on Ferrywright Bridge in the dark for a while after she had gone, with the tram wires hissing over his head and the river going under the deck toward the sea, and thought: on Tuesday I will put my hand on that pump and ask it one question, and it will cost me something, and I will be right, and there will be a woman in a corridor who is not on anybody's rota, and a room with an engineer in it, and an investigator, and a rule of his own that he wrote on Sunday and meant.
 
 And none of those, he thought, is a licence.

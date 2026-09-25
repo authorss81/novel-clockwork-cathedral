@@ -66,7 +66,7 @@ She looked at Orrin.
 
 Orrin took his hand off the pump.
 
-He had been holding it for four minutes and he had been listening, and the answer had come up about two minutes in, and it was the same answer it had given him at the yard on the Saturday: the gland, going sideways, in about two hours, and then the rest of it, and behind that the landing, and the linen store, and a ward clock.
+He had been holding it for four minutes and he had been listening, and the answer had come up about two minutes in, and it was the same answer it had given him at the yard on the Friday: the gland, going sideways, in about two hours, and then the rest of it, and behind that the landing, and the linen store, and a ward clock.
 
 The room went grey at the edges and the hum came up on the right and there was a smell of hot metal at the back of his throat, and this time it did not stop.
 
@@ -78,7 +78,7 @@ When it was finished he was on the floor with his back against the wall and his 
 
 "You asked it a bigger question than the one I said out loud," said Orrin.
 
-He got up in stages with the wall, and then sat on the bottom step of the stair with his hands on his knees.
+He got up in stages with the wall, and then sat on the bottom step of the stair with his hands on his knees, under the clock over the door, which said twenty past one.
 
 "Five items," he said. "I'll say it now so that nobody has to ask me afterwards what I knew and when.
 
@@ -108,7 +108,7 @@ The telephone call to the ward sister was Leda's and it took four minutes and th
 
 And then the hospital wrote to the Office of Public Reckoning, and Mara filed the request herself rather than let the hospital's clerk do it, because she wanted it on the right paper.
 
-It came back on the Wednesday, a day after it went in, which was five days quicker than the same office had managed the pumping ward's returns a week before, and nobody in the building could account for the difference and neither could he. It is four lines long, and it is the single most useful document the Office of Public Reckoning produced that month.
+It came back on the Wednesday, a day after it went in, which was five days quicker than the same office had managed the pumping ward's returns eleven days before, and nobody in the building could account for the difference and neither could he. It is four lines long, and it is the single most useful document the Office of Public Reckoning produced that month.
 
 > *Received and noted. This office audits the Toll Stair. It has no authority over a district reserve, no power to concur in a local toll, and no standing in the Lower Weirs. Application should be made to the district works committee.*
 > *No further correspondence on this matter.*
@@ -169,7 +169,7 @@ The pump held for five weeks. On the sixth, a district works committee sat in Gr
 
 The seventh of the month. She was gone by then and back on nights and the certificate was in his coat pocket that was true, and Orrin Vale stood in a corridor on the first floor of the Green Span hospital and found that being right about a pump had cost him a set of stairs he would not get back.
 
-Because that was what it had taken. Not his hand. Not the ring, which was worse and would go on being worse. Thirty-eight minutes. He put it together afterwards out of the two things nobody argues with: Leda Vale had said it was twenty past one when he came round, and the certificate lying on the counter in front of him was stamped at two minutes to two, because he had read the back of it over twice before he pressed it, and there was no account of him in that gap at all, clean edges, no residue, and four people on a landing who had all been looking at somebody else.
+Because that was what it had taken. Not his hand. Not the ring, which was worse and would go on being worse. Thirty-eight minutes. He put it together afterwards out of the only two things in the world that cannot be argued with, which are a clock and a rubber stamp: the clock over the door said twenty past one when he came round, and the certificate lying on the counter in front of him was stamped at two minutes to two, because he had read the back of it over twice before he pressed it, and there was no account of him in that gap at all, clean edges, no residue, and four people on a landing who had all been looking at somebody else.
 
 And a permanent change in the thing that had made him who he was, which was not that he could hear less. He could hear. He could still hear a watch at thirty feet in a still room and he could still hear one lying on the bench a foot away, and he had tested both since the Tuesday, because it was the first thing he had checked and the thing he most expected to be gone. What was gone was the judgement. He put a movement on the bench on the Sunday and it sounded correct, and it was out by a quarter of a second a day, and he could not tell. He listened to it eleven times. He listened to it with a sounding board under the case and he listened to it with the case lifted off, and the sound was the same sound, and there was no longer any part of him that knew which of the two the sound was making.
 

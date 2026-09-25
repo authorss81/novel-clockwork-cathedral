@@ -114,7 +114,7 @@ He walked out into the courtyard and sat on a bench in it and got the grey book 
 
 *Third floor, ward clock. Asked one question, got one answer, stopped at the second. Answer was: a woman called by the pharmacy at about four, no name, no column, no date, four days out.*
 
-*Cost of the question: eleven minutes, the whole of them in a corridor I was standing in, and the right hand, which will not close until Monday. Entered as a cost and not as a toll. A toll is what happens when you ask something you cannot pay for, and a question that stops itself is a question that pays. Two reading costs this month and two tolls in my life, and the difference is not size. It is that I saw both of these coming, and I saw neither of the others.*
+*Cost of the question: eleven minutes, the whole of them in a corridor I was standing in, and the right hand, which will not close until Monday. It is the hand the trestle took, gone the same way and for about as long, and I do not know whether a question a man can pay for is charged less or whether he has only got quicker at paying. Entered as a cost and not as a toll. A toll is what happens when you ask something you cannot pay for, and a question that stops itself is a question that pays. Two reading costs this month and two tolls in my life, and the difference is not size. It is that I saw both of these coming, and I saw neither of the others.*
 
 *A narrow question is payable. A question with a second part is not, and you do not learn that by asking.*
 
@@ -176,12 +176,12 @@ Pell did not move.
 
 The door shut. He went down the lane with the clock under his arm and did not look back, and Orrin stood in the doorway of his own shop and found that he had wanted very badly to be told he was on the right road, and had been told instead that there was no road, and that this was worth more, and that he was not going to be thanked for the difference and would not have mentioned it.
 
-Then he went in and shut the door and got the grey book, and opened it to a clean page at the top where a man keeps the rules he means to keep, and read what he had written there at his own bench ten days ago, in the cold, before the light, with the words copied out at the top of a clean page because a rule that lives at the back of a book is a note.
+Then he went in and shut the door and got the grey book, and opened it to a clean page at the top where a man keeps the rules he means to keep, and read what he had written there at his own bench twelve days ago, in the cold, before the light, with the words copied out at the top of a clean page because a rule that lives at the back of a book is a note.
 
 *Nothing of mine is used again without its blind margin and its toll named in public, in a room, to somebody who can object.*
 
 He read it twice.
 
-He then took a fresh page and wrote underneath it, in the same hand, because it had turned out on Saturday afternoon in a corridor on the third floor of a hospital that a person who is not told cannot refuse, and that Leda was right and he had been wrong for eighteen years, and that the correction did not stop with her:
+He then took a fresh page and wrote underneath it, in the same hand, because it had turned out on Friday afternoon in a corridor on the third floor of a hospital that a person who is not told cannot refuse, and that Leda was right and he had been wrong for eighteen years, and that the correction did not stop with her:
 
 *A toll is what happens when you ask something you cannot pay for. Ask one thing, about a named load, and know before you ask what it will cost.*

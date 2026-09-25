@@ -126,7 +126,7 @@ He sat still.
 
 "I'm not going to ask you," said Orrin.
 
-"I know you are not, and I have watched you not, for eighteen years, and it has never once been a kindness." She stood up. It was five o'clock and the day staff were at the range. "It is a thing you do with a mouth, Orrin, and I have watched you get very good at it. It is on the same list as the thing you did in this corridor a fortnight and a day ago with a man in bay six, and the thing you did in the flat with the grey book the same week, and the thing you did on the tram with a girl of thirteen that same Thursday. I have watched you not ask me for eighteen years and I have watched you not ask me very carefully, and it has cost me more than asking would have, and I want that on the table between us and I am not going to pretend I am being hard on you."
+"I know you are not, and I have watched you not, for eighteen years, and it has never once been a kindness." She stood up. It was five o'clock and the day staff were at the range. "It is a thing you do with a mouth, Orrin, and I have watched you get very good at it. It is on the same list as the thing you did in this corridor a fortnight ago with a man in bay six, and the thing you did in the flat with the grey book the same week, and the thing you did on the tram with a girl of thirteen that same Thursday. I have watched you not ask me for eighteen years and I have watched you not ask me very carefully, and it has cost me more than asking would have, and I want that on the table between us and I am not going to pretend I am being hard on you."
 
 She put the roster in her hand and held it against her chest.
 

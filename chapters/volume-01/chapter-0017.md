@@ -150,7 +150,7 @@ He put it on the counter and stood with his back to the wall, and he was in a go
 
 Orrin had it open in four minutes.
 
-"The train's fine. The wheels are fine. The click's not set wrong and it's not worn; there's a piece of shellac about the thickness of a sheet of paper under the locking plate, and I can't tell you how it got there and I would guess somebody put it there in nineteen-something as a stopgap and then forgot." He lifted it out and showed her the pale smear. "That's your four minutes. Take it off, put the plate back, and it will hold for a year and somebody will do it again in twenty years."
+"The train's fine. The wheels are fine. The click's not set wrong and it's not worn; there's a piece of shellac about the thickness of a sheet of paper under the locking plate, and I can't tell you how it got there and I would guess somebody put it there in nineteen-something as a stopgap and then forgot." He lifted it out and showed him the pale smear. "That's your four minutes. Take it off, put the plate back, and it will hold for a year and somebody will do it again in twenty years."
 
 "Four minutes a day for forty years is forty days."
 

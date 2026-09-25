@@ -16,14 +16,16 @@ The batch's genre promise: **an organisation is a thing that can be wrong in a n
 
 ## Starting condition
 
-A fortnight after Chapter 20, which finished on Monday the 20th. Perry Vance has been dead a month. Three minutes is still the only number the city has published. Orrin has a copper wedge's worth of knowledge and a rule three days old that can stop him, a class-three licence expiring on the 19th of the month after next, an optional interview with Hask on Tuesday the 28th, and a W-4 form in his case. The Weirs have eleven copies of the guild's labour book in nine buildings, a woman who has lost nineteen years for making them, a landlord who has got her rent rise back, and no organisation.
+The morning after Chapter 20, which finished on Monday the 20th of the second month, and the batch runs to the 30th of the third. Perry Vance has been dead a month. Three minutes is still the only number the city has published. Orrin has a copper wedge's worth of knowledge and a rule three days old that can stop him, a class-three licence expiring on **Sunday the 19th of the third month**, an optional interview with Hask on **Tuesday the 28th of the second month**, and a W-4 form in his case. The Weirs have eleven copies of the guild's labour book in nine buildings, a woman who has lost nineteen years for making them, a landlord who has got her rent rise back, and no organisation.
+
+**The batch's calendar is fixed and absolute, and the full day map is in `workspace/volume-01/batch-0003/PROMPT.md`.** In short: 21 on the 21st to the 23rd of the second month; 22 on the 24th to the 26th; 23 on Monday the 27th; **24 on Tuesday the 28th, the interview**; 25 on Wednesday the 8th of the third month, the Reading; 26 from the 10th to the 17th; **27 on Sunday the 19th, the expiry**; 28 from the 21st to the 23rd; 29 on the 24th, 25th, 27th and 28th; 30 on the 29th and 30th. Both fixed dates fall inside the batch and neither is a crisis.
 
 The ninth tick is still unexplained. The Archive of Unlisted is still shut. Anja Voss and Halden Rusk have each appeared once, on paper, and will not appear again.
 
 ## Batch shape
 
 - **Beginning (Chapters 21–22):** a method, and a domestic argument about what it is for. The counter-record acquires a procedure and the procedure acquires a bill.
-- **Escalation (Chapters 23–24):** the guild's four true lines, and the interview that binds nobody and costs a fortnight of sleep.
+- **Escalation (Chapters 23–24):** the guild's four true lines, and the interview that binds nobody and costs an hour, a bad night, and four weeks of margin.
 - **Midpoint (Chapter 25):** the second and larger public Reading. The volume's failure becomes repetition.
 - **After the reversal (Chapters 26–28):** the bill, the renewal, and the W-4. The volume changes shape and the batch does too.
 - **Aftermath (Chapters 29–30):** work, figures somebody else counted, and a district deciding what it is.
@@ -66,25 +68,25 @@ A second and larger public Reading on the Weirs' own water schedule. Properly fi
 
 **Type:** investigation or discovery.
 **Immediate goal:** Put the hall's labour ledger in a request that has to be answered in public.
-**Resistance:** the hall replies with the four lines from Chapter 10, in a form fit to be printed. *The hall keeps a certification ledger, which is a record of machines. The hall does not keep a record of hours for work that is not part of a certified shift, there being no such hours, there being no such shifts. Form GH-9 is a request form and not a record. The hall's price schedules are the hall's own property.* Every word is true. The hall has also, quietly, started the renewal clock and has moved one date that nobody asked it to move.
+**Resistance:** the hall replies with the four lines from Chapter 10, in a form fit to be printed. *The hall keeps a certification ledger, which is a record of machines. The hall does not keep a record of hours for work that is not part of a certified shift, there being no such hours, there being no such shifts. Form GH-9 is a request form and not a record. The hall's price schedules are the hall's own property.* Every word is true, and the hall sends it back the same afternoon because it is a definition and a definition is already written. **What the hall has also done, quietly, and nobody asked it to, is bring forward by four days the date by which a renewal application has to be *lodged*. That deadline is a hall rule, printed among the standing notices on the licensing floor and not on the notice card, which in Chapter 11 carries the expiry, the fee, the endorsement and the standing request for a W-4 and nothing else.** Hask's promise in Chapter 12 was that he had not moved Orrin's date, and he has not; a lodgement deadline is a hall rule and the hall is entitled to its own rules. The renewal itself does not move, and the four days cost nothing, because the W-4 has to be written out of a book that is not a form and was never going to be ready sooner.
 **Information revealed:** that the hall's defence is not a cover story but a definition, and that a definition which is true can be unbeaten by anything short of changing the definition. Mara's proposed change, a *name* on a withdrawal form, is the thing nobody has yet said out loud in a room, and somebody should say it and be told what it costs.
 **Action or decision:** the request goes in and comes back. Nothing is gained and one thing is now certain: the guild ledger will not arrive by asking, and every attempt to take it further is a decision somebody with less to lose will have to make.
 **Emotional change:** the exhaustion of doing everything correctly and being answered correctly.
 **Power or resource change:** none.
 **Continuity fact to preserve:** Hask commits no impropriety. Della Marsh's guards hold: she is never thanked on the page, and the four shillings bought a form number and a shut door, not the ledger.
 **Ending type:** cost, incurred in daylight.
-**Next-chapter pull:** Tuesday the seventh, ten o'clock, a warm room, and a conversation that binds nobody.
+**Next-chapter pull:** Tuesday the 28th, ten o'clock, a warm room, and a conversation that binds nobody.
 
 ### Chapter 24 — "The Twenty-Eighth"
 
 **Type:** political or social pressure, played as a domestic scene.
-**Immediate goal:** Survive an interview that cannot be refused without giving a reason, and give no reason. It is Tuesday the 28th, four weeks after the notice was pinned under a brass weight and a fortnight before the renewal.
+**Immediate goal:** Survive an interview that cannot be refused without giving a reason, and give no reason. It is Tuesday the 28th of the second month, a month after the notice was pinned under a brass weight and **three weeks before the renewal** — both of those figures are Hask's own, in Chapter 12, and neither is an estimate.
 **Resistance:** Hask does not threaten him once. He asks how the year went. He has the answer ready for both possible answers and he delivers whichever one is offered without any sign of having prepared it. He mentions the W-4 as housekeeping. He asks, once, and pleasantly, about the thimble in the regulator's flank, and does not ask again, and Orrin understands inside ten seconds that he has been told the price of a fact.
 **Information revealed:** what a leash is made of when the leash is made of nothing. Nobody pulls it. It is simply there, on a Tuesday, at ten, in a room with tea in it, and there is no way to be absent from it that is not itself a line in a file.
 **Action or decision:** Orrin does not hand over the grey ledger, does not lie, and asks one question of his own, which Hask answers courteously and which does not help. He comes away with a W-4 form, a date, and no information at all.
 **Emotional change:** the specific exhaustion of a man who has been told the truth kindly and cannot use it.
 **Power or resource change:** four weeks of margin, spent in an hour. His ear is worse because he slept badly the night before, and this is a condition and not a cost.
-**Continuity fact to preserve:** the interview is optional and binds nobody, exactly as promised. Hask is never asked about the Long Nine and never mentions the governor. The renewal is the 19th of the month after next and is not a threat.
+**Continuity fact to preserve:** the interview is optional and binds nobody, exactly as promised. Hask is never asked about the Long Nine and never mentions the governor. **The renewal is Sunday the 19th of the third month and is not a threat.**
 **Ending type:** cost, quietly incurred.
 **Next-chapter pull:** the water schedule, which nobody in this batch has mentioned.
 
@@ -122,7 +124,7 @@ A second and larger public Reading on the Weirs' own water schedule. Properly fi
 **Information revealed:** that institutional adoption is not villainy and is not betrayal, and that the moment of transfer is a form-filling, and nobody has to decide anything for it to happen.
 **Action or decision:** he lodges it. He does not put the grey ledger's contents in and he puts in what the form can hold, and the gap between those two things is the batch's quietest and largest fact.
 **Emotional change:** not grief. The specific flatness of a man who has discovered that the correct thing and the useful thing are different documents and there is no form that carries both.
-**Power or resource change:** none, formally. He is a licensed maintainer on the 15th and will be a licensed maintainer through the end of the volume.
+**Power or resource change:** none, formally. **He lodges it on Sunday the 19th of the third month, the expiry date itself, and he is a licensed maintainer on the 19th and will be a licensed maintainer through the end of the volume.** A licensing counter takes lodgements on a Sunday: a porter, a clerk, the master's signature, and nobody waiting.
 **Continuity fact to preserve:** **he is not suspended and no chapter may describe the suspension as coming.** The suspension is Chapters 44–49, for certifying a local toll he had no standing to certify, and Hask issues it ahead of his own clock.
 **Ending type:** decision, made correctly, and it costs something nobody can see yet.
 **Next-chapter pull:** the hall now holds a fair copy, and fair copies are what halls are for.
@@ -144,7 +146,7 @@ A second and larger public Reading on the Weirs' own water schedule. Properly fi
 
 **Type:** recovery, aftermath, or emotional payoff.
 **Immediate goal:** Work. Four days of it, ordinary, with a hand that will not close and an ear that will not stop.
-**Resistance:** the ordinariness. There is nothing in a school bell for a man to hide behind, and the bodies he cares about are all in other districts on other people's money, and the one figure he can state — three minutes — is a fortnight old and is the smallest number in the book.
+**Resistance:** the ordinariness. There is nothing in a school bell for a man to hide behind, and the bodies he cares about are all in other districts on other people's money, and the one figure he can state — three minutes — is ten weeks old and is the smallest number in the book.
 **Information revealed:** the first time Orrin can state somebody else's count as though it were his, because the district counted it and the Assembly printed it. He has become a person who cites.
 **Action or decision:** he does four days of repair and goes and is told, in a kitchen, by three people who disagree, what the Chapter 25 Reading cost their street. He writes it down and it is in a book nobody can read and it is also, this time, in a printed return.
 **Emotional change:** from shame to method, quietly, without a scene about it.

@@ -100,7 +100,7 @@ Della Marsh looked at him for a while.
 
 "Yes."
 
-"Then do not be shocked when somebody does it, because it is the most obvious thing in the world and it is the only one of the three that nobody can stop by writing a rule. It also happens in about four days, because they have been talking about it since the seventeenth and I have been in this corridor for all of it. You did not tell them to and you will not be able to say that you did. Now: two things, and the second one is free, and I would like you to take it because you have been decent and because I do not have anybody else to give it to.
+"Then do not be shocked when somebody does it, because it is the most obvious thing in the world and it is the only one of the three that nobody can stop by writing a rule. It also happens in about a week, because they have been talking about it since the seventeenth and I have been in this corridor for all of it. You did not tell them to and you will not be able to say that you did. Now: two things, and the second one is free, and I would like you to take it because you have been decent and because I do not have anybody else to give it to.
 
 "One. The guild publishes a liability annex. It is upstairs, in the press, and it is about the night of the Long Nine, and the hours that stopped, and there is a figure in it that I have stamped the top sheet of since the year I came in here. I have never been asked about it, not by one person in thirty-one years, and I am not going to tell you the figure, and if you ask me again I will tell a worse answer than this one. I am telling you it exists because you have found the copybook and it is better that you know there is one more piece of paper in this building than that you find out in a worse room.
 

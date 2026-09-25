@@ -100,7 +100,7 @@ Orrin did the certificate. It took nine minutes and it was the whole of what his
 
 Then he turned it over and wrote on the back of it, in full, in his own hand, because that was the deal and he was going to hold to it while it was costing him:
 
-*Packing renewed by E. Reeve, hospital engineer, at my direction, 2nd month, day 6. My reading of this pump is that the gland will fail sideways at load within approximately two hours' head, and I have said so in a room with four people in it and one of them can be got on the telephone. I have not certified a toll and I have certified no district reserve. I can certify nothing else about this machine. M. Vale, class three, no standing on this main.*
+*Packing renewed by E. Reeve, hospital engineer, at my direction, 2nd month, day 7. My reading of this pump is that the gland will fail sideways at load within approximately two hours' head, and I have said so in a room with four people in it and one of them can be got on the telephone. I have not certified a toll and I have certified no district reserve. I can certify nothing else about this machine. M. Vale, class three, no standing on this main.*
 
 He read that back twice before he stamped it, and it took him nine minutes longer than a class-three certificate has ever taken in the history of the guild, and the reverse of a guild certificate is not read by anybody, and he knew that, and it was not why he had written it.
 
@@ -108,7 +108,7 @@ The telephone call to the ward sister was Leda's and it took four minutes and th
 
 And then the hospital wrote to the Office of Public Reckoning, and Mara filed the request herself rather than let the hospital's clerk do it, because she wanted it on the right paper.
 
-It came back on the Wednesday, a day after it went in. It is four lines long, and it is the single most useful document the Office of Public Reckoning produced that month.
+It came back on the Wednesday, a day after it went in, which was five days quicker than the same office had managed the pumping ward's returns a week before, and nobody in the building could account for the difference and neither could he. It is four lines long, and it is the single most useful document the Office of Public Reckoning produced that month.
 
 > *Received and noted. This office audits the Toll Stair. It has no authority over a district reserve, no power to concur in a local toll, and no standing in the Lower Weirs. Application should be made to the district works committee.*
 > *No further correspondence on this matter.*
@@ -167,9 +167,9 @@ The following Wednesday night the ward had a morning. Two medicines arrived four
 
 The pump held for five weeks. On the sixth, a district works committee sat in Green Span and did nothing for two hours and then referred the rising main to the regional programme for the following year, which is a real document with a real number on it, and which arrives, if it arrives, in fourteen months.
 
-Then she was gone, and Orrin Vale stood in a corridor on the first floor of the Green Span hospital with a certificate in his coat pocket that was true, and found that being right about a pump had cost him a set of stairs he would not get back.
+The seventh of the month. She was gone by then and back on nights and the certificate was in his coat pocket that was true, and Orrin Vale stood in a corridor on the first floor of the Green Span hospital and found that being right about a pump had cost him a set of stairs he would not get back.
 
-Because that was what it had taken. Not his hand. Not the ring, which was worse and would go on being worse. Thirty-eight minutes. He put it together afterwards out of the one thing nobody argues with: the ward sister had said it was twenty past one when he came round, and Ellen Reeve had been timing the packing with the certificate's own stamp on the counter beside her, and the certificate was stamped at ten past two, and there was no account of him in that gap at all, clean edges, no residue, and four people on a landing who had all been looking at somebody else.
+Because that was what it had taken. Not his hand. Not the ring, which was worse and would go on being worse. Thirty-eight minutes. He put it together afterwards out of the two things nobody argues with: Leda Vale had said it was twenty past one when he came round, and the certificate lying on the counter in front of him was stamped at two minutes to two, because he had read the back of it over twice before he pressed it, and there was no account of him in that gap at all, clean edges, no residue, and four people on a landing who had all been looking at somebody else.
 
 And a permanent change in the thing that had made him who he was, which was not that he could hear less. He could hear. He could still hear a watch at thirty feet in a still room and he could still hear one lying on the bench a foot away, and he had tested both since the Tuesday, because it was the first thing he had checked and the thing he most expected to be gone. What was gone was the judgement. He put a movement on the bench on the Sunday and it sounded correct, and it was out by a quarter of a second a day, and he could not tell. He listened to it eleven times. He listened to it with a sounding board under the case and he listened to it with the case lifted off, and the sound was the same sound, and there was no longer any part of him that knew which of the two the sound was making.
 

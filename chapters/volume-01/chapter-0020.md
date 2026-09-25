@@ -16,7 +16,7 @@ He wrote on the reverse of the slip, in his own hand, because there is nowhere e
 
 Halloway Street was next, and the pillar clock there was perfect.
 
-He had not touched it since the Friday in the middle of last month, when a woman from an office with four staff and a written right to be ignored had stood at the foot of it with a piece of chalk and said *this may be a hand correction*. He had gone back and looked at it four times since. It was a pillar clock, cast iron, painted municipal green, and before he ever touched it it had said twelve minutes past ten when the sun was on the horizon in the other direction, which is five minutes slow, and the works had wound it three in a hired cart because the file said three, and he had come out with a bar a week later on a Sunday night and wound the other two himself, and the extra two had been his own decision and was entered nowhere.
+He had not touched it since the Friday in the middle of last month, when a woman from an office with four staff and a written right to be ignored had stood at the foot of it with a piece of chalk and said *this may be a hand correction*. He had gone back and looked at it four times since. It was a pillar clock, cast iron, painted municipal green, and when he had first put a bar to it it had said twelve minutes past ten when the sun was on the horizon in the other direction, and been two minutes slow — five slow before the works came, and they had wound three of the five in a hired cart because the file said three, and so the other two were still in it, and he had wound those himself on a Sunday night a week later, and the extra two had been his own decision and was entered nowhere.
 
 It was right. He checked it with a watch and with the sun and with the tram wires going over it, and it was right, and it was going to stay right, and the two minutes that had come out of the same reserve as the three had gone into a clockmaker with a bar on a wet street in the Clockwork Quarter on a Sunday night, and had never been the property of anybody, and had never been entered in anything.
 
@@ -146,7 +146,7 @@ He put the pencil down and found that his hand was quite steady, and that he had
 
 ---
 
-He did the school bell on the Wednesday, after the rule was written and after she had gone, and it was the rope again, because the rope was nine years old and had been shortened twice and the striker was at the top of a boy's reach and the boy had got taller.
+He did the school bell on the Monday, in the morning, after the rule was written and after she had gone, and it was the rope again, because the rope was nine years old and had been shortened twice and the striker was at the top of a boy's reach and the boy had got taller.
 
 "You could get a man up there," said the boy, looking up.
 

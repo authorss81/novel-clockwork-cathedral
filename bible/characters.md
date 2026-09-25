@@ -187,6 +187,57 @@ These people carry the opening. They recur or they have one clean function, and 
 
 Two more people are named in this volume who carry the rest of the series. **Ivo Pell** is the veteran operator at the guild hall and in the Question Hall, and he supervises Orrin's first choice-trace session in Volume 02; see section 5. **Councilor Imani Rook** blocks the first demand for a public toll ledger in Volume 01 and files it three chapters later, once the Weirs have produced more arithmetic than she can dismiss; see section 5 for her full run through Volumes 03, 09, and 13.
 
+### Anja Voss in Volume 01
+
+Voss is **named once, in Chapter 4**, on a signature in the Question Hall, and takes no scene, no offer, and no bargain in this volume. She is not present when the Volume 01 climax is decided. Her offer of access is Volume 02's **closing** turn, and it must not be spent early.
+
+### Volume 01 functional cast
+
+Six people carry Volume 01's institutional machinery. Each has one clean function, none is a masked saboteur, and none of them is a disguised version of a character who already exists.
+
+#### Della Marsh, 61
+
+- **Role:** secretary of the Clockwork Quarter guild hall. Keeps the certification ledger, the shift forms, and the form-number series.
+- **Want:** to not be the person who can be asked. She has kept the hall's paper for thirty-one years and knows exactly which drawer the answers are in.
+- **Function:** the person a form number can be made to come out of. Frightened of an inquiry, not a conspirator, and willing to be bought with a fee and a closed door.
+- **Volume 01:** publishes nothing; she looks up a number and is never thanked. **Volume 02:** the number she looked up is the first item in the published Archive index.
+
+#### Tobias Rill, 44
+
+- **Role:** Continuity Office inspector of hourlines. He signs the inspection forms that Morrowfen's clockmakers started answering to four years before the opening.
+- **Belief:** hourlines are civic infrastructure and should be inspected by somebody accountable. He is right, and the reader is given his reasonableness before his function.
+- **Function:** the new administrative pressure on guild labour. His forms are honest and they are also the mechanism by which an inspection becomes an inquiry.
+- **Volume 01:** named in Chapter 1 on an inspection authority; a closing inspection in the political chapters; he closes Hask's inquiry for the guild and is not a villain for it. **Volume 06:** he reads the Outer Sluice minutes. **Volume 14:** his inspection history is part of the public record of what was deferred.
+
+#### Sindri Lake, 55
+
+- **Role:** keeper of the public Archive room on Cathedral Rise, which is staffed, open to petition, and staffed by a man who can decline.
+- **Function:** the sentence *referred to the sealed archive*. Polite, precise, immovable, and never a liar; the distinction between a room that is closed and a room that is not for petition is the chapter's whole argument.
+- **Volume 01:** refuses Orrin's request in Chapter 8 and explains why in three sentences, kindly. **Volumes 02 and 09:** the same man, the same courtesy, in the room where the index is opened.
+
+#### Wenna Pruitt, 38
+
+- **Role:** Weirs tenant-council organiser for the pumping district. Keeps the district's own shift book, its rent disputes, and its sense of what it is owed.
+- **Want:** the district to stop being a place that produces work and receives invoices.
+- **Function:** the counter-record. She is the reason a public toll ledger is a real remedy rather than a gesture, because the Weirs can already produce their own hours and cannot produce anybody's signature.
+- **Function in the batch's first ten chapters:** she is the one who says, before anyone else, that Orrin has the paper and does not have the person.
+- **Volumes 01–02:** carries the tenant review of Sel Kade's reserve. **Volume 10 onward:** at odds with the Weirs district time council on principle, and never confused with it.
+
+#### Bevin Sarr, 33
+
+- **Role:** second on the Weir Two night pump crew, unlicensed, and the person who survives the night Perry Vance does not.
+- **Function:** writes the crew's own hours on a board in the pump house by hand, because nobody else will. Her board is the first counter-record to the guild's *non-certified standby* line and it is never entered in any office.
+- **Guardrail:** she is a witness and a worker, not a plot device, and not the person who explains the mystery to Orrin. She knows what the night was like and what it cost, and she was not in the building when it killed Vance.
+- **Volumes 01–02:** the working witness to the omission. **Volume 09:** her board's hours are one of the items read aloud in public.
+
+#### Alma Festinger, 56
+
+- **Role:** a Green Span resident who sits the affected-district station on the witness rail for district Readings because she is on a public-health rota, and who signs because she is dutiful.
+- **Want:** nothing in particular. She is not a conspirator and not a dupe in any interesting sense. She turns up, she signs, she goes home.
+- **Function:** the volume's most efficient piece of moral pressure. She is the reason a Reading about the Weirs is lawful, and she did not know what a district standing was or what she was used for. Asked once in Volume 01, in a committee gallery, she says no — honestly, and it is written down — and nobody follows it up.
+- **Guardrail:** she is not a device and must not be written as a dupe. The point is not that she was fooled; it is that the law does not require her to know.
+- **Volume 01:** Chapter 4 signs the rail, Chapter 10 says "no" in a committee gallery. **Volume 06:** a clerk collects her name in the Assembly gallery and somebody with standing finally asks her the question, and the reader recognises her face.
+
 ## 6. Relationship milestones across the series
 
 - **Chapters 1–50:** Orrin and Mara establish a professional rule: no Reading is used without naming the blind margin.

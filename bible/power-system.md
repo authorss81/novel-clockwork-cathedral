@@ -43,6 +43,18 @@ Every answer has a real cost because the city pays it through its synchronized i
 
 A clock toll removes stored rotation from public clocks and nearby machines. Symptoms include clocks running slow, tram signals arriving late, pumps starting in the wrong order, and factories losing minutes from a shift. The damage is usually reversible, but a repeated toll can leave a district with a persistent six-minute discrepancy or a broken schedule.
 
+#### Who pays a toll
+
+The rule that makes this series possible, and the one most likely to be broken by accident in prose:
+
+- A question is filed with a **named paying district**. The engine draws that district's stored clock rotation. The name on the question is the name on the bill.
+- **Nothing in the forty-three-year Compact requires the paying district to be affected, to be asked, or to consent.** A Reading may lawfully be charged to a district that has no interest in the answer.
+- Because the draw is proportional to what a district holds, a district with a full reserve pays a rounding error and a district with an empty one pays a fraction of itself. This is why the cost of civic forecasting falls hardest on the districts that can least afford it.
+- A district can therefore be *on time* and *ruined by the same event*: its clocks were corrected, and the correction was taken out of the same people who worked the shift.
+- A submitter with no district standing — an unaffiliated citizen, an unlicensed tuner, a private contractor — can name any district in the city. Orrin names the Clockwork Quarter in Chapter 4 because it holds the most reserve and is the least affected, and the fact that he does this to save a bridge for people who were not asked is the volume's argument in one act.
+- Objecting to the charge is possible after the fact and is a matter for the Office of Public Reckoning. It is not a defence against the charge.
+
+
 ### Body toll
 
 When a district's reserves are already empty, the engine can draw on a **witness bond** or the operator's own synchronization. The person experiences **hour-sickness**: exhaustion, vertigo, a metallic taste, disorientation, and a missing interval of lived attention. Small intervals can be recovered with rest. A severe interval leaves a permanent gap in memory or a loss of physical coordination. It is not ordinary tiredness and cannot be solved by drinking water or sleeping once.

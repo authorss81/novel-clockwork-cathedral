@@ -30,8 +30,8 @@ If two files at the same level disagree, the earlier phase is corrected and the 
 | --- | --- |
 | `../outline/series.md` | Premise, protagonist definition, the three-layer mystery, the final arc fixed in advance, chapter-type distribution, power stages, antagonist ladder, relationship milestones, and all fourteen volumes. |
 | `../outline/ending.md` | Volume 14 mapped chapter by chapter: 651\u2013664, 665\u2013679, 680\u2013690, 691\u2013700, plus the Returning Tide, Orrin's final choice, the three ordered acts, the cost, the new institutions, and the mystery resolutions. |
-| `../outline/volume-01.md` | **Not yet written.** Created in the outline phase. |
-| `../outline/batches/volume-01-batch-0001.md` | **Placeholder only.** Batch cards are written in the batch-plan phase. |
+| `../outline/volume-01.md` | Volume 01 in full: central pressure, the toll-paying rule, escalation in seven steps, the Chapter 25 midpoint, the storm climax, the seven-part resolution, the batch map, and the plants it lays for later volumes. |
+| `../outline/batches/volume-01-batch-0001.md` | Cards for Chapters 1–10: the beginning, escalation, midpoint, batch climax, and aftermath, with the required reveals, the rule guardrails, and the tracked numbers. |
 
 ## Four things every chapter must respect
 

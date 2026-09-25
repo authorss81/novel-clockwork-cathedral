@@ -76,7 +76,7 @@ Orrin said it. He said it in the plain procedural voice he used for a fault, bec
 
 "A counter-record that is a complaint is worth what a complaint is worth. It becomes a method or it stays an evening. And a method means somebody has to be asked for it, and if you cannot say who may be asked then anybody may ask and anybody may be refused, and the refusal is the thing that gets written about, not the hours."
 
-"Somebody in this room has got a list of eleven addresses," said Wenna Pruitt. "And that is the most frightening object in this city and it is in this room and it is not mine, and I have known about it for three weeks, and I have not asked him for it, and I am not going to."
+"Somebody in this district has got a list of eleven addresses," said Wenna Pruitt. "And that is the most frightening object in this city and it is not in this room and it is not mine, and I have known about it for three weeks, and I have not asked him for it, and I am not going to."
 
 He looked.
 
@@ -216,7 +216,7 @@ He wrote it up in the grey book that night, on a clean page, standing up, in the
 
 ---
 
-He got the shop shut at about eleven, which was late, and he had not eaten, and he stood on the outside stair for a minute in the wet with his back against the door and worked out how much of the three weeks between now and the nineteenth was left.
+He got the shop shut at about eleven, which was late, and he had not eaten, and he stood on the outside stair for a minute in the wet with his back against the door and worked out how much of the three weeks and change between now and the nineteenth was left.
 
 Twenty-four days. A form, a fee, an interview on Tuesday, and an hour on a Sunday in which all of it had to happen at once, because the counter on the licensing floor did one thing on one day between ten and twelve, and he had read the standing notices on Monday and had not liked any of them.
 

@@ -1,6 +1,6 @@
 # Chapter 28 — The Ledger, Copied
 
-The work book came back on the Tuesday morning of the twenty-first of the third month, a week early, with a note from the back room stapled to the inside cover in a small upright hand that got smaller as it went.
+The work book came back on the Tuesday morning of the twenty-first of the third month, two days into a fortnight, with a note from the back room stapled to the inside cover in a small upright hand that got smaller as it went.
 
 > *Transcription checked and returned. Forty entries confirmed against the certification ledger, and there is nothing left in it. The maintainer is invited to check this transcription against the enclosure and to notify the licensing floor of any discrepancy. Enclosure: one leaf, taken from the labour book at the thirteenth line, and returned with the volume.*
 >
@@ -21,6 +21,8 @@ And under it, in the fair copyist's hand, which is a better hand than the origin
 He knew the original. He had read it in a hall on a Saturday in the first month, on a page where the ink above had a Sunday in it and the line under it was in a different, smaller, harder-pressed, wrongly slanting hand, and he had stood in a brick room that smelled of sizing and mouse two months ago and watched a competent woman find it in a drawer.
 
 The fair copy was perfectly made. Every character of it was right. It was signed, dated, and stamped, and it was true, and it was in a hand that any clerk in the licensing office could have identified as the work of the woman who had made eleven thousand of them.
+
+The note was signed with two letters. Six weeks ago Orrin had watched a woman with those initials stand in a room over a chandler's shop and say *it is me who made the copies* in a flat voice, and then lose nineteen years for it inside a week, and she was the hand that had straightened the page.
 
 It was also the only thing in the world that had taken the evidence out of the labour book.
 
@@ -52,11 +54,11 @@ Then Bevin Sarr came in from the passage with her sleeves up and read it standin
 
 "Yes."
 
-"I said it would be like that." She took her hand off the table. "I said the board does not leave the pump house and I said the reason and the reason was not sentimental, and every one of you heard the reason and half of you thought I was being dramatic, and I have waited three weeks for a piece of paper to come and prove it and it has come, and I want to say that I am not enjoying this, because there is a thing I have wanted for about twenty years, which is a document, and I have just been given one, and it is worse than nothing."
+"I said it would be like that." She took her hand off the table. "I said the board does not leave the pump house and I said the reason and the reason was not sentimental, and every one of you heard the reason and half of you thought I was being dramatic, and I have waited four weeks for a piece of paper to come and prove it and it has come, and I want to say that I am not enjoying this, because there is a thing I have wanted for about twenty years, which is a document, and I have just been given one, and it is worse than nothing."
 
 "Why is it worse than nothing?"
 
-"Because nothing can be argued with and this can." Bevin Sarr sat down, which she almost never did. "Look at it. It is perfect. It says the right thing in the right place in the right form and it is signed by a woman with nineteen years of her hand behind it, and if you take that into a room — any room, a committee, a landlord, an insurer, a licensing floor — then there is nothing to ask. It is finished. The hall has spoken, the hall has signed, and if the district wants to say that the twelfth line was written by somebody in a hurry on a Sunday, then the district has to say what the difference is *between two hands*, and the answer is that the difference is in a thing nobody in this city knows how to put on paper, and so the hall's copy stands, and the original is a scrawl, and a scrawl loses."
+"Because nothing can be argued with and this can." Bevin Sarr sat down, which she almost never did. "Look at it. It is perfect. It says the right thing in the right place in the right form and it is signed by a woman with nineteen years of her hand behind it, and if you take that into a room — any room, a committee, a landlord, an insurer, a licensing floor — then there is nothing to ask. It is finished. The hall has spoken, the hall has signed, and if the district wants to say that the fourth line was written by somebody in a hurry on a Sunday, then the district has to say what the difference is *between two hands*, and the answer is that the difference is in a thing nobody in this city knows how to put on paper, and so the hall's copy stands, and the original is a scrawl, and a scrawl loses."
 
 Orrin turned the leaf over. There was nothing on the back.
 
@@ -104,7 +106,7 @@ She put the slip down.
 
 "I did not think you—"
 
-"You did not think anything about it, and that is correct, and it is the correct arrangement, and we both know it and neither of us has to perform it." She turned the second sheet back the right way up. "That enclosure was not requested by anybody. Nobody in this hall asked for an extract of the Weir Two line and nobody in this hall has ever heard of the Lower Weirs pumping district. The man on the counter sent your book down to the back room because forty entries is forty entries, and the woman in the back room came to the twelfth one and read the words *Weir Two floodgate and second-stage pumping station* and did not know what a station was, and she did the only thing anybody in this building has taught her to do, which is to go and get the source and copy it out so that the maintainer could check her work against it. That is the whole of it. That is not a conspiracy. That is a copyist in a room with a name she does not know and a rule about enclosures."
+"You did not think anything about it, and that is correct, and it is the correct arrangement, and we both know it and neither of us has to perform it." She turned the second sheet back the right way up. "That enclosure was not requested by anybody. Nobody in this hall asked for an extract of the Weir Two line and nobody in this hall has ever heard of the Lower Weirs pumping district. The man on the counter sent your book down to the back room because forty entries is forty entries, and the woman in the back room came to the tenth one and read the words *Weir Two floodgate and second-stage pumping station* and did not know what a station was, and she did the only thing anybody in this building has taught her to do, which is to go and get the source and copy it out so that the maintainer could check her work against it. That is the whole of it. That is not a conspiracy. That is a copyist in a room with a name she does not know and a rule about enclosures."
 
 "I am not suggesting—"
 
@@ -118,7 +120,7 @@ She put the slip down.
 
 ---
 
-The woman in the back room was not Hester Lomas, because Hester Lomas had not been in the back room since the sixth of the second month, and Orrin found her on the Thursday afternoon three doors down Verge Lane in a front room with a shutter across the window and a table with a copying press on it, working for a man who did conveyancing in Bellweather and paid her at a rate that was, by her own account, an insult with a small book-keeping attached.
+The woman who had signed the note as E.L. was Hester Lomas, and had been since before Orrin was apprenticed, and she had not been inside the back room since the sixth of the second month, and the hall did not have her on its floor and was never going to have her on its floor again. He found her on the Thursday afternoon three doors down Verge Lane, in a front room with a shutter across the window and a table with a copying press on it, where a man who did conveyancing in Bellweather kept her on his books and paid her at a rate that was, by her own account, an insult with a small book-keeping attached.
 
 She was forty-four. She had a good hand and she had the specific stillness of a woman who has spent nineteen years not being thanked for anything, and she took one look at him in the doorway and said, "You have come about the Weir Two line."
 
@@ -146,7 +148,7 @@ Hester Lomas looked at him for a moment. Then she took a sheet out of a drawer, 
 
 He paid her the shilling. He did not try to reduce it and she did not offer.
 
-"One question," she said, at the door. "You have not asked me what I want. Everybody asks me. What I want is a lease and a will a month, on the Bellweather Road, from a man who has a chandler's shop and a business premises, and I have wanted it for eleven weeks, and I am not going to pretend that I would not take it."
+"One question," she said, at the door. "You have not asked me what I want. Everybody asks me. What I want is a lease and a wage a month, on the Bellweather Road, from a man who has a chandler's shop and a business premises, and I have wanted it for eleven weeks, and I am not going to pretend that I would not take it."
 
 "There is a chandler's shop two doors from a kitchen in Weir Lane," said Orrin, "and the man upstairs keeps a copy of a labour book because a copy in a shop is a copy in a business."
 

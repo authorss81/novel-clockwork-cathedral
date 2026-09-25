@@ -26,9 +26,9 @@ He did what any competent man would do. He took the faults on civic machines for
 
 The eighth line was the Halloway Street pillar clock, and it took a line and a half, and it is the truest thing in the book this year.
 
-*Halloway Street pillar clock. Within tolerance on four readings, the district file being three minutes short of the truth, as this maintainer certified in the first month. I corrected two minutes by hand, with a bar, on a Sunday night some days afterwards, in about eleven minutes, on the tail of the works' visit. No receipt, no form, charged to no district. Hand correction, not a fault. Nothing further recommended.*
+*Halloway Street pillar clock. Within tolerance on four readings, the district file being three minutes short of the truth, as this maintainer certified in the first month, and the file is still three minutes short, and the two minutes it is short by are not entered on any form in this city and are not entered here. No receipt, no form, charged to no district. Hand correction, not a fault. Nothing further recommended.*
 >
-*Second hand correction entered in this book in nineteen years. The other is a bracket clock at the Ferrywright corner, eight minutes, the same week. Neither is on a form and neither is on a receipt, and this form has no column for it, which is why it is written here, and this is the only copy of either of them in any office in this city.*
+*Two hand corrections are entered in this book in nineteen years and neither of them is on this form, because this form has no column for one: eleven minutes on a lane in the Weirs, with a bar, on a wet road, in about an hour, in the month of the second; and eight on a bracket clock at the Ferrywright corner, in about eleven minutes, the same. Neither is on a receipt and neither is on a form, and the reason they are written here is that this is the only copy of either of them in any office in this city, and the count is two, and it was two before this morning and it is two after it.*
 
 That was the last of the forty that was going to be easy. Everything after it on that form was going to be about other people's hours and there was nothing on the form for that either.
 
@@ -80,7 +80,7 @@ He did not tear it out. He read the whole of the entry back from the top, and he
 
 And then, because he was still a clockmaker, and because the phrase is the only one that carries the size of the thing:
 
-*I am not going to take it out, because it is true, and because a rule that you only keep when it works is not a rule, and because a woman told me that in a corridor three weeks ago and she was right, and because if I take it out then the only record of what I have found is a book in a shop with a lease, and that was not good enough in the month before last and it is not good enough now.*
+*I am not going to take it out, because it is true, and because a rule that you only keep when it works is not a rule, and because a woman told me that in a corridor five weeks ago and she was right, and because if I take it out then the only record of what I have found is a book in a shop with a lease, and that was not good enough in the month before last and it is not good enough now.*
 
 He put the entry in.
 
@@ -96,7 +96,7 @@ And then, on the front of the sheet, in the space under the four printed things:
 
 And on the second sheet, which is the hall's return copy, and which is not asked for and which a man on a counter will hand you over because he can see you have not thought of it: the same, and the date, and his name, and the class, and the fee.
 
-He was on that bench from twenty-five to three until about ten to ten, in the rain, on the last day of his licence, and he was the only one on it, and it was the seventh hour of a bench.
+He was on that bench from twenty-five to three until about ten to ten, in the rain, on the last day of his licence, and he was the only one on it, and it was the nineteenth hour of a bench.
 
 ---
 

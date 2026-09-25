@@ -1,6 +1,6 @@
 # Chapter 25 — The Water Schedule
 
-The notice went up on the ward board outside the Weir Two pump house at about twenty past eight in the morning on the eighth day of the third month, on a sheet of cartridge paper with four drawing pins, and it was the reason it was lawful, and it was eight and a half hours' notice.
+The notice went up on the ward board outside the Weir Two pump house at about twenty past eight in the morning on the eighth day of the third month, on a sheet of cartridge paper with four drawing pins, and it was the reason it was lawful, and it was an hour and forty minutes' notice.
 
 Orrin came down the slipway at half past eight with his case in his hand and found six people standing in the rain reading it.
 
@@ -27,7 +27,7 @@ They got to the Rise at ten past nine. The Question Hall was full by ten, and fu
 
 The hall had nine benches of seating in rows and a rail at the front of it in brass, three stations on the rail, and behind the rail the question spindle on a pillar, and to the left of that, behind a screen of pierced brass, the edge of the Loom — water columns, weighted arms, copper paths, and a row of pressure drums along the bottom, all of it moving very slowly, all of it making a noise like a building breathing.
 
-The gallery was up a step at the left-hand end, with nine chairs in it, and six of the nine were taken before Orrin came in, and by ten past ten there were forty people standing in the space behind the benches who had no business being in a Question Hall at all and were in it because the district had come.
+The gallery was up a step at the left-hand end, with nine chairs in it, and six of the nine were taken before Orrin came in, and by ten past ten there were some forty people standing in the space behind the benches who had no business being in a Question Hall at all and were in it because the district had come.
 
 Wenna Pruitt was in the fourth bench. Teo Arden was standing against the wall at the end of it with his arms folded. Bevin Sarr was in the third bench. Hester — no. Bessie Crane had not come, and had sent a message, and Orrin did not know yet what the message was. Hanna Stroud was in the front row, on the end, in her good coat, and she was not there as a witness and everybody in the room could see that she was not there as a witness.
 
@@ -224,7 +224,7 @@ And the number on the stair was still the only number this city published, and i
 
 He stood on the stair in the rain and looked at the two figures and did the sum, because it was the sum, and because it was the only thing he had.
 
-*First month. Third month. Three minutes, and a footer that said a night crew was not represented. Now twenty-six minutes, and a footer that says district labour is not represented. Twice the size, twice the width, and the second one is better in every measurable way, and the water is worth more than the bridge was, and nobody did anything wrong, and four people in a room nine days ago in the Weirs sat in the rain reading a notice that had been posted on the outside of a pump house because the ordinance required it.*
+*First month. Third month. Three minutes, and a footer that said a night crew was not represented. Now twenty-six minutes, and a footer that says district labour is not represented. Twice the size, twice the width, and the second one is better in every measurable way, and the water is worth more than the bridge was, and nobody did anything wrong, and eight people stood on a wet slipway in the rain thirteen days ago because there was tea in a pump house, and four drawing pins is what the ordinance asks for.*
 
 *And there is not one thing in this city that I can put in a sentence that makes the next one smaller.*
 

@@ -6,7 +6,7 @@ The ropeworks clock at Ombersley's is a three-dial wall piece with a fusee gone 
 
 "He did not. He told me it would be four pounds and change and then it was four pounds eleven and change." Ombersley wiped his hands on his apron, which was what you did in a ropeworks. "Six years I have had men in here and they have all done the same thing, and you have never once done it, and I do not know whether that is because you are honest or because you are bad at asking. Go on, I do not care which."
 
-There was nothing wrong with that clock that a good clean and a new strike spring would not have fixed, and it took six hours on the wall and every one of them was was a trade he had been doing since he was fourteen, and at the end of it Orrin Vale sat on a sack in a ropeworks in the Clockwork Quarter with his back against a wall and his hand open on his knee, feeling the hand close and open, close and open, four or five times, like a man testing a hinge.
+There was nothing wrong with that clock that a good clean and a new strike spring would not have fixed, and it took six hours on the wall and every one of them was a trade he had been doing since he was fourteen, and at the end of it Orrin Vale sat on a sack in a ropeworks in the Clockwork Quarter with his back against a wall and his hand open on his knee, feeling the hand close and open, close and open, four or five times, like a man testing a hinge.
 
 It did not close cleanly. The little finger still came late. It had been that way since the seventh of the second month and it was better on a good day's sleep and worse on a bad one, and there was no way on this earth to certify a thing with it, and a fusee and a strike train cannot be done with the side of a thumb.
 
@@ -62,7 +62,7 @@ He did the entry for the twenty-eighth of the second month, which he had not don
 
 > *He gave me the second sheet of the W-4, which nobody asks for, and told me the counter is open on Sundays, which is true and which I did not know, and told me the escapement on his own bench wants oiling, which I could not have heard in a room full of men, and which I would have found in nine minutes at nineteen years old.*
 
-> *Cost of that morning: three weeks and a day of margin, spent in forty minutes. Nothing else. No fee moved, no date moved, no threat made. I have been leashed by a form and a conversation since the twenty-fifth of the first month and the leash has never once been pulled and it is not a rope and it is not going to be. I want that written down while I still feel it, because in six weeks the feeling will have gone and I shall think I imagined it.*
+> *Cost of that morning: nineteen days of margin, spent in forty minutes. Nothing else. No fee moved, no date moved, no threat made. I have been leashed by a form and a conversation since the twenty-fifth of the first month and the leash has never once been pulled and it is not a rope and it is not going to be. I want that written down while I still feel it, because in six weeks the feeling will have gone and I shall think I imagined it.*
 
 Then he turned to a clean page, because he had been working on something for a week and it wanted writing down and it was not a machine.
 
@@ -138,7 +138,7 @@ And then he took it down to Weir Lane on the Wednesday morning and gave it to We
 
 She read it at the table with the lamp on. It was a long sheet. It had three disagreements in it and it did not resolve them, and it was correct.
 
-"That is the first thing anybody in this district has handed me that is any use at all," said Wenna Pruitt, "and I am not going to say thank you, because it is not yours, and because in about four months somebody is going to ask who wrote it, and I want the answer to be the three of them and a clockmaker and nobody else." She put it under the eleven years. "It goes in with the returns. The committee's next sitting is on the fourth of the month, and the returns go in with the minutes, and the printing is paid for until the end of the summer, and I shall put it in the appendix, and there is no form for an appendix, so the clerk will do it because I will ask her in a corridor, and that is the whole of the mechanism and it is a woman saying yes in a corridor."
+"That is the first thing anybody in this district has handed me that is any use at all," said Wenna Pruitt, "and I am not going to say thank you, because it is not yours, and because in about four months somebody is going to ask who wrote it, and I want the answer to be the three of them and a clockmaker and nobody else." She put it under the eleven years. "It goes in with the returns. The committee's next sitting is on the fourth of next month, and the returns go in with the minutes, and the printing is paid for until the end of the summer, and I shall put it in the appendix, and there is no form for an appendix, so the clerk will do it because I will ask her in a corridor, and that is the whole of the mechanism and it is a woman saying yes in a corridor."
 
 She looked up.
 

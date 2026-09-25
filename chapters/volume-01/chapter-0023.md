@@ -170,7 +170,7 @@ The room on the second floor of a building on the Rise was very quiet, and out o
 
 "And I am not saying it is wrong," said Mara Venn. "I am saying it is *expensive*, and that it is the cheapest expensive thing on the table, and that I have been the only person in this city for four weeks holding it, and I would like somebody else to hold it for a minute so that I can find out whether I still want it."
 
-Orrin looked at her for long enough that she said, "No. No, I did not mean you. You have a name and no standing and it is the wrong way round and we worked that out two days ago on a Sunday in a cold room. I meant somebody who has to be answerable for it in a chamber. And there is nobody, and that is the answer, and I have had it since the sixteenth and I did not like it, and I have been enjoying three days of not having said it out loud."
+Orrin looked at her for long enough that she said, "No. No, I did not mean you. You have a name and no standing and it is the wrong way round and we worked that out last night, in a cold room above a bathhouse, with the lamp pulled over. I meant somebody who has to be answerable for it in a chamber. And there is nobody, and that is the answer, and I have had it since the sixteenth and I did not like it, and I have been enjoying two days of not having said it out loud."
 
 ---
 
@@ -200,11 +200,11 @@ Orrin walked down the hill at twenty to four and stopped at the bottom of it, at
 
 *Fourth hours. Not fourteen months. Four hours, and a card with a form number, in a drawer, since before I was apprenticed, waiting for somebody to ask.*
 
-*Notebook, licensing floor, notice five: a renewal is complete only when fee, endorsement and work book have all been received at the counter, and the counter receives renewals on the day of expiry only, between ten and twelve. The card says the nineteenth. The card does not say ten or twelve. Four days of slack have gone out of my trade in the last month, by typesetting.*
+*Notebook, licensing floor, notice five: a renewal is complete only when fee, endorsement and work book have all been received at the counter, and the counter receives renewals on the day of expiry only, between ten and twelve. The card says the nineteenth. The card does not say ten or twelve. A month ago a man had four weeks to bring three things to a counter that shut at four and shut at the weekend. He has two hours on one Sunday morning, and he found out about it on a Monday, by typesetting.*
 
-*It costs nothing. I have done the arithmetic twice on a wet pavement. The W-4 has to be written out of a book that is not a form and was never going to be ready in four days, and the fee is 4s 6d and the endorsement is a signature and a signature is a man who will be in that room on the nineteenth. Four days was never the constraint. The book is the constraint, and the book is two thousand pages in my own hand, and a hand is the only thing I have got that a hall cannot print.*
+*It costs nothing. I have done the arithmetic three times on a wet pavement. The W-4 has to be written out of a book that is not a form and was never going to be ready in a fortnight, let alone a day, and the fee is 4s 6d and the endorsement is a signature and a signature is a man who will be in that room on the nineteenth. The whole of it was never the constraint. The book is the constraint, and the book is two thousand pages in my own hand, and a hand is the only thing I have got that a hall cannot print.*
 
-*So the four days are free, and the board on the licensing floor is a real thing, and it has cost me nothing at all, and I have read it in the wrong week. Notice five would have cost a man in an ordinary year exactly nothing, and it will cost a man exactly nothing in every year after this one, and I have got four days of warning because the printer changed a sentence and I happen to want a book.*
+*So the window is free, and the board on the licensing floor is a real thing, and it has cost me nothing at all, and I have read it in the wrong week. Notice five would have cost a man in an ordinary year exactly nothing, and it will cost a man exactly nothing in every year after this one, and the whole of what I have lost went out of my trade in typesetting, in the last month, while I was busy wanting a book.*
 
 *That is what is underneath all of it. Not a threat. A bill. Hask's bill. Hask did not have to move a single thing. I have moved it myself, on a Monday, in the rain, by wanting a book, and I shall go down there on the nineteenth of the third month with a fee in my hand and a form in a bag and I shall be glad to.*
 

@@ -1,6 +1,6 @@
 # Chapter 30 — What a District Decides
 
-The tenant council's rooms were two rooms over a laundry on Bellweather Road, and they had been two rooms over a laundry for nineteen years, and the whole of the district's business was done in them on the Wednesday morning of the twenty-ninth, and the reason the district had got as far as a Wednesday morning is that it had spent four weeks discovering what it was.
+The tenant council met in the back room over the chandler's shop on Weir Lane, which it had been using for about eleven years because none of its members could pay the door of a licensed hall and the chandler had a bench and a great deal of unpaid goodwill, and the whole of the district's business was done in there on the Wednesday morning of the twenty-ninth, and the reason the district had got as far as a Wednesday morning is that it had spent four weeks discovering what it was.
 
 There were nineteen people in the room and one of them had the chair, and the chair was a rule from before the war that had not been used since the pump house got its second motor, and the woman holding it had not wanted it and had said so twice, and it was hers for the morning and she got up from the table and gave it to Bevin Sarr at nine o'clock and did not take it back at eleven.
 
@@ -36,7 +36,7 @@ She took her hands off the table.
 
 They argued it for two hours and ten minutes and the vote was seven to three to one, and it was not close, and Teo Arden voted against and said before the vote was taken that he would not be bound by it, and that he was not going to go and print anything behind her back, and that the two of them ought to stop pretending they were on the same side of this.
 
-"That is nearly respect," he said, when she said it had been in the second month.
+"That is nearly respect," he said, when she said the printing had begun in the second month.
 
 "It is nearly arithmetic," said Wenna Pruitt, "and it will not be the same arithmetic in a year, and I am not going to be surprised in a year and neither are you."
 
@@ -56,7 +56,7 @@ She picked her coat up off the chair.
 
 "The third thing is that I am not going to be asked about the reserve in this room, and I am going to say the reason before anybody asks, so that nobody can say afterwards that they were kept in the dark. I moved the pumping ward's reserve in the second month to Carrow Street, to seventy-one households, and I said so out loud on a street, and I offered it to a committee myself, and it is in the minutes, and it has not been reviewed by anybody, and it is not going to be reviewed by anybody who is in this room.
 
-"And I am telling you that because you are about to go into this next business with an idea that a district can hold its own, and a district can hold its own, and so can I, and a pump warden who is asked to account for a reserve in the same fortnight that the same reserve is the reason a ward could not be got a window is a warden who will spend the rest of her life in rooms being asked about the diversion. I know that. I have watched it happen to a man in Bellweather. So I am going to say it in my own room, in my own words, at my own table, and not in a room like this one, and if anybody in this room thinks that is a dodge, they are entitled to, and it is a dodge, and it is also correct, and both of those can be true at nine in the morning on a Wednesday."
+"And I am telling you that because you are about to go into this next business with an idea that a district can hold its own, and a district can hold its own, and so can I, and a pump warden who is asked to account for a reserve in the same fortnight that the same reserve is the reason a ward could not be got a window is a warden who will spend the rest of her life in rooms being asked about the diversion. I know that. I have watched it happen to a man in Bellweather. So I am going to say it in a room like this one, in my own words, at this table, and not in an office, and if anybody in this room thinks that is a dodge, they are entitled to, and it is a dodge, and it is also correct, and both of those can be true at nine in the morning on a Wednesday."
 
 She stopped at the door.
 
@@ -68,7 +68,7 @@ She went out.
 
 Orrin had said nothing for two hours and ten minutes, and he had been in the room, and the difference between a room he could be in and a room he could only be written about in turned out to be, in the Weirs, on a Wednesday morning, almost nothing at all: nobody had told him he could not speak, and nobody had asked him for anything, and both of those were the same as being absent.
 
-He stood up at about a quarter to eleven, after the vote, and asked whether he might say one thing, and Wenna Pruitt said he could, and he understood from the way she said it that she was giving him the floor and not a vote, which is the correct arrangement and which is not a thing anybody in the Room would have thought to arrange.
+He stood up at about a quarter to eleven, after the vote, and asked whether he might say one thing, and Wenna Pruitt said he could, and he understood from the way she said it that she was giving him the floor and not a vote, which is the correct arrangement and which is not a thing anybody in that room would have thought to arrange.
 
 "The only instrument I have got," he said, "is a rule. It says that nothing of mine goes out of a room without a person named who can refuse it. It stopped me on the eighth in the Question Hall, in front of a hundred and thirty people, because a boy of twenty would not let me say a true thing with no form under it, and he was right, and it is the only piece of my own method that has ever done anything at all.
 
@@ -86,7 +86,7 @@ Nobody voted on that, because it was not a motion, and there was no form for it.
 
 The costs came out on the Thursday and they were not surprises, because Wenna Pruitt had said in the room on the Wednesday that they would come, and had said it in the past tense, which is how a woman of thirty-eight tells a room that she has already done the sum.
 
-The Advertiser stopped. That was the first and it was the largest. A page in a weekly needs a subject every week and a district that has decided not to be a party to a question cannot have a page about the question, and the printing shop on the Friday took the type down and put it up again, and the man who set it was owed eleven shillings for a fortnight's work, and there are eleven issues of the paper in a binder in a room off Weir Lane that describe a district in terms nobody in that district is willing to be described in, and a column that said the district had been told to be reasonable and had been.
+The Advertiser stopped. That was the first and it was the largest. A page in a weekly needs a subject every week and a district that has decided not to be a party to a question cannot have a page about the question, and the printing shop on the Friday took the type down and put it up again, and the man who set it was owed eleven shillings for a fortnight's work, and there are seven issues of the paper in a binder in a room off Weir Lane that describe a district in terms nobody in that district is willing to be described in, and a column that said the district had been told to be reasonable and had been.
 
 "You are joking," said Teo Arden, on the Thursday morning. "We have just spent four weeks in that paper. It is the only door in this city. If we stop printing we are—"
 
@@ -120,7 +120,7 @@ Renn Corby put a sheet of paper on the table on the corner of the table, squared
 
 One clause of his, at the bottom of a page, about as long as a sentence, in a note to a line item about four pounds ten, in a public return, in an appendix, in a footnote.
 
-He read it twice at the table and then took out the grey book and read it a third time, standing up, with the rain going past the window of a room over a laundry on Bellweather Road, in a district he did not live in and was not a member of and could not be a member of.
+He read it twice at the table and then took out the grey book and read it a third time, standing up, with the rain going past the window of a back room over a chandler's shop on Weir Lane, in a district he did not live in and was not a member of and could not be a member of.
 
 "That is a footnote," he said. "In somebody else's document. On page nine. In an appendix. About a printer's line."
 
@@ -136,7 +136,7 @@ He read it twice at the table and then took out the grey book and read it a thir
 
 ---
 
-He went up to the Quarter on the Thursday evening about six, and went into the shop, and shut the door, and it was the end of the third month of a year in which nothing whatever had happened to him, and he was a licensed maintainer with a wet stamp on a receipt and a district that had decided in a room over a laundry that it would not be a single thing.
+He went up to the Quarter on the Thursday evening about six, and went into the shop, and shut the door, and it was the end of the third month of a year in which nothing whatever had happened to him, and he was a licensed maintainer with a wet stamp on a receipt and a district that had decided in a room over a chandler's shop that it would not be a single thing.
 
 The right hand closed, mostly. The little finger was still late. The hum in the ear came up when the light went and went away when the light came, and he did not write it down because there is nowhere to write it that is not the grey book, and the grey book is not a record and he had proved that in a room on Bellweather Road.
 

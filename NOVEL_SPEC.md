@@ -1,33 +1,18 @@
 # Novel Specification
 
-Title: [Novel title]
-
-Repository slug: [novel-slug]
-
-Genre: [Genre]
-
-Male lead: [Name, age, occupation, want, need, flaw]
-
-Length target: [500–1000+ chapters]
-
-Current phase: bootstrap
+Title: The Clockwork Cathedral
+Repository slug: novel-clockwork-cathedral
+Genre: scientific fantasy / political mystery
+Male lead: A clockmaker who reads consequences in a living machine
+Length target: 700 chapters
+Relationship policy: One slow-burn relationship or no romance, decided in the bible phase.
+Power rule: Growth must be earned through practice, cost, failure, relationships, and changed decisions. The lead must not become instantly overpowered unless the approved genre premise requires it.
 
 ## Premise
-
-[One-sentence premise]
+A clockmaker discovers a cathedral whose machinery predicts the consequences of moral choices and charges the city for every answer.
 
 ## Ending
+The cathedral is dismantled or placed under public control without destroying the city's ability to act.
 
-[Planned final conflict, final choice, relationship resolution, and world outcome]
-
-## Relationship policy
-
-[One slow-burn relationship or no romance]
-
-## System language
-
-[Readable fictional system rules, limits, and costs]
-
-## Current canon
-
-No chapters have been generated yet.
+## Status
+Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.

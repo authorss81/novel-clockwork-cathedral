@@ -211,7 +211,7 @@ Six people carry Volume 01's institutional machinery. Each has one clean functio
 
 #### Sindri Lake, 55
 
-- **Role:** keeper of the public Archive room on Cathedral Rise, which is staffed, open to petition, and staffed by a man who can decline.
+- **Role:** keeper of the public Archive room on Cathedral Rise, which is open to petition and staffed by a man who can decline.
 - **Function:** the sentence *referred to the sealed archive*. Polite, precise, immovable, and never a liar; the distinction between a room that is closed and a room that is not for petition is the chapter's whole argument.
 - **Volume 01:** refuses Orrin's request in Chapter 8 and explains why in three sentences, kindly. **Volumes 02 and 09:** the same man, the same courtesy, in the room where the index is opened.
 

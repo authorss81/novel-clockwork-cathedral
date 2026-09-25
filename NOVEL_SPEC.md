@@ -15,4 +15,4 @@ A clockmaker discovers a cathedral whose machinery forecasts the consequences of
 The cathedral is dismantled or placed under public control without destroying the city's ability to act.
 
 ## Status
-Bootstrap complete. `bible/`, `outline/series.md`, and `outline/ending.md` exist and are the authority for this novel; the state files carry the working canon. No chapter prose has been generated yet. Next phase: `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`, then Chapters 1–10.
+Bootstrap and outline phases complete, both reviewed. `bible/`, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, and `outline/batches/volume-01-batch-0001.md` exist; the bible is the authority for the world's rules and the volume outline is the route inside Chapters 1–50. No chapter prose has been generated yet. Next phase: Chapters 1–10 from the batch 0001 cards, then batches 0002–0005 for the rest of Volume 01.

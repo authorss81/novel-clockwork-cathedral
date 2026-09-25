@@ -191,6 +191,8 @@ TOLL: One district-minute and a witness interval.
 
 The notice is incomplete by design. Orrin must interpret it, and the story must show what happens after people act. A chapter should use at most one such notice unless multiple notices are the subject of the scene.
 
+The example above is a **canonical example, not a fixed template.** Notices vary in wording and in which machine they describe. What does not vary is the shape: four lines, in that order, in plain declarative language, with the blind margin present and printed small. In particular, the printed PRESSURE line states its band **flatly**, without hedges — the uncertainty described in section 3 lives in what the band actually contains behind the sentence, not in qualifiers the notice is obliged to print. A notice that hedges its pressure line is out of form, and a writer should not "correct" a flat line into a cautious one.
+
 ## 10. Ending constraint
 
 The final reform does not make the power system harmless. Operators can still make mistakes, local clocks can still slip, and communities can still misuse a Reading. The change is institutional: no one person or office can turn a forecast into a command, every Reading has a named toll, and the central engine can be physically disconnected.

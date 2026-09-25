@@ -20,7 +20,7 @@ The stair had been dark since the second month of the year. It was not a fault. 
 
 Teo Arden had read that letter in a kitchen on Weir Lane in the third month and had decided, in the way of a man of twenty who has never once in his life been wrong about a machine, that he would put it right himself on a night, and had found out in the space of about four hours that putting a light right took him eleven days, two section caps he did not need, a set of gate gear out of a works store for a job he abandoned on the towpath at three in the morning, and one 1904 bracket off a standpipe riser in a block of twenty-two households.
 
-He did the work well. That has to be said and it has to be said by somebody who knows, because everything else in this chapter depends on it.
+He did the work well. That has to be said, and it has to be said first, and it has to be said by somebody who knows, because everything that follows on this page is going to be about the cost of it.
 
 He brought the power back on the dead branch at the boardinghouse without touching a single part of the district's supply, by running a short spur off the landing light's own transformer and putting the feed on the other side of the break, which is a thing that can be done and is not supposed to be done and which takes about four hours if you know which side of the break it is and eleven if you don't. He used the gate wheels and the pinion and the drum to make a bracket for a lamp that had none, out of a pattern he had drawn on the back of a works requisition in a hand that is not his own. He ground the 1904 bracket to the wall, tapped it, painted it with a tin of district grey, and put three screws into a brick that is a facing and not a wall, because there was nothing else in the front room of a boardinghouse at one o'clock in the morning to put them into.
 
@@ -90,7 +90,7 @@ There was no room. There was a landing with a wet ceiling and four people on it:
 
 "It was me. All of it. The collars off the towpath on Wednesday at two in the morning and I have not told you where they came from and I am telling you that too, so ask me. The five things out of the store on Thursday, including the bracket, including the gear I am not going to use because I have used it already and I am sorry about that, and I signed for all five in my own name and I put the laundry's address down because it is the only one in that book that is a building a person can be found at and I will not put a child's."
 
-That last sentence landed on the landing and went nowhere, which is what the reader would expect and not what Orrin expected.
+That last sentence landed on the landing and went nowhere, the way a sentence does in a stairwell with a wet ceiling and four people standing in it, and it was not what Orrin expected.
 
 "You put a false address in a store's issue book," he said.
 

@@ -2,7 +2,7 @@
 
 The schedule of maintenance works for the Lower Weirs pumping district is a single sheet, printed on both sides, with a rule at the head and a table beneath it, and it went up on a board outside the district works' yard on the Thursday morning of the twenty-seventh of the fourth month, and it went up on the same board as the water-main repairs and the hydrant renewals and a notice about a closure.
 
-It is a good sheet. That has to be said first and it has to be said without anything else, because the argument of this chapter is that the document in front of you is excellent and correct and lawful and published, and that none of those four words is a defence of anything at all.
+It is a good sheet. That has to be said first and it has to be said without anything else, because the whole of what follows turns on the sheet being excellent and correct and lawful and published, and because none of those four words is a defence of anything at all.
 
 > *DISTRICT WORKS PROGRAMME. SCHEDULE OF MAINTENANCE WORKS, LOWER WEIRS PUMPING DISTRICT. Adopted the twenty-second inst. Programme year three of the current triennium.*
 
@@ -99,13 +99,13 @@ It went up on the same board, over the top of the old one, and the type was the 
 > *As adopted, with the addition at item 10:*
 > *10. Inspection interval. Every item in this schedule to be inspected at the interval stated by the works' engineer and not exceeding twelve months, from the date of adoption. The first inspection falls in programme year one. The interval and the results of inspection to be published in the district's own sheet and not filed only.*
 
-And the total on the new sheet was **£4 613 18s 10d**, because eleven inspections a year for three years at a district works' rate, plus the re-survey of the main brought forward from year two into year one, and the sum had gone up by four hundred and eleven pounds and eight shillings and fourpence in the space of about six hours, and nobody in that room thought that was important, and Orrin Vale did, standing at a board in the rain at half past five in the evening with a sheet of his own arithmetic in his pocket.
+And the total on the new sheet was **£4 613 18s 6d**, because item 10 put eleven inspections a year on the schedule for three years at the district works' rate of **twelve pounds nine shillings and fourpence** the inspection, which is thirty-three of them, and the sum had gone up by **four hundred and eleven pounds and eight shillings** in the space of about six hours, and nobody in that room thought that was important, and Orrin Vale did, standing at a board in the rain at half past five in the evening with a sheet of his own arithmetic in his pocket.
 
 ---
 
 Here is the arithmetic, and he did it at the bench that night with the grey book open and the hand shut, because it took him about two hours and it is the only arithmetic in this book that anybody will want in a year's time.
 
-*The published total for three years of maintenance in the pumping district: £4 613 18s 10d. The figure without the inspection interval: £4 202 10s 6d. Both are real and both are on a board and both are in type that is well set.*
+*The published total for three years of maintenance in the pumping district: £4 613 18s 6d. The figure without the inspection interval: £4 202 10s 6d. The difference is thirty-three inspections at twelve pounds nine shillings and fourpence. Both are real and both are on a board and both are in type that is well set.*
 
 *The hall's price schedule: two shillings the head for a year, maintenance-deferred class, standing withdrawal, form GH-9. Four men. Eight shillings. For a year.*
 
@@ -117,7 +117,7 @@ Here is the arithmetic, and he did it at the bench that night with the grey book
 
 *And nobody chose that. That is the sentence. A price schedule is a page of a hall's book with hourly rates in it and it knows exactly what a night's work costs, because it is a page of hourly rates. A works programme is a page of a committee's book with item rates in it, and it knows exactly what a governor costs and exactly what a bearing costs and exactly what a survey costs, and none of the three numbers is a man. The arithmetic is not a mistake. The arithmetic is the correct use of a well-run system, and the system is not corrupt, and nobody in it is a villain, and the eight shillings and the four thousand two hundred and two pounds were both set by competent people who were each doing exactly what their book was for.*
 
-*And that is what the volume has been about since the fifteenth of the first month, and I have been writing it down in this book since the nineteenth of last month as though it were an event, and it is not an event. It is a budget. Nothing in this business has ever been a scandal. Everything in this business is a budget.*
+*And that is what all of this has been about since the fifteenth of the first month, and I have been writing it down in this book since the nineteenth of last month as though it were an event, and it is not an event. It is a budget. Nothing in this business has ever been a scandal. Everything in this business is a budget.*
 
 He read that last line twice and it did not improve, and he left it.
 

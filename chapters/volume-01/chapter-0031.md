@@ -20,16 +20,17 @@ The man looked at him for a second. "That's not what I asked you, Mr Vale. I ask
 
 ---
 
-The shop book for the first day of the fourth month has four lines on it, and the fourth is the one he would come back to.
+The shop book for that week has five lines on it, and the fifth is the one he would come back to.
 
-> *Shop book, fourth month. Saturday the 1st.*
+> *Shop book. Week ending Saturday the 1st of the fourth month.*
 >
-> *The 28th, a Tuesday — man brings a carriage clock out of a street on the Green Span line, four miles from the Quarter and four miles from the Weirs, hospital at the end of it. His own street, his wife, and the corner. Since Tuesday. Nobody sent.*
-> *The 29th.*
-> *The 30th, a Thursday. Clock taken, diagnosis begun, nine minutes with the gauge, no answer. Shop shut for the counting.*
+> *The 28th, a Tuesday. Two carriage clocks in and out, both sound, both wanting the same thing, which is to be told the time.*
+> *The 29th. Down the Weir Lane rooms all day on somebody else's business. Nothing taken in. Book written up at night.*
+> *The 30th, a Thursday. Clock brought over the counter at about six in the evening and left on the bench. Diagnosis begun, nine minutes with the gauge, no answer. Shop shut for the counting.*
+> *The 31st, a Friday. Nothing taken in. Clock under a cloth and the book open at Thursday, because a shop book is a sequence of days and a day that is not on it is a day that did not happen.*
 > *The 1st, a Saturday. Carriage clock: minute hand out of true, worst at the hour, so the error cannot be read to better than about two minutes and no reading of it is a reading of the clock. Trued the hand. Error after truing: 1 min 40. Constant to a second on six readings over two hours. Same as Bellweather Road. Same as the corner. Not the clock.*
 
-He had written *There was no Friday and there was not going to be one* in the margin at some point during the Thursday and had not thought about it again. The month had thirty days in it and the thirtieth was a Thursday and after that the first of the fourth was a Saturday, and the book made him write it out because a shop book is a sequence of days and this one had skipped.
+The man came back at half past eight on the Saturday morning with his hat in his hand, because a man who has left a clock on somebody's counter since Thursday evening is a man who would like it finished, and Orrin had spent the Friday doing nothing at all to the clock, because a shop book is a sequence of days and there are days in it with nothing in them, and he has written them in for forty years.
 
 ---
 
@@ -72,7 +73,7 @@ The errors in seconds were a hundred, three hundred, five hundred, and seven hun
 
 > *Errors in seconds: 100 — 300 — 500 — 700. Common difference 200. That is a mesh, and the distances are not, and I want that written down before I build anything on it, because the four places I chose are four hundred yards apart and then two and a half miles apart and then two miles apart, and a progression of errors over irregular distances is not a law, it is four machines and a coincidence, and a coincidence of four is a thing you find two of a week.*
 >
-> *So the progression is not the finding. The finding is the direction and the date. All four are slow. All four are slow by a multiple of the same step, and the step is fifty seconds, and the multiples are one, three, five and seven, and there is no eighth and no sixth anywhere on this line that I can get to.*
+> *So the progression is not the finding. The finding is the direction and the date. All four are slow. All four are slow by a whole number of the same unit, and the unit is a hundred seconds, and the multiples are one, three, five and seven, and there is no eighth and no sixth anywhere on this line that I can get to.*
 >
 > *The date is the finding. Not one of these four was out before the fifteenth of the third month and not one has moved since, and the fifteenth of the third month is the first night of the canal-front schedule, and a line that divides by eight and is taking its beat off the odd teeth is a line that was surveyed for two cycles a day.*
 >

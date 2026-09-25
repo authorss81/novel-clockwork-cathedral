@@ -1,8 +1,8 @@
 # Chapter 32 — The Schedule Has No Address
 
-The canal-front schedule lapsed at midnight on Thursday the thirtieth of the third month, and nothing happened at midnight, and nothing happened on the Friday that was not there, and by eight o'clock on Saturday morning the pumping district's front was back on the standing rotation, drawing at night the way it had drawn for eleven years before anybody thought there was a question to ask.
+The canal-front schedule lapsed at midnight on Thursday the thirtieth of the third month, and nothing happened at midnight, and nothing happened on the Friday or the Saturday or the Sunday either, and by eight o'clock on Monday morning the pumping district's front was back on the standing rotation and had been for three nights, drawing at night the way it had drawn for eleven years before anybody thought there was a question to ask.
 
-Bevin Sarr came down the slipway at about ten on the Saturday morning with the ward's own night book under her arm, and she put it on the counter of Vale's Bench without opening it, which she had never done before.
+Bevin Sarr came down the slipway at about eight on the Monday morning with the ward's own night book under her arm, and she put it on the counter of Vale's Bench without opening it, which she had never done before.
 
 "Last night," she said. "One go. The front gave up one go and went back to drawing at eleven at night like a clock, and the water is where it is supposed to be, and I have been down there since half past ten watching it be correct."
 
@@ -12,7 +12,7 @@ Bevin Sarr came down the slipway at about ten on the Saturday morning with the w
 
 "Have you been up to the corner since?"
 
-"Twice. It has not moved. It is not going to move." She looked at him. "You have got three days to use that before somebody comes and asks you what it means, and they will not like the answer, and neither will I, and neither of us is going to be in a position to say anything the district can do about it."
+"Twice. It has not moved. It is not going to move." She looked at him. "You have got the whole of today to use that before somebody comes and asks you what it means, and they will not like the answer, and neither will I, and neither of us is going to be in a position to say anything the district can do about it."
 
 ---
 

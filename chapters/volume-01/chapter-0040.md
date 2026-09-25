@@ -8,7 +8,7 @@ He had written the rule on a Sunday in the second month and it had been the reas
 
 So he said it out loud in the outer room before he went in, to nobody, because the rule is not a rule about being alone, it is a rule about a person who can refuse, and the refusing has to be available to somebody who knows what is being refused.
 
-"I have got a sheet in my coat that is about you and it is eighteen years old and I have had it since the second of last month and I have not brought it to you, and I am bringing it to you now, and you can refuse it and I will take it away and I will not put it anywhere. That is the whole of what I am saying and you may tell me to go and eat my lunch."
+"I have got a sheet in my coat that is about you and it is eighteen years old and I have had it since the second of the second month and I have not brought it to you, and I am bringing it to you now, and you can refuse it and I will take it away and I will not put it anywhere. That is the whole of what I am saying and you may tell me to go and eat my lunch."
 
 "I have got eleven minutes before the tide," said Sel Kade. "Say it again in the room and shut the door."
 
@@ -140,7 +140,7 @@ He got the bus at a quarter to twelve and it was on the Rise for a quarter of an
 
 *And the hours are the ward's rates. And the ward's rates come out of the ward. So the true thing costs the water.*
 
-*So I cannot put it to them. I have thought about it for two days and that is the answer and it took two days and not eighty-six, and the reason it took two days is that on the eighty-fourth day somebody finally put the countersignature in front of the person whose name is on it, and she told me the price, and I have not got a counter-argument, and I have not been going to go and get one.*
+*So I cannot put it to them. It has taken me an hour and a bit, on a bus, and that is the answer and it took an hour and not eighty-six days, and the reason it took an hour is that at about ten o'clock this morning somebody finally put the countersignature in front of the person whose name is on it, and she told me the price, and I have not got a counter-argument, and I have not been going to go and get one.*
 
 *And that is my rule, and I have written it at the top of this book, and it is the only thing I have got that has ever worked, and I am about to break it.*
 
@@ -164,9 +164,9 @@ He had certified the Verge Lane clock in the third month of the year at £1 7s 6
 
 He could see it from the window.
 
-He could not have seen it from the window in the first week of the fourth month. On the first day of the fourth month the difference between those two clocks was about three hundred and twenty seconds and it was a thing that took a gauge and a sounding board and a second watch and two days and a table with no headings in a shop book with a lease, and it was the only thing in the world he could not tell anybody, and he had told nobody.
+He could not have seen it from the window in the first week of the fourth month. On the first day of the fourth month the difference between those two clocks was four hundred seconds and it was a thing that took a gauge and a sounding board and a second watch and two days and a table with no headings in a shop book with a lease, and it was the only thing in the world he could not tell anybody, and he had told nobody.
 
-From the top of a building, at twenty past one in the afternoon, in the rain, at a distance of four hundred yards, he could see it in about four seconds without an instrument of any kind. The lit clock was a minute and forty seconds behind the dark one and it had been since the fifteenth of the third month and it would be until somebody gave that main four draws a day for another month.
+From the top of a building, at twenty past one in the afternoon, in the rain, at a distance of four hundred yards, he could see it in about four seconds without an instrument of any kind. The lit one was six minutes and forty seconds behind the dark one, and it had been since the fifteenth of the third month, and it would be until somebody gave that main four draws a day for another month.
 
 And so would every other person in this city. That was the discovery, standing at a window with a cup of tea gone cold in his hand, and it was not a good one and it was not a bad one, and it was the end of the only private thing he had.
 
@@ -174,7 +174,7 @@ For eleven weeks the slippage had been a shape in a shop book, and a shape is a 
 
 It was out of the window. It was out of the window at twenty past one on a Saturday afternoon and it would be out of the window of every flat on that street and out of the window of the print shop off Church Street and out of the window of the room over the chandler's shop in Weir Lane, and it was not going to go back in, and there was not one thing he could do about it, and no rule he had ever written had anything to do with it.
 
-He had spent the morning failing to get past a grille with a card, and the afternoon failing to get a district to say yes to the one thing that would cost it money, and he was going to go to the licensing floor on Monday morning and put four pounds and two shillings of his own into a form for forty-one heads, and he was not going to tell Mrs Pruitt, or Teo, or Leda, or Mara Venn, or Sel Kade, or the woman in the laundry, or the man in the shop on Verge Lane who had asked him a question in the first hour of a Saturday six weeks ago and had been told, correctly, that neither he nor his wife was in a position to say.
+He had spent the morning failing to get past a grille with a card, and the afternoon failing to get a district to say yes to the one thing that would cost it money, and he was going to go to the licensing floor on Monday morning and put four pounds and two shillings of his own into a form for forty-one heads, and he was not going to tell Mrs Pruitt, or Teo, or Leda, or Mara Venn, or Sel Kade, or the woman in the laundry, or the man in the shop on Verge Lane who had asked him a question in the first hour of a Saturday four weeks ago and had been told, correctly, that neither he nor his wife was in a position to say.
 
 Four pounds and two shillings. That is one night at Ombersley's and change, and Ombersley paid four pounds eleven and gave him a cup of tea at half past four, and it was the only job in the last four months he has done that did not come out of a book of somebody else's hours.
 

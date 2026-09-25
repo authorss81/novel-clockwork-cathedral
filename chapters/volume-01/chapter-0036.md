@@ -15,7 +15,7 @@ The notice was eleven lines long and it was in the guild's own form and it was a
 
 Every word of it was true. It was a true copy. It was in an excellent hand, because the hand was Hester Lomas's, and she was working that week for a firm of printers in Bellweather at a rate she has not moved off in nineteen years, and she set the type and did the imposition and was paid at the page rate and a signature, for the same firm in Bellweather that has kept her on its books since the sixth of the second month, and she was not thanked by anybody and did not expect to be, and she has not been thanked in thirty-one years and says so as a measurement and not a complaint.
 
-It went on the front page of the Advertiser on the Friday of the fourteenth of the fourth month, under a line about drapers, between an advertisement for boots and an advertisement for a burial society, at a type size nobody had to squint at, and it was read in this city by about eleven hundred people who are not the people it is about, and it is the only line of type in the volume that has ever been set in type that somebody paid for out of a different budget from the one it concerns.
+It went on the front page of the Advertiser on the Friday of the fourteenth of the fourth month, under a line about drapers, between an advertisement for boots and an advertisement for a burial society, at a type size nobody had to squint at, and it was read in this city by about eleven hundred people who are not the people it is about, and it is the only line of type in this business that has ever been set in type that somebody paid for out of a different budget from the one it concerns.
 
 ---
 
@@ -148,5 +148,35 @@ Elsie Cobb said, "Will it be on the card in my name or not?"
 "The card will say a girl of nineteen on nights is doing the ward clock by hand and is paid at the ward rate," said Leda Vale, "in those words, and if anybody in this building wants to take the name off it they can come and take it off it, and I will write down who did and when."
 
 Nobody took it off.
+
+---
+
+The water went back into the ward's reserve on the Wednesday morning of the nineteenth, out of the ordinary rotation, and Sel Kade did it herself with the sluice key and her own clerk on the bank, because the clerk had a date in a book and she had said in a room over a chandler's shop that the clerk would have it.
+
+It is three hundred and twenty-four thousand gallons and it took four days, and it is not a thing anybody can do quickly. The station can put about eighty thousand gallons a day into a reserve when the front's night draw is cut by an hour, and not very much more, and eighty thousand a day for four days is the whole of it, and Bevin Sarr came down to the bank on the second morning to ask why an hour had come off the front, and was told why, and wrote it in the ward's night book, which is a book that had never had a line in it about anything a warden had done.
+
+"You have taken it out of the front," she said.
+
+"I have taken an hour off the front for four nights," said Sel Kade, "and I have put three hundred and twenty-four thousand gallons into the ward's reserve, and both of those are true, and the front will not know it was four nights by the end of the month and the reserve will know it was four nights for about eleven years."
+
+Her clerk wrote it on the ward's return and on the warden's own return and telephoned the water board, and the board's gauge at the Carrow Street end came down a foot and a half in a day and a half. It is the same gauge she has been keeping a private sheet of since the second week of the third month, and she had two copies of that sheet in a drawer in a room over a boat-builder's shop and there are three now, and the third one is in an office on the canal road and nobody asked her for it.
+
+"Do you want the inhibited alarm out?" said the clerk.
+
+"Not on the nineteenth."
+
+"It is entered against a note. Under the works' tables an inhibited reserve alarm is a condition requiring a report."
+
+"Then it requires a report on the day somebody asks me for one, and not before, and I have had that alarm inhibited since the second of March, and I am not going to hand a district works inspector a report about a month I have already answered for in front of nine men in a room over a chandler's shop, and if it is wrong then it is wrong in a file and not in a conversation."
+
+The galvanising and wire works telephoned at about four in the afternoon on the first day, their own man and not the works' man, and asked whether there was going to be water on Friday. Sel Kade said there would be. There was, and by the Saturday there was standing water at the Carrow Street end up to the second step of about forty houses again, and it was the same depth as in the second week of the third month, and the gauge sheet has the number on it, and she is the only person in this city who has ever been able to produce it about a flood.
+
+And none of it came off anything. The reconciliation note is in the accountancy file and the ward's certified return for the third month is going to be corrected whether the water went back or not, and the ward's rates go up in the spring on the corrected number, and a promise kept in the fourth month does not come off the assessment.
+
+That is the whole of what a date is worth. Wenna Pruitt said in a room in the third month that a district gets a kind of immortality out of a book with a date on it and nothing else, and the book has the date, and the date was kept, and nobody in the Weirs has said one word about it to the woman who kept it, and one of them has noticed, and she is a landlord and she has nine blocks.
+
+And the review of the diversion is on the thirtieth, and it is a review, and after it the diversion is at the discretion of the district works, and discretion is a thing with no date on it, and a warden who has kept the only date anybody has given her in this business has still got a clause with her name against it and a number on it in a file she has read and cannot get into.
+
+---
 
 And on the Monday morning of the twenty-fourth of the fourth month the card went up in the nurses' room of the third floor of the Green Span hospital with the day on it and the number on it and a line at the bottom that said *no fault; line error; reported, no report form exists*, and eleven minutes and forty seconds of it, every Monday, until somebody finds a form or somebody admits there is not going to be one.

@@ -73,41 +73,57 @@ The return line is why omitted labor can affect the machine even when its operat
 
 Orrin's ability is a sensitivity to the relationship between a machine's current wear and the work it is likely to be asked to do. It is a craft before it is a supernatural gift. Each stage requires practice, physical danger, and a changed decision.
 
-### Stage 0: Line sense
+### The ruling that governs stages 2 to 7
+
+**A private sense is not a Reading.** This is the most important rule in this file, and the series is built on it.
+
+Orrin's stages 2 through 7 are listening, not calculation. Stage 7 is a group act, not a Reading either: opening the interval requires a public decision, prepared manual procedures, and independent stations, and what it suspends is the central forecast, not the requirement to record a toll. He can feel a machine, or a connected set of machines, and say what the strain suggests. What he cannot do is the four-part work: a trace, a pressure band, a stated blind margin, and a filed toll. His private sense has three permanent defects:
+
+- **No blind margin.** He can only feel strain that the network already carries. What has been routed away, what is unregistered, and what has not happened yet are all silent to him. His sense is blind by construction, which is why it can never be the final word and why a group of ordinary people holding records is more useful than he is.
+- **No record.** Nothing he privately hears can be entered in a toll ledger, cited in a permit, or defended in a hearing. It is evidence of a feeling, not of a fact.
+- **Toll and danger.** It always costs, and the cost is never filed. See the keeper's toll below.
+
+The consequence for the plot: Orrin can never solve a civic problem by listening. To turn his sense into something a district can act on, he has to go through the question spindle, find three witnesses, pay a filed toll, and accept the machine's stated blind margin — which will routinely contradict what he felt. Using his private sense to act on his own is not a shortcut the story rewards. It is his central flaw expressed as a technique, and the volumes in which he does it are the volumes in which he damages something. Ivo Pell's first lesson is the difference between a sense and an answer.
+
+### The keeper's toll
+
+A private reading draws from the reserve of the machine being read first, and from the reader's body when that reserve is empty. The symptoms are the Stage 2 symptoms plus a missing interval of attention. Nobody files it, nobody compensates it, and the accumulated total is the ordinary ruin of most of Morrowfen's clockmakers. This is the private cost of Stages 2 to 7, and it is deliberately the most common cost in the city and the least visible. In Stage 7 the toll is not the point; the point is that the interval only lasts as long as the local network can be maintained by hand.
+
+### Stage 1: Line sense
 
 - **What he can do:** hear imbalance, locate a worn tooth, separate a bad bearing from a bad operator.
 - **Limits:** local and immediate; it tells him that a machine is under strain, not why.
 - **Cost:** ordinary fatigue and hearing damage after long work.
 - **Beginning state:** Orrin is already excellent here, but he mistakes precision for certainty.
 
-### Stage 1: Aftershock
+### Stage 2: Aftershock
 
 - **What he can do:** when touching a machine that has recently been used, feel the short-term consequence of a specified load. He can hear which pump will fail, which bridge joint will loosen, or which clock will slip if the next shift begins on time.
 - **Requirements:** direct contact, a clear physical question, and knowledge of the machine's current state.
 - **Limits:** range is one connected machine or one immediate assembly; the farther the question reaches, the less reliable the signal. A human can lie by performing a different action after the reading.
-- **Cost:** ringing ears, vertigo, a temporary loss of fine motor control, and an aftershock in the joint he used. Repeated exposure causes permanent hearing loss.
+- **Cost:** ringing ears, vertigo, a temporary loss of fine motor control, and an aftershock in the joint he used. Repeated exposure causes permanent hearing loss. Once, in Volume 01, an aftershock falls through an empty reserve and becomes his first keeper's toll: a lost minute of attention that leaves him unable to say, later, whether he read the pump or imagined it.
 - **First failure:** Orrin reads a failing hospital pump correctly but cannot stop the official from rejecting the repair because the public budget requires a sealed Reading. The machine was not the only failure.
 - **Narrative change:** he learns that a warning without a person willing to act is not a solution.
 
-### Stage 2: Choice trace
+### Stage 3: Choice trace
 
 - **What he can do:** connected to the Consequence Loom, Orrin can sense the three strongest pressure paths for a concrete proposal. They appear as changes in heat, vibration, or resistance, not as a menu of answers. He can identify the most damaging path and often the hidden condition at its edge.
 - **Requirements:** he must know the physical proposal, have access to the engine, and accept a written or spoken question. A vague moral question produces only noise and a higher toll.
-- **Limits:** he cannot see intent, private knowledge, or an unlisted person's reaction. The engine can omit a whole path rather than give Orrin a false answer.
-- **Cost:** one body toll per Reading, beginning with a short missing interval of attention. Orrin experiences a physical time slip: a train horn sounds one beat behind his own pulse, or he reaches for a tool he has not yet put down.
+- **Limits:** he cannot see intent, private knowledge, or an unlisted person's reaction. The engine can omit a whole path rather than give Orrin a false answer. Everything he learns this way is inadmissible until three witnesses have signed and a toll has been filed.
+- **Cost:** a keeper's toll, and if a Reading is properly run, a body toll from the same question. Orrin experiences a physical time slip: a train horn sounds one beat behind his own pulse, or he reaches for a tool he has not yet put down.
 - **Training:** Ivo Pell teaches him to ask narrow questions and to stop before curiosity turns into compulsion. Orrin must practice on a dead pump, a hospital timer, and a bridge joint before touching the Cathedral again.
 - **Narrative change:** he begins to see that his private talent is a civic instrument, and that hiding it makes him another kind of gatekeeper.
 
-### Stage 3: Civic rehearsal
+### Stage 4: Civic rehearsal
 
 - **What he can do:** using three or more independent hourlines, Orrin can map how a proposal moves through several districts at once. He can warn that closing a water gate will delay a tram line, a hospital pump, and a school bell even when no single district owns the whole system.
 - **Requirements:** a map, access to each clock, at least two other trained operators, and a common question. One person cannot operate a citywide rehearsal safely.
 - **Limits:** the rehearsal is only as good as the network's representation. It cannot model a new machine, a person outside the survey, or a decision made after the warning is public.
 - **Cost:** district-minutes, operator fatigue, and possible slippage. Orrin can absorb some slippage because of his sensitivity, but he may lose coordination, repeat a gesture, or lose minutes that his body cannot recover.
-- **First success:** Orrin's team prevents a bridge closure from starving a hospital of clock pressure, but the fix requires a Weirs neighborhood to accept an unpopular load.
+- **First attempt:** Volume 02's climax. Orrin borrows two operators he does not trust, runs a three-clock rehearsal to divert a pressure surge out of a Weirs neighborhood, and it works — at the price of a long, visible outage in that same neighborhood. He learns that a rehearsal is not a proposal and cannot be used as one.
 - **Narrative change:** he understands that competence must be distributed, and that a team can contradict him without making him useless.
 
-### Stage 4: Counterweight ward
+### Stage 5: Counterweight ward
 
 - **What he can do:** Orrin can alter a physical machine so one consequence is moved, reduced, or made survivable. He can build a bypass, a sacrificial bearing, a split-hour pin, or a gate that fails into an empty yard instead of a school. This is engineering with a limited probabilistic effect, not rewriting reality.
 - **Requirements:** a known failure mode, materials, time, and someone who will maintain the change after Orrin is gone.
@@ -116,21 +132,21 @@ Orrin's ability is a sensitivity to the relationship between a machine's current
 - **Narrative change:** Orrin stops trying to make a solution invisible. He records who will carry its maintenance and risk.
 - **Important limitation:** a ward cannot make a dangerous choice safe forever. It buys time and distributes damage.
 
-### Stage 5: Distributed horizon
+### Stage 6: Distributed horizon
 
 - **What he can do:** Orrin can help a group of operators, clockmakers, nurses, drivers, and residents combine partial Readings into a public consequence map. No single participant sees the whole picture. The group must state what each person knows and where the evidence is weak.
-- **Requirements:** independent clocks, multiple viewpoints, public access to the source records, and a process that allows someone to refuse a result.
+- **Requirements:** independent clocks, multiple viewpoints, public access to the source records, and a process that allows someone to refuse a result. In practice this needs at least three independent stations and a written refusal right, which is why the first real attempt in Volume 06 fails for procedural reasons and the stage only stabilizes in Volume 10.
 - **Limits:** the map can be poisoned by a false record or a coordinated lie. A group reading is not inherently more truthful; it is more inspectable.
 - **Cost:** Orrin gives up the advantage of keeping his best interpretation private. He must be corrected in public, and he must accept that a person he trusts may decide to stop participating.
 - **Narrative change:** he becomes a teacher and facilitator rather than the only person who can touch the machine.
 
-### Stage 6: Open interval
+### Stage 7: Open interval
 
 - **What he can do:** during a planned civic emergency, Orrin can decouple the Cathedral's binding forecast from local clocks long enough for districts to act on their own evidence. This does not predict the future and does not make the city safe. It makes a shared, uncertain interval possible.
 - **Requirements:** several independent clock stations, a public decision, prepared manual procedures, and enough trust that districts will not wait for a central answer.
 - **Limits:** the interval can last only as long as the local network can be maintained. Hospitals, gates, and transit must be able to run without the central engine. A poorly prepared interval can kill more people than a forecast would.
 - **Cost:** Orrin loses the ability to hear a single machine cleanly after the core is opened. He keeps his craft, but the unique, private advantage is gone. He also accepts permanent public responsibility for the decisions made during the interval.
-- **Final use:** this is the power he earns by giving up control. It is not a new spell or a hidden final ability; it is the result of stages 1–5, relationships, and a civic process.
+- **Final use:** this is the power he earns by giving up control. It is not a new spell or a hidden final ability; it is the result of stages 1–6, relationships, and a civic process.
 
 ## 7. Failure modes
 
@@ -167,8 +183,16 @@ The notice is incomplete by design. Orrin must interpret it, and the story must 
 
 The final reform does not make the power system harmless. Operators can still make mistakes, local clocks can still slip, and communities can still misuse a Reading. The change is institutional: no one person or office can turn a forecast into a command, every Reading has a named toll, and the central engine can be physically disconnected.
 
+The three acts that make the change durable, and what each one is for:
+
+- **Removing the routing plates** disarms the Censor Gate permanently. It is the only irreversible act, because it removes the machine's ability to treat omitted work as disposable. Without it, the return line and the reservoir would keep feeding the First Hour's threshold spring, and the rule would tighten again at the next surge.
+- **Holding the clocks apart** during the Returning Tide is what prevents the consensus lock from being enforceable while the tide is up. A lock needs a network that can agree; a deliberately divided network has nothing to agree about. It saves the city that night and does nothing to the machine.
+- **Severing the command line** through the three-station kill-switch removes the authority to give orders. It does not remove the rule, and the Council of Hours is not able to switch the rule off.
+
+Order matters in the climax: the clock division must be in place before the lock is ordered, or the lock is enforceable; the plates must come out before the tide peaks, or the rule tightens during the event; the kill-switch matters only afterwards, and only if the other two have already held.
+
 ### Local instruments after the reform
 
-A local Reading instrument is a small hand-calibrated Loom connected to one district's hourlines. It has one question spindle, three witness locks, a mechanical pressure display, and a local reserve meter. It can inspect a concrete action in the district it is physically linked to and return the same four parts of a Reading. It cannot draw on the Dark Reservoir, use the Censor Gate, consult the First Hour, or make a citywide comparison. Its witnesses must include an operator, a resident of the affected district, and a record keeper. Its toll is paid by the connected district's clocks and participating bodies.
+A local instrument is a small hand-calibrated Loom connected to one district's hourlines. It has one question spindle, three witness locks, a mechanical pressure display, and a local reserve meter. It can inspect a concrete action in the district it is physically linked to and return the same four parts of a Reading. It cannot draw on the Dark Reservoir, use the Censor Gate, consult the First Hour, or make a citywide comparison. Its witnesses must include an operator, a resident of the affected district, and a record keeper. Its toll is paid by the connected district's clocks and participating bodies.
 
 The Council of Hours requires people affected by a proposed action to be consulted before a local instrument is used. That is a human process, not a magical correction: the instrument may still have a blind margin, and the public record must name the omission rather than pretending it has been solved. Local instruments can be wrong, expensive, and politically misused. They are retained because a limited, inspectable tool is safer than a binding central oracle—not because the series has invented a perfect replacement.

@@ -22,7 +22,7 @@ And under the rule, in half-size type, which is the same size as a witness's sig
 
 ---
 
-The first thing he said, and it is the sentence the chapter is built on, and he said it standing up in a window that has one chair in it and both of them in it.
+The first thing he said, and it is the sentence the whole morning is built on, and he said it standing up in a window that has one chair in it and both of them in it.
 
 "It is my sentence."
 
@@ -36,7 +36,7 @@ He did it, and it took about four minutes, and it is the whole of the argument i
 
 **The trace.** *On any night the fourth window is worked, the branch takes a second step at the far end, and the Weir One gate opens late.* That is the ninth of June, six readings, in daylight, with two watches, on a wall in a pump house in chalk: **it is a ramp and not an offset, and the far end is the worst end.** Nine minutes and twenty seconds, then eleven, then forty minutes and fifty seconds, then twenty-two and thirty, then seventeen and forty. The shape is not a straight line and he has never known why, and the machine's line says the loss increases with distance from the pumping station and stops there, because the machine is not guessing either.
 
-**The pressure.** *The canal front is short between the second window and the fourth window.* That is the warden's own gauge sheet, and it is what Marta Dey said at about ten to five on the Saturday morning of the twenty-third of the seventh when she read a gauge at thirty-four instead of forty-one and rang a room, and it is the four dates in the night book in the pump house, and it is the reason a gate opened at about ten to six instead of about five for two hours and ten minutes on the second of the seventh, and a standpipe at the second court ran dry for four hours on the fifth.
+**The pressure.** *The canal front is short between the second window and the fourth window.* That is the warden's own gauge sheet, and it is what Marta Dey said at about half past three on the Saturday morning of the twenty-third of the seventh when she read a gauge at thirty-four instead of forty-one and rang a room, and it is the four dates in the night book in the pump house, and it is the reason a gate opened at about ten to seven instead of about five for two hours and ten minutes on the second of the seventh, and a standpipe at the second court ran dry for four hours on the fifth.
 
 **The blind margin.** *Unregistered district labour is not represented.* That is a footer half the size of a witness's signature, and it is the same four words that have come back on every answer this district has ever received since the first month of the year, and it is the sentence a man of twenty said in a room over a shop in the fifteenth of the sixth, standing up, to about eleven people, and he was right, and he was not the first person to be right and he never will be.
 
@@ -62,7 +62,7 @@ Nobody put a number on that and neither of them tried. There is no column in thi
 
 She shut the box.
 
-"There are thirty-eight cards in the drawer," she said. "Thirty-four on the sixth of the seventh. Eleven on the seventeenth of the third. It grows about four a month and it has never once been emptied, and the thing you are going to want to do with what is on that card is to write to her, and you are not going to, because you would have to tell her why and she would have to answer and neither of you would know what the answer was for."
+"There are thirty-eight cards in the drawer," she said. "Thirty-four on the sixth of the seventh. Eleven on the seventeenth of the third. **It grew twenty-three in about three and a half months, which is six a month, and since the sixth of the seventh it has gone up four in five weeks, which is not a different rate, it is a smaller number.** It has never once been emptied, and the thing you are going to want to do with what is on that card is to write to her, and you are not going to, because you would have to tell her why and she would have to answer and neither of you would know what the answer was for."
 
 ---
 
@@ -96,7 +96,7 @@ He thanked her. She said it was nothing, in the way a person says that at a coun
 
 ---
 
-**And then he did the last thing, which was the thing the four pages in the grey book had been leading to, and it is the chapter's end, and it is a question and not an answer.**
+**And then he did the last thing, which was the thing the four pages in the grey book had been leading to, and it is a question and not an answer.**
 
 The card went into the inside pocket of a coat that has no licence in it. Nineteen years, four parts, a toll paid by a district that could not be asked, and a woman of twenty-six standing in a chair in place of everybody.
 

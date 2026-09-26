@@ -2,7 +2,7 @@
 
 The valve at the corner of the second court on Weir Lane opened at about twenty to six in the morning of Tuesday the twelfth of the seventh month, and the paper it was obeying says it should open at a quarter to four, and the difference between a quarter to four and twenty to six is one hour fifty-five minutes exactly, and that is the figure the branch was out by that morning, and the branch was measured on the ninth of the sixth.
 
-There is no fault anywhere in that sentence. That is the whole of the chapter and it takes four days to say.
+There is no fault anywhere in that sentence. That is the whole of it, and it takes four days to say.
 
 ---
 

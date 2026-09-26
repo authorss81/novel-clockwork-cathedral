@@ -50,12 +50,12 @@ Then the sentence that made him put the pen down for ten minutes.
 
 ---
 
-**Page four, and it is the sentence that turns the argument inside out, and he wrote it at about ten past eleven at night and then did not sleep for a while.**
+**Page four, and it is the sentence that turns the argument inside out, and he began it at about ten past eleven at night on the Thursday and did not finish it until the Sunday.**
 
 > *A return is a list of properties.*
 > *A property has an address.*
 > ***Therefore a return is a list of addresses, and a list of addresses is a list of routes, and a list of routes is a list of visits, and a person decides which door gets a knock, and the person who is on the list does not get to say no, because the person on the list is the person being knocked on, and that is the definition of it.***
-> *Mr Arden has been making that argument since the fifteenth of the sixth month in a room over a shop and he has been right every time he has made it, and I have never once been able to beat it, and on the fourth page of a book in a shop in Verge Lane, on the twenty-seventh of the seventh month, his argument stopped being an argument and became a document.*
+> *Mr Arden has been making that argument since before I came into this district, and he made it in a room over a shop on the fifteenth of the sixth, and he has been right every time he has made it, and he was not the first person to be right about a list of addresses and he never will be, and I have never once been able to beat him. And on the fourth page of a book in a shop in Verge Lane, on the twenty-eighth of the seventh month, his argument stopped being an argument and became a document.*
 > *And I have not asked him. He does not know. He is twenty years old and he has an argument and a list of eleven items in his pocket and he has never seen a return, and what I have done is take the thing he has been saying for six weeks and put it in a form with a heading on it, and **a thing with a heading on it is a thing an office can be sent, and a thing an office can be sent is a thing an office can refuse, and I do not know whether that is better or worse and I have not asked anybody and I am the only person in this city who can be asked, because I wrote it.**
 > *The answer to a return is a rate, and the answer to a rate is a notice with a number and no name, and the answer to a notice with a number and no name is a district that cannot be asked, and the whole of the loop is six sentences long and I have known every one of them since the fourth month.*
 
@@ -87,7 +87,7 @@ Somebody at the far end of the table said, "That is the whole of it."
 
 **They said no in four minutes. Nobody was angry and nobody thanked him and the book stayed shut.**
 
-And then Adela Marrow took her hand off it and opened it, and turned back about forty leaves, and put a sheet on the table, and it is the thing the chapter is actually for.
+And then Adela Marrow took her hand off it and opened it, and turned back about forty leaves, and put a sheet on the table, and it is the thing the four days were actually for.
 
 > *Every household entered in this mutual, with the number of the property as the water authority has it, the address, and the date the service pipe was last looked at.*
 
@@ -107,7 +107,7 @@ So he wrote under the column, in the same pen, the sentence, and the sentence is
 
 > *Twenty-six addresses and twenty-six dates. I have not used them and I am not going to, and I am writing that down on the day I was given them and not on the day I decided, because a man decides on the day he decided and would put that date instead, and then in four years it would read as a decision and not as a promise.*
 > *If a person in this city ever knocks on twenty-six doors on those two streets, with that column in his hand, then that is not a district deciding something. That is one man in a shop deciding which door gets a knock, and the twenty-six cannot refuse, and every house on those two streets that is not in the column will find out afterwards from a neighbour.*
-> *That is the argument. It is Mr Arden's argument and it has been his since the fifteenth of the sixth and it was never once wrong, and it is now a document, and the document is mine, and **I am the person who decides whether the document is a list of routes, and I have decided, this afternoon, on my own, with nobody able to say no, that it is a list of dates.***
+> *That is the argument. It is Mr Arden's argument, and it is older than either of us, and it was never once wrong, and it is now a document, and the document is mine, and **I am the person who decides whether the document is a list of routes, and I have decided, this afternoon, on my own, with nobody able to say no, that it is a list of dates.***
 
 **The third thing was that he went and found Teo Arden, and he did not tell him about the return, and he told him about the twenty-six addresses, and Teo Arden did not say anything for about a minute.**
 
@@ -137,11 +137,11 @@ Then he went up, and the two of them did not follow him, which is what they alwa
 
 ---
 
-**And on the Sunday evening the thirty-first of the seventh month he wrote the last page of the four, and it is the shortest thing in the book, and it is the question the whole of this volume turns on, and he has not answered it and has written down that he cannot.**
+**And on the Sunday evening the thirty-first of the seventh month he finished the last page of the four, and it is the shortest thing in the book, and it is the question he has been walking towards since the eleventh of the seventh, and he has not answered it and has written down that he cannot.**
 
 > *A return is a list of properties. A standing is a body. A body is what lodges the instrument and the instrument is what puts a person of the district on a rail in a room.*
 > *I have found the chain and every link in it is a document and not one of the documents is a person.*
 > *And here is where I stop, and I am writing down that I stop, and I am not writing down a reason that would let me start again on a bad morning.*
-> *I cannot write the form. Not because of the price. **Because I do not know what a body that is not a body signs with.** A council signs with a minute book and a seal it does not have. A mutual signs with a kitchen table. A man signs with his own name, which is why I have one and why a form I filled in myself in May is a document and not a party, and I have been going round in circles since the eleventh of the seventh and the circle is this: the instrument requires a body and there is no body and the only candidate in this district with four pounds ten in a year has a room over a chandler's shop, a minute book nobody can produce in a court, and a two-year habit of refusing on purpose to be a single thing.*
-> *There is no form. I have looked. And on Tuesday the eleventh of the seventh a girl of twenty-six at a counter told me the three requirements in eleven minutes and the first of them was a body, and she was not wrong, and she could not have helped, and I have written this page out four times this month and I have got to the same wall four times.*
+> *I cannot write the form. Not because of the price. **Because I do not know what a body that is not a body signs with.** A council signs with a minute book and a seal it does not have. A mutual signs with a kitchen table. A man signs with his own name, which is why I have one and why a form I filled in myself in May is a document and not a party, and I have been going round in circles since the eleventh of the seventh and the circle is this: the instrument requires a body and there is no body and the only candidate in this district is a tenant council with a room over a chandler's shop and a minute book nobody can produce in a court, which spent its last four pounds ten in the fourth month of this year on a page of a newspaper that is not printing any more, and which has a two-year habit of refusing on purpose to be a single thing.*
+> *There is no form. I have looked. And on Monday the eleventh of the seventh a girl of twenty-six at a counter told me the three requirements in eleven minutes and the first of them was a body, and she was not wrong, and she could not have helped, and I have written this page out four times this month and I have got to the same wall four times.*
 > *The next thing is not mine.*

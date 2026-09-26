@@ -14,7 +14,7 @@ At about half past nine that evening Marta Dey at the Weir Two pump house said o
 
 The cause, found on the Saturday morning at about eleven by a man of thirty-one at the works' counter out of a defect return and a booking form, is this. A firm in Northglass booked a stopcock shut on the Carrow Street branch **from half past ten at night until half past eleven**, for a new service to four houses, on a form, in the ordinary way, by two men.
 
-The stopcock is a clock-driven stopcock and it is on the branch, and every clock-driven thing on that branch is late by that end of the branch's own figure, and the branch's figure at Weir Lane on the Wednesday morning was **one hour fifty-five minutes and fifty seconds** and more than that at Carrow Street, and the figure was in a grey book in a shop on a hill and in six lines of chalk on a board in a pump house, and the booking form does not have a line for it, and **nobody from that firm ever found out why their stopcock closed at half past twelve when they had asked for half past ten.**
+The stopcock is a clock-driven stopcock and it is on the branch, and every clock-driven thing on that branch is late by that end of the branch's own figure, and the Carrow Street branch's figure on the Friday morning was **one hour and forty-two minutes**, and the figure was in a grey book in a shop on a hill and in six lines of chalk on a board in a pump house, and the twenty-seven clocks on the front were two hours and nine minutes out at the best-placed of them that same morning, and the booking form does not have a line for it, and **nobody from that firm ever found out why their stopcock shut at twelve minutes past midnight when they had asked for half past ten, which is one hour and forty-two minutes, to the minute.**
 
 So: the stopcock shut at about **twelve minutes past midnight** and released itself at about **twelve minutes past one**, and two men from Northglass arrived at twelve minutes past midnight, which is the time the clock gave them, and they shut the main themselves and put in a service, and it took them one hour and fifty minutes, and at about ten past two they came off the main and the branch was back to about forty by about half past two.
 
@@ -22,12 +22,11 @@ The branch lost pressure in about four minutes. The front went from about forty-
 
 Marta Dey read the front gauge at about half past three, rang the pumping ward, and Bevin Sarr was at the pump house in nineteen minutes. Nobody was hurt. Nobody died. There is no fault in the district and there is a fault in nobody, and the new service to four houses is sound and is in use and cost nineteen pounds three shillings and fourpence.
 
-**And the works' return for the twenty-second of the seventh says: *Carrow Street branch, stopcock shut for new service, four houses, 1 hr 50 min, no defect found.* And that is a true sentence, and it is the most expensive true sentence in the district's file this year, because it is true, and the reason a firm booked the stopcock for half past ten is in a book in a different building belonging to a different firm, and the reason the stopcock shut at twelve minutes past midnight is in a grey ledger in a shop on a hill, and the reason the front's twenty-seven clocks no longer agree with one another is on a board in a pump house, and **no two of those three documents has ever been in the same building.****
-
+**And the works' return for the twenty-second of the seventh says: *Carrow Street branch, stopcock shut for new service, four houses, 1 hr 50 min, no defect found.* And that is a true sentence, and it is the most expensive true sentence in the district's file this year, because it is true, and the reason a firm booked the stopcock for half past ten is in a book in a different building belonging to a different firm, and the reason the stopcock shut at twelve minutes past midnight is in a grey ledger in a shop on a hill, and the reason the front's twenty-seven clocks no longer agree with one another is on a board in a pump house.** **And no two of those three documents has ever been in the same building.**
 
 ---
 
-**What the front did about it is the chapter, and the front did it entirely without him.**
+**The front had already done it, and the front did it entirely without him.**
 
 The front is the canal front from Bellweather Road to the Weir One gate, and it has **twenty-seven street clocks and four standpipes** on it, and on the night of the twenty-second every one of the twenty-seven lost its reference for about an hour because the branch that drives them lost pressure, and a street clock that loses its reference free-runs, and there are twenty-seven different clocks on that street made by four different makers between 1897 and 1941, and **free-running for an hour does not mean the same thing in any two of them.**
 
@@ -56,7 +55,7 @@ Ambrose did it on his own. He is about thirty and he has been at that counter el
 
 > *B. Sarr. A. Dench, known as Amos, full name and not an initial. R. Morrow, night porter, Green Row, hours as returned. T. Arden, from the thirtieth ult., licensed: no. T. Arden, from the twenty-second inst., twenty-seven clocks, four hours, licensed: no.*
 
-The name is on the works' own line twice now and both times with the same three words after it, and the second one is not a reprimand, it is a **precedent**, and a young man who signs his own unlicensedness against a works' asset in a works' book has done the one thing in this volume that no office in this city can take off him, because there is no form on which a district may ask a man to stop having been honest in a book.
+The name is on the works' own line twice now and both times with the same three words after it, and the second one is not a reprimand, it is a **precedent**, and a young man who signs his own unlicensedness against a works' asset in a works' book has done the one thing in this district that no office in this city can take off him, because there is no form on which a district may ask a man to stop having been honest in a book.
 
 **Nothing was put up in four places.** Orrin Vale suggested a sheet on four boards, because that is what he did in the fifth month and it worked, and Teo Arden said no.
 
@@ -64,7 +63,7 @@ The name is on the works' own line twice now and both times with the same three 
 
 ---
 
-**Six people, four hours, and the cost has no column anywhere in this city and did not have one in the fourth month and does not have one now.**
+**Saturday the twenty-third, from about one in the afternoon to about half past five. Six people, four hours, and the cost has no column anywhere in this city, and it did not have one in the fourth month and it does not have one now.**
 
 Bevin Sarr and Teo Arden and Alder and Amos Dench and two of the men off the Weir Two night side. Two went one way down the front and four went the other. The list was out of the drawer at about one o'clock and the last clock was done at about half past five, and they worked to a schedule that had been made house by house in April and that gave a time for each clock to within a few minutes, and Bevin Sarr's own figures on the sheet held to within about a minute of the times.
 
@@ -90,7 +89,7 @@ At about twenty to three he came down. He came down with a lamp. The water came 
 
 The schedule had the ground floor of number fourteen at **02.40**, and the man who lets the top room went up at about ten to three and knocked at the top-room door and got no answer and wrote *no answer* on the sheet in his own hand, which is a thing that is in no column of anything.
 
-**And the works' return for the twenty-second of the seventh says *no defect found*, and the eighty-one-year-old man on the top floor of number fourteen is not in it, and the four flights are not in it, and the lamp is not in it, and the lamp is the same lamp that a man of sixty-eight carried up and down about two hundred times in a cellar in the sixth month.**
+The works' return for the twenty-second of the seventh says *no defect found*, and **the eighty-one-year-old man on the top floor of number fourteen is not in it, and the four flights are not in it, and the lamp is not in it**, and the lamp is the same lamp that a man of sixty-eight carried up and down about two hundred times in a cellar in the sixth month.
 
 Nothing was done about the fanlight. It is not in the programme and it is not in the works' schedule and it is a landlord's light in a house of four flats, and there is no form on which a woman of fifty-four may be asked about a light.
 ---
@@ -109,7 +108,7 @@ At about eleven she asked one question. It was not to anybody; it was to the man
 
 ---
 
-**Orrin Vale was there for about two hours and he was not needed at all, and that is the chapter's event, and the chapter does not dress it up.**
+**Orrin Vale was there for about two hours and he was not needed at all, and there is no way to dress that up.**
 
 He had the notebook. He had two watches. He had walked the front at about eleven in the morning and got the spread and written it down, and on the Saturday afternoon he was one of about forty people standing in the middle of Bellweather Road watching a list of times work, and at about half past two he went to find a thing to do, and there was nothing to do.
 
@@ -130,7 +129,7 @@ And that is a thing a man wants and does not know he wants, and it is the whole 
 
 ---
 
-**And on the Saturday afternoon Teo Arden, who had no reason to and who has never in his life claimed any of this, did the one thing in the chapter that is his.**
+**And on the Saturday afternoon Teo Arden, who had no reason to and who has never in his life claimed any of this, did the one thing in the week that is his.**
 
 He went into the works' yard at about two o'clock and asked Ambrose, at the counter, in front of nobody, for the winder's own schedule — not a copy, the sheet — and then asked for it to be entered in the works' book in four-inch capitals with the times and the houses and the twenty-seven and the four hours and **his own name twice and *licensed: no* against both**, and Ambrose entered it, and did it in about four minutes, and did not ask him why, and did not thank him.
 

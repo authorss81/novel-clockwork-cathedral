@@ -34,7 +34,7 @@ At the bench there is a spindle: a brass cone about the length of a pencil in a 
 
 He put it into the spindle, and the spindle took it, and the room made a noise.
 
-It is not a hum and it is not a bell. It is a sound like a chair being dragged across boards and then the chair being dragged back, about four times, and it goes on for longer than a question should, and there is no shape in it he can hold, and at about the forty-second second he understood that it was not going to give him anything and that he was going to keep standing in a warm room listening to it because that is what a man does.
+It is not a hum and it is not a bell. It is a sound like a chair being dragged across boards and then the chair being dragged back, about four times, and it goes on for longer than a question should, and there is no shape in it he can hold, and at about the fortieth second he understood that it was not going to give him anything and that he was going to keep standing in a warm room listening to it because that is what a man does.
 
 Pell had a hand on his shoulder. He had put it there without saying so and he took it off when the noise stopped.
 
@@ -138,4 +138,4 @@ And the second narrow book is on the shelf behind the bench with a pencil bound 
 > *From this week I write the order of operations before I begin anything. Not because I have to. Because the man who is fifty-eight in this trade in about twenty-five years will not remember that he used to know it, and **the whole of what this profession does to a person is that it makes him unable to imagine a man who did not do it that way, and it is not dramatic and nobody writes about it.**
 > *Nineteen orders in four days. I have not needed one of them. I have reached for the book nine times and had the page in front of me and written out an order I already knew by heart, and there is not one shilling of value in nineteen pages of pencil at four pence the sheet, and I am going to keep doing it, and the knowing that I am going to keep doing it is the part that is new and the part that is not a gift.*
 
-And on the Tuesday the ninth, at the top of the stairs, going down to the ward's, a woman of nineteen came past him with a folded piece of card in her apron and a pencil behind her ear and did not stop, and he looked at her for about two seconds longer than a man looks at a person on a stair, and she did not look back, and **that is the whole of what Chapter 67 is for, and neither of them ever mentioned it.**
+And on the Tuesday the ninth, at the top of the stairs, going down to the ward's, a woman of nineteen came past him with a folded piece of card in her apron and a pencil behind her ear and did not stop, and he looked at her for about two seconds longer than a man looks at a person on a stair, and she did not look back, and **that is the whole of what the week was for, and neither of them ever mentioned it.**

@@ -75,11 +75,11 @@ There was no accident. There was no near one that anybody could prove. There was
 
 The school lost the tail of its morning. The market's nine went home. The works took the late hour out of the shift the way the works has taken it out of thirty-one other shifts in the district's history, which is to say it came out of the men's pay, and it is in a pay book in a ledger at the front office of a works in Bellweather and there is no column in it for the reason.
 
-**And the eleven minutes are not anybody's fault, in the way that is the whole of this volume.** The signal was certified by a licensed man against its own local beat and is within tolerance. The hospital branch's error is frozen at one hour thirty-six minutes and fifty seconds because nine men with a property qualification voted on a Monday that the front should have two cycles. The clause about the fourth draw was typed onto a printed sheet in 1951 and there is no minute of it. The far end of the Weir Two branch is a gate and the gate is two hours and twenty-nine minutes and twenty seconds out. The certificate is true. The ordinance is correct. The conductor is a competent woman who has kept a timetable for twenty-six years. **Nobody in this city can put any two of those six facts in the same sentence and the sentence they would make up is the reason a hundred and forty children stood at a junction for eleven minutes on a Wednesday afternoon.**
+**And the eleven minutes are not anybody's fault, in the way that is the whole of what has been going on in this district since the ninth of June.** The signal was certified by a licensed man against its own local beat and is within tolerance. The hospital branch's error is frozen at one hour thirty-six minutes and fifty seconds because nine men with a property qualification voted on a Monday that the front should have two cycles. The clause about the fourth draw was typed onto a printed sheet in 1951 and there is no minute of it. The far end of the Weir Two branch is a gate and the gate is two hours and twenty-nine minutes and twenty seconds out. The certificate is true. The ordinance is correct. The conductor is a competent woman who has kept a timetable for twenty-six years. **Nobody in this city can put any two of those six facts in the same sentence and the sentence they would make up is the reason a hundred and forty children stood at a junction for eleven minutes on a Wednesday afternoon.**
 
 ---
 
-**And the guild is in the room in an official capacity, and the guild is not the villain, and Gerren Hask is not in it, and the reason he is not in it is the reason he is a repairer under public oversight.**
+And the guild is in the room in an official capacity, and the guild is not the villain, and Gerren Hask is not in it, and **the reason he is not in it is the reason he is a repairer under public oversight.**
 
 The standing orders from the first of the sixth require a master's certificate to be countersigned and the list published monthly. There is a board on the licensing floor, four feet by three, and it has been there since the first of the sixth, and it is a list of nineteen lines a month, and it is there for the rest of Hask's life and he put it up himself in about four minutes on the morning of the first of the sixth, half an hour after he suspended a man at a counter.
 
@@ -91,7 +91,7 @@ The only thing he said about it, and he said it to a man on a platform in July, 
 
 ---
 
-**And the last thing, and it is the thing Orrin Vale could not do anything about, and he did everything he could do about, and it is in a book in a pump house and in a card in a nurses' room and in a published minute and nowhere else.**
+**Wednesday the eighteenth, and the last thing, and it is the thing Orrin Vale could not do anything about, and he did everything he could do about, and it is in a book in a pump house and in a card in a nurses' room and in a published minute and nowhere else.**
 
 He could not move the hospital branch. Nobody can. The branch's error is not a fault and there is no adjustment for it; the fix is a decision about the number of draws on the canal front, and the Water Users' Committee has that, and it has used it twice, and it will use it again in October, and its reasons in October are as good as its reasons in August.
 

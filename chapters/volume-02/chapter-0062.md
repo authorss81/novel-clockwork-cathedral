@@ -24,7 +24,7 @@ He wrote it down, and the price, and the reason, under it, in the shop book, on 
 
 > *Seventeenth of the seventh. Green Span outpatients' annexe, the store. Hospital master timer, 1924, withdrawn, top plate off, one wheel missing since about 1946.*
 > *One question, plain, about a named load. Four things back. **Ninety seconds.** Entered as a reading cost with the reason written under it, which is the seventeenth of the second month's practice and not a toll and I am not going to call it anything else.*
-> *And what the ninety seconds bought is this. The left-hand bearing of the third wheel is a plain brass journal in a bell crank, in a case that has stood in an unheated lean-to since April, and the crank is rusted where the pin goes through, and there is no oil on anything in it, and there has not been oil on anything in it since before I was at this trade.*
+> *And what the ninety seconds bought is this. **Of the four things that came back, three are the machine's own oxide and one is not, and I have got that the wrong way round from what I expected and I am putting it down before I lose it.** The left-hand bearing of the third wheel is a plain brass journal in a bell crank, in a case that has stood in an unheated lean-to since April, and the crank is rusted where the pin goes through, and there is no oil on anything in it, and there has not been oil on anything in it since before I was at this trade.*
 > *I could have told you that. I could have told you that without the ninety seconds and I could have told you it in four seconds and I would not have needed a lamp.*
 > *Ivo Pell said it in June, in a pump room, and I wrote it down, and I have now been shown it a second time by a piece of dead brass in a shed.*
 
@@ -52,11 +52,11 @@ He came into the lean-to and looked at the two timers and did not touch either, 
 
 "You do not know it, you have written it in a book, and a man who has written a thing in a book knows it the way a man knows a hymn. **In about three months you are going to be working on a live machine and you are going to be frightened, and the fright is going to come out as being careful, and being careful on a live machine is a man adjusting somebody else's clock to make his own hands feel better, and you will do it in about nine minutes and you will not tell anybody and I will not be there.**"
 
-"Four things came back off that one," said Orrin Vale, "and three of them were true and one of them was the machine's own rust, and you told me in a pump room in June that two days in three that is the ratio."
+"Four things came back off that one," said Orrin Vale, "and three of them were the machine's own oxide and one of them was not, and you told me in a pump room in June that two days in three that is the ratio."
 
 "Yes."
 
-"So it is two in three and not three in four."
+"So it is three in four and not two in three."
 
 "It is whatever it is," said Ivo Pell. "I did not give you a figure. I gave you the shape of it." He shut the book. "Here is the other half and it is the half you have not thought about, because you have spent a fortnight thinking of these two as failures.
 
@@ -140,7 +140,7 @@ He read it at the top of the stairs on a windowsill with a pencil and did the su
 
 "Why," said Ellen Reeve, "when you have not opened it?"
 
-"Because the docket is the specification," he said. "It is the only document in this building that says what the free clocks cost, and it has been kept since the twenty-fourth of the fourth by a nineteen-year-old who was paid at the ward rate and was not asked for it. It says the worst gap has gone from four minutes to eleven minutes in about ten weeks, which is about forty seconds a day, every day, and I have never in my life seen a clock lose forty seconds a day for ten weeks and then be all right again.
+"Because the docket is the specification," he said. "It is the only document in this building that says what the free clocks cost, and it has been kept since the twenty-fourth of the fourth by a nineteen-year-old who was paid at the ward rate and was not asked for it. It says the worst gap has gone from about four minutes to about fifty minutes in about ten weeks, which is forty seconds a day on the free master and fifty seconds a night on the line, every day, and I have never in my life seen a clock lose forty seconds a day for ten weeks and then be all right again.
 
 "So I am not pricing a fault. I am pricing a fault that has been getting steadily worse for seventy nights, and the two of you have been writing it down, and the reason I want the price fixed before I open the case is that if I open it and it is worse than that, I am going to want four pounds, and I would rather be able to say eighteen shillings and threepence than have you find out afterwards that I decided what it was going to cost when I knew what it was."
 
@@ -175,14 +175,16 @@ And on the Wednesday evening of the twentieth, which is the last hour of the day
 
 "Ward's gap, this month," she said. "You have given me back forty seconds a day of growth. I want to know what it is at the end of the month so I can put it on the card with the date on it and read it out in this room, because I have told this room a number four times over two years and I want to give them one with a date on it that is going to be true."
 
-He looked at the branch figure in his own notebook, which was 1:36:50 and frozen as of the first of August, and at the day it was last stepped, and at the day it stopped.
+He looked at the branch figure in his own notebook, and at the date it was last stepped, and at the fact that it is stepped every night and that nobody in this city has said why.
 
 "I cannot tell you," he said. "And I am not going to meander about it, and I want the reason on the card as well as the number, because the reason is the useful half.
 
-"**The gap between your free clocks and your line clocks is now a known gap and it stops growing. It does not close.** The line is the district branch, and the branch was an hour and thirty-six minutes and fifty seconds out on the first of the eighth and it is not out by a different amount today, and it will be exactly the same amount on the thirty-first, and if anybody had re-set your ward's line clocks this month to the district reference they would all be an hour and thirty-six minutes and fifty seconds wrong against the hospital's own rate, and I have not touched them and I am not going to.
+"**There are two gaps on that card and you have only ever been asking me about one of them.** The one I have given you back is your free master against your own line, and that one is a clock, and the clock is mended, and it is inside a second a day this evening and it will be inside a second a day on the thirty-first of this month and every month after that, and that is a number I will put a date on for you and it will be true.
 
-"So the number at the end of the month is forty seconds a day of growth taken away, and nothing else, and it is not a number I can put a date on and mean."
+"**The other one is the gap between your free clocks and the line clocks, and I have not given you that one back and I am not able to, and it is still growing, and I cannot tell you what it will be on the thirty-first.** The line is the district branch, and the branch is fifty seconds further out every night than it was the night before, and there is nothing anybody can do to a number that is added to while you are asleep, and it is not a fault in a machine and it is not going to be put back in your time or mine, and if somebody re-set your ward's line clocks to the district reference this month they would all be that much wrong against the hospital's own rate, and I have not touched them and I am not going to.
 
-Leda Vale wrote it down. It went on the card with the date on it and the four names on it, and the fifth name on that card, in a different hand, is E. Cobb, and the column she started that morning is a new one, and the top of it says: *Known gap. Growth stopped 20th. Why it does not close.*
+"So the number at the end of the month is forty seconds a day taken away from one of the two, and the other one is still going, and **I am not going to hand you a figure with a date on it that I would have to come back here and take off the card in a fortnight.**"
+
+Leda Vale wrote it down. It went on the card with the date on it and the four names on it, and the fifth name on that card, in a different hand, is E. Cobb, and the column she started that morning is a new one, and the top of it says: *Free master, growth stopped 20th, inside 1 s a day. Line gap: still growing, 50 s a night, reason not in this ward.*
 
 The count of a clockmaker's own unrecorded hand corrections in this city remains **two**, and this was a customer's machine under a written engagement at an agreed price, and a work of maintenance is not a hand correction, and nothing on the third floor that week was a third. **A price agreed before the case is opened is not a toll and is not a reading cost and is not in any of the four columns. And it is the only instrument a clockmaker has that has never once cost anybody anything except him.**

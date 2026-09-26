@@ -2,7 +2,7 @@
 
 The third practice is on a bridge joint, and the joint is out of a bridge, and the frame is a bending frame, and Orrin Vale loaded a **tension** splice four tons in a machine built for bending a beam, and Ivo Pell told him so on the Wednesday afternoon and did not stop him, because the number the frame gave was worth more than the machine it was in.
 
-That is the finding of the chapter, and it is not supernatural, and it has been available to any clockmaker in the trade for about a hundred and forty years.
+That is the finding, and it is not supernatural, and it has been available to any clockmaker in the trade for about a hundred and forty years.
 
 ---
 
@@ -68,7 +68,7 @@ B is the only one of the four that has moved, and it has moved eleven thousandth
 
 ---
 
-**And on the Sunday, on the Friday before, on the Saturday, and again on the Monday, he put his hand on B and asked the four words, and got the four things, four times, and B is the one that gave him the fourth one.**
+**And on the Friday before, and on the Saturday, and again on the Sunday, he put his hand on one of the four and asked the four words and got the four things, three times over, and got the same answer three times. Then on the Monday he marked them so that he could say which one he had been putting his hand on, and it was B, and B is the one that gave him the fourth one.**
 
 Heat at the bolt line, on the lower flange, at the third bolt from the end. Vibration, small, in the splice, at the top of the load. Resistance, and a place where the resistance is not the resistance it should be. And the edge at the limit of it, the fourth thing, which is not a number and has no shape and cannot be described to a man who has not had it.
 
@@ -88,7 +88,7 @@ And then, because he is the sort of man who cannot leave a thing alone:
 
 ---
 
-**Ivo Pell came on the Wednesday the twenty-seventh at about four in the afternoon, which is eleven days after the last time, which is about a fortnight, and Orrin Vale wrote in the book that he was not going to be the man who counted it.**
+**Ivo Pell came on the Wednesday the twenty-seventh at about four in the afternoon, which is eight days after the last time, and he had meant to write about a fortnight and did not, and Orrin Vale wrote in the book that he was not going to be the man who counted it.**
 
 Pell came into the store, looked at the frame for about half a minute from the doorway, and did not come in, and said the whole of what he had to say about the machine from where he was standing.
 
@@ -130,9 +130,9 @@ He did not write it down. He wrote down the date, and he wrote down *Tuesday*, a
 
 ---
 
-**And the last thing that happened that week was not in the yard and it is the only reason to record the week at all.**
+**Wednesday the twenty-seventh, about half past four, at a card-index and not in the yard at all, and it is the only reason to record the week at all.**
 
-The works' file for the Green Span hospital trestle is a card, and the card is in the works' maintenance schedule, and the card is not the conduit bracket. Item seven of the schedule is the bracket, and the bracket is a bracket, and the bracket had a survey in the fifth month of this year and a two-year-old estimate and a new casting out of a pattern in box 41, and every one of those is in Chapter 42 and every one of them is on the page.
+The works' file for the Green Span hospital trestle is a card, and the card is in the works' maintenance schedule, and the card is not the conduit bracket. Item seven of the schedule is the bracket, and the bracket is a bracket, and the bracket had a survey in the fifth month of this year and a two-year-old estimate and a new casting out of a pattern in box 41, and every one of those three is in the works' own file and every one of them is on the page.
 
 **The card he wanted was a different card.** The trestle is not a bridge; it is a timber and iron structure built in 1911 to carry a hospital branch across a cut, and it has a **movement joint at each end**, and a movement joint is not a bracket and does not fail by shearing a fixing and does not take a load until it has moved and keeps moving, and there is a survey card for it with an interval on it.
 
@@ -142,7 +142,7 @@ He read the card in the file at about half past four on the Wednesday, standing 
 
 **Which means the interval is on the card in the file, and the date is on the card in the file, and the two are not in the published schedule, and the published schedule is the thing the works puts in front of a committee.** So the interval is a thing a man in a yard knows and the fact that it has not been done is a thing a man in a yard knows, and there is no version of it that reaches a room.
 
-It is not overdue. It is not due for eleven months. That is the point and it took him an hour to see it and it is the whole of Chapter 64.
+It is not overdue. It is not due for eleven months. That is the point, and it took him an hour to see it, and it is the whole of that card.
 
 > *Twenty-seventh of the seventh. A cast-iron movement joint at each end of a hospital trestle built in 1911, with a four-year interval, last surveyed two years and one month ago.*
 > *It is not due. That is the finding and I have turned it over nine times tonight and it is the finding.*

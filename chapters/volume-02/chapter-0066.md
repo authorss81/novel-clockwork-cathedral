@@ -23,7 +23,7 @@ He read it standing up at about ten past ten on the Monday morning with two othe
 
 **Tuesday the second, about ten in the morning, at the pump house, with two watches and a notebook and a good folding rule, and he wrote nothing at all for about four minutes because he was waiting for a number to move.**
 
-It did not move. He had the pair on the Quarter hill in front of him, four hundred yards apart, in daylight, and the difference was what it had been on the fourth of August's predecessor, the ninth of June, and he read it twice with a watch in each hand and then a third time on the Friday morning and again on the Saturday, and it did not move on any of them.
+It did not move. He had the pair on the Quarter hill in front of him, four hundred yards apart, in daylight, and the difference was what it had been on the ninth of June, and he read it twice with a watch in each hand and then a third time on the Friday morning and again on the Saturday, and it did not move on any of them.
 
 **Fifty seconds a night is the step, and the step was at the fourth draw, and there were four draws, and on Monday the first of the eighth a committee of nine men voted that there would be two, and the branch has taken its beat off the even teeth since Tuesday morning instead of the odd ones, and the step was on the odd ones.**
 
@@ -59,25 +59,25 @@ He had expected two things and both were wrong.
 
 **He expected the line to come back.** A man who has watched a line walk away from a reference for ten weeks, and who has then seen the thing that is doing it stop, expects a clock to go back. It does not go back. **A step is a displacement and it is permanent and there is nothing in this city that has ever put a machine back, and the far end of the Weir Two branch is now two hours and twenty-nine minutes and twenty seconds out of the district reference and it is going to be that figure on the last day of August and on the last day of the year, and it is a gate, and nineteen households draw on it.**
 
-**And he expected the shape to change, and the shape did not change at all.** Five differences, identical, to the second, seven weeks apart. There is no kink in it and no lump and no place where it doubles. It is exactly the same shape it was on the ninth of June, standing still.
+**And he expected the shape to change, and the shape did not change at all.** Five differences, identical, to the second, eight weeks apart. There is no kink in it and no lump and no place where it doubles. It is exactly the same shape it was on the ninth of June, standing still.
 
 Which means the finding is not about the six clocks. It is this:
 
 > *On the ninth of June, what was on that wall was a **rate.** Fifty seconds a night, and a rate is a thing nine men with a property qualification can vote on, and I have spent ten weeks of my life and about six months of my thinking establishing that.*
-> *On the fourth of August, what is on that wall is a **figure.** Two hours and twenty-nine minutes and twenty seconds at a water gate. And a figure is not a thing anybody in this city can vote on, and there is no form for it, and nobody can be asked about it, and **the committee that took the step out of it has just proved, lawfully, on a Monday, in about eleven minutes, that the whole of what is wrong with this district is a matter of committee procedure, and that if the procedure went the other way tomorrow the district would be an hour further out and nobody anywhere would be able to point at the moment it happened.**
+> *On the fourth, what is on that wall is a **figure.** Two hours and twenty-nine minutes and twenty seconds at a water gate. And a figure is not a thing anybody in this city can vote on, and there is no form for it, and nobody can be asked about it, and **the committee that took the step out of it has just proved, lawfully, on a Monday, in about eleven minutes, that the whole of what is wrong with this district is a matter of committee procedure, and that if the procedure went the other way tomorrow the district would be an hour further out and nobody anywhere would be able to point at the moment it happened.**
 
 And then the entry, and it is four lines and it is the hardest thing he wrote that month, and he wrote it in the shop on the Tuesday evening.
 
 > *And here is what I cannot get round, and I have been at it since two o'clock.*
 > *On the ninth of June I projected the pair on the hill for the first of August. Fifty-three nights at fifty seconds added to forty minutes and fifty seconds is **one hour twenty-five minutes exactly.** I wrote it in the ledger in June with the arithmetic under it and it was right in every part.*
-> *The pair were forty minutes and fifty seconds apart on the fourth of August, and on the first, and on the second.*
+> *The pair were forty minutes and fifty seconds apart on the fourth, and on the first, and on the second.*
 > *I was out by forty-four minutes and ten seconds, and I was out by exactly the amount that nine men removed from a schedule on a Monday afternoon, and **there is not a fault in that anywhere and there is nobody to argue with.***
 > *A district's error is a thing a committee can vote on. And so is mine. And the only person in this city who has said that sentence out loud before the eleventh of the seventh month is a man of twenty in a room over a shop, about a form, and he did not mean it to be about me.*
 > *I do not think this is a scandal. I have gone at that for two days and this is the whole of why: a district that cannot be asked cannot object to a thing nobody did, and I have spent five months proving it, and a man who proves it and then gets voted at is not a martyr. He is a man who found out where the edge of the thing he was standing on was, and it moved the same week.*
 
 ---
 
-**Bevin Sarr read the new set of figures standing, on the Tuesday afternoon, and then she picked up the chalk, and what she said took about four seconds and it is the sentence the whole of this volume turns on.**
+**Bevin Sarr read the new set of figures standing, on the Tuesday afternoon, and then she picked up the chalk, and what she said took about four seconds and it is the sentence this ward has been getting wrong for eleven years.**
 
 "Chalk the high," she said. "There is a man of sixty-eight on this side who cannot read at the height you have written it."
 
@@ -156,9 +156,9 @@ Nobody thanked her. She had not asked to be thanked and she had said so in June 
 
 **And that was the last hour of the committee business, and she went, and at about half past six that evening a clockmaker from the Clockwork Quarter did four and a half hours of ordinary paid work in a shop on Verge Lane and went to bed at ten and slept nine hours.**
 
-It was a bracket clock off a jeweller's wall in the Quarter, and it was eleven minutes a day slow and had a cracked backplate and a worn worm, and the jeweller was told the price before the work and the price was **one pound eighteen shillings**, being four and a half hours at the hall's out-of-shop rate and nineteen shillings of material, and it was done in a day, and it was the fourth paid job that month, and it is not in any of the four places a district keeps anything.
+It was a bracket clock off a jeweller's wall in the Quarter, and it was eleven minutes a day slow and had a cracked backplate and a worn worm, and the jeweller was told the price before the work and the price was **one pound nineteen shillings and threepence**, being four and a half hours at the hall's out-of-shop rate of four shillings and sixpence, which is twenty shillings and threepence, and nineteen shillings of material, and it was done in a day, and it was the fourth paid job that month, and it is not in any of the four places a district keeps anything.
 
 > *Fourth of the eighth. Tuesday of the third: a woman of forty carried a chair up two steps into a pumping ward and would not let anybody move it, and read a wall twice, and found out that the standing protection she won for this district in June protects a certificate in a class that had been abolished five weeks before she noticed, and said so before she asked for anything.*
 > *Tuesday of the second: the step stopped on a Monday's vote and the far end of that branch is two hours and twenty-nine minutes and twenty seconds out and it is a gate and it is going to be that figure for ever.*
 > *I have been out by forty-four minutes and ten seconds on the only number of mine that was ever going to be true in advance, and the thing that beat it was a vote, and a vote is what I spent five months proving is the whole of the difficulty, and I would like it noticed that a man who proves a thing and is then proved at is not the same as a man who is wrong, and that I have not been able to explain the difference to anybody including myself, and that the only person who would have explained it to me is on a train to Northglass.*
-> *And I did four and a half hours of somebody else's clock for one pound eighteen shillings and went to bed at ten and slept nine hours, and I have not slept nine hours since the first of the fifth, and I am putting that in the book because a grey book is worth nothing in any room that is not the one it is in, and this room is mine, and I am the only person who will ever read this line, and I have decided that is allowed.*
+> *And I did four and a half hours of somebody else's clock for one pound nineteen shillings and threepence and went to bed at ten and slept nine hours, and I have not slept nine hours since the first of the fifth, and I am putting that in the book because a grey book is worth nothing in any room that is not the one it is in, and this room is mine, and I am the only person who will ever read this line, and I have decided that is allowed.*

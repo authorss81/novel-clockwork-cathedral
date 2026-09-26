@@ -39,9 +39,9 @@ There was no alarm on the ward either. A hospital's water is not a ward's water,
 > *11 pts, 3 staff, 24 intervals worked off the free master at the bedside, each checked with two watches. Worst single interval 7 min 05 s.*
 > *Total hand time for the round, 9.10 p.m. to 3.30 a.m. — **6 h 20 min.***
 
-And she said that one out loud too, in the room, in the same voice, and Leda Vale wrote it under hers and put her own name against it, which is now the second time in nine years that two names have been under a figure in that ward.
+And she said that one out loud too, in the room, in the same voice, and Leda Vale wrote it under hers and put her own name against it, which is now the second time in eleven years that two names have been under a figure in that ward.
 
-**And that is the whole of the discovery of the second of the ninth and the twenty-sixth of the ninth: the ward's free master, which is inside a second a day, is the reason a hospital with eleven patients is not a catastrophe, and it is a bracket clock eleven inches high on a landing in a building that has been there since 1949, and it is kept in a job by nobody in particular, and it is wound by whoever is on, and it is the only reason this book has two numbers in it and not none.**
+**And that is the whole of the discovery of the second of the ninth and the twenty-sixth of the ninth: the ward's free master, which is inside a second a day, is the reason a hospital with eleven patients is not a catastrophe, and it is a bracket clock of 1949, eleven inches high, on a third-floor landing in a building that was up before either of them came to it, and it is kept in a job by nobody in particular, and it is wound by whoever is on, and it is the only reason this book has two numbers in it and not none.**
 
 ---
 
@@ -105,7 +105,7 @@ The room over the chandler's shop has two tables pushed together and eleven chai
 > *2. The Weir Two pump house, station clock. On the same line, **48 min 00 s** out. Nine minutes and twenty seconds nearer than the first.*
 > *3. The Quarter hill, south public clock, on a bracket over a door at the corner where four roads meet, **1 h 49 min 10 s** out, and about nine hundred people a day walk under it without looking up.*
 
-"**That is the point of the three and there is no fourth thing to point at,**" said Ivy Pike. "Two clocks nine minutes and twenty seconds apart, in two buildings, with a man who has measured it twice. And one clock out by two hours and eleven minutes in a street where anybody can stand under it. **You do not need anybody to agree. You need three people to be in three places at a minute somebody wrote down in advance, and to write down what they see, and to have the three figures that do not agree in three hands.**"
+"**That is the point of the three and there is no fourth thing to point at,**" said Ivy Pike. "Two clocks nine minutes and twenty seconds apart, in two buildings, with a man who has measured it twice. And one clock out by an hour and forty-nine minutes in a street where anybody can stand under it. **You do not need anybody to agree. You need three people to be in three places at a minute somebody wrote down in advance, and to write down what they see, and to have the three figures that do not agree in three hands.**"
 
 "And a written question," said Ambrose. "**What is the question.**"
 
@@ -142,7 +142,7 @@ Nobody could.
 > *— the works, which will pay for a works' man and not for a person of a district it cannot consult;*
 > *— and a company, which is in an envelope in a works' file with a minute on top of it and has not been formed.*
 >
-> *So the three readings are done for nothing, by three people, on their own time, and two of them are on a gate and one of them signs for a gate, and a woman of thirty-three with nine blocks will find out that one of her tenants stood in the rain for nothing because somebody mentioned it in a shop.*
+> *So the three readings are done for nothing, by three people, on their own time, and two of them are on a gate and one of them signs for a gate, and a woman of fifty-four with nine blocks will find out that one of her tenants stood in the rain for nothing because somebody mentioned it in a shop.*
 
 And that is the cost, and it is on the table in a room with a stove in it, and it can be read, and it is arithmetic.
 

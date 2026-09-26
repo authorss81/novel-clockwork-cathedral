@@ -209,9 +209,9 @@ Six people carry Volume 01's institutional machinery. Each has one clean functio
 - **Function:** the new administrative pressure on guild labour. His forms are honest and they are also the mechanism by which an inspection becomes an inquiry.
 - **Volume 01:** named in Chapter 1 on an inspection authority; a closing inspection in the political chapters; he closes Hask's inquiry for the guild and is not a villain for it. **Volume 06:** he reads the Outer Sluice minutes. **Volume 14:** his inspection history is part of the public record of what was deferred.
 
-#### Sindri Lake, 55
+#### Sindri Lake, 61 *(the bible said 55 until the fourteenth of the tenth; the page says sixty-one in Chapter 55 and again in Chapter 75, and he is sixty-one in both)*
 
-- **Role:** keeper of the public Archive room on Cathedral Rise, which is open to petition and staffed by a man who can decline.
+- **Role:** keeper of the public Archive room on Cathedral Rise, which is open to petition and staffed by a man who can decline. **Keeper of the public room for nineteen years, and the card index of names and dates is in a drawer under the counter and has never been out of it; only the shelf list of eleven lines is public.**
 - **Function:** the sentence *referred to the sealed archive*. Polite, precise, immovable, and never a liar; the distinction between a room that is closed and a room that is not for petition is the chapter's whole argument.
 - **Volume 01:** refuses Orrin's request in Chapter 8 and explains why in three sentences, kindly. **Volumes 02 and 09:** the same man, the same courtesy, in the room where the index is opened.
 

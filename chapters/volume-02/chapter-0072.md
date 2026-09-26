@@ -14,7 +14,7 @@ On the Tuesday morning, a man of twenty stood in the galvanising and wire works'
 
 Then he went and stood by a wall for about twenty minutes, and then he left, and about nine of the thirty followed him out of the yard, which is not a fraction anybody could do anything with.
 
-On the Wednesday, a woman of thirty-three nailed a notice of twenty-four hours' standing to a board outside a pump house, and it was Sel Kade's notice, and it said what such a notice says, and the date on it was the Thursday, and the date on the thing Teo Arden had said in a room with a works clerk taking minutes was the Thursday, and **the two notices were nine miles apart and there was no form in this city on which anybody could have entered both of them in the same book, and nobody in this district connected them until the following Wednesday, and by then it did not matter, and that is the sentence.**
+On the Wednesday, a woman of forty-four nailed a notice of twenty-four hours' standing to a board outside a pump house, and it was Sel Kade's notice, and it said what such a notice says, and the date on it was the Thursday, and the date on the thing Teo Arden had said in a room with a works clerk taking minutes was the Thursday, and **the two notices were nine miles apart and there was no form in this city on which anybody could have entered both of them in the same book, and nobody in this district connected them until the following Wednesday, and by then it did not matter, and that is the sentence.**
 
 On the Wednesday evening Orrin Vale wrote in the grey book that a thing which lasts is not one morning, and that there would be a ninth day in it, and that he had no idea what a ninth day was, and that he was writing it down so that he could not afterwards pretend to have thought about the first one only.
 
@@ -175,7 +175,7 @@ He wrote that down on the Sunday night. He did not write it in a book that anybo
 
 **And the cost, when it is written down, is water, and the number is in a warden's day book in a store.**
 
-The gauge sheet says this, and these are the four lines and they are the whole of the cost of the first four days of it:
+The column says this, and these are the four lines and they are the whole of the cost of the first four days of it:
 
 > *Thursday the first, at the close of the day: **1 day 14 hours.***
 > *Friday the second: **1 day 6 hours at 2.08 a.m. 1 day 12 hours at 4.00.** The only thing that happened between those two figures is fifty-five minutes with a bar in an override on a gearbox at a gate.*
@@ -184,9 +184,9 @@ The gauge sheet says this, and these are the four lines and they are the whole o
 
 And the alarm did not ring on any of the four nights, and no report was made, and no form requires one. The reserve has been under two days since the second of the third month, which is a standing condition and not an event, and on the fourth of the ninth there is about a day of it left.
 
-**Those four lines are in a column with no heading in the warden's day book, and the warden's day book is in a box in the store at the pumping ward, and the warden stood down at eight o'clock on Thursday morning, and the store's form says where a thing is going to be kept, and what it says is THE STORE.**
+**Those four lines are in a column with no heading in the warden's day book, and the last three of them are not in her hand. They are in the hand of whoever was on the pump house that night, because the column had to be kept and there is nobody to keep it but the people who are already standing there. The warden's day book is in a box in the store at the pumping ward, and the warden stood down at eight o'clock on Thursday morning, and the store's form says where a thing is going to be kept, and what it says is THE STORE.**
 
-Nobody in this city can be asked about the tank. Nobody can be shown the day book. The form that would put a pumping district into a question is a form that needs a body, and the only person who held the book is a woman who is on a bus.
+Nobody in this city can be asked about the tank. Nobody can be shown the day book. **A column with no heading, kept by a man who was on a pump house and wrote a number on a line and does not know what the number was for, is not a record and nobody has ever looked at one to find out.** The form that would put a pumping district into a question is a form that needs a body, and the only person who held the book is a woman who is on a bus.
 
 ---
 
@@ -208,4 +208,4 @@ He had done it for two hours in the fifth month of this year while a woman with 
 
 **He decided at about eleven o'clock on Sunday the fourth of the ninth month that he would open it again on Monday morning at the change of shift, and that he would do it on his own initiative, and that he would not tell the foreman, and that if anybody ever asked him he would say that he had opened the boundary because he was the man at the boundary and that was the job.**
 
-He did not put it in a book. There was no book to put it in. The warden's day book was in a box in a store and the man who wrote in it had left, and there is no column in this city for fifty-five minutes or for four hours, and he is forty-one, and he has nineteen years in at that gate, and nobody has ever once asked him anything about it.
+He did not put it in a book. There was no book to put it in. The warden's day book was in a box in a store and the woman who kept it had gone out on the Friday on a bus, and there is no column in this city for fifty-five minutes or for four hours, and he is forty-one, and he has nineteen years in at that gate, and nobody has ever once asked him anything about it.

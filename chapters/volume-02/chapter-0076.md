@@ -92,7 +92,7 @@ Mara Venn sat quite still for about four seconds. Then she said:
 
 He said it. She was right and it took him about a minute.
 
-"**Because in the sixth month a woman of twenty-six at a counter told me the thing I had paid for was a return, and a return is not a party to a question, and I had been going to that counter twice a month for two months and I had not heard it. And a return is made out on the rateable value of properties. I corrected it myself, on a form, in the guild's own series, in the guild's own hand, out of my own pocket, on the first of the fifth, in four minutes, and it cost eighty-two shillings, and the ward's rate went up a shilling and tenpence in the pound on the strength of it, which is about two thousand six hundred pounds a year, and nobody in the ward knows that I am the reason, and Bessie Crane paid sixty-two shillings in coin in the seventh to be counted and did not know that I had been counted first, and I have not been able to make myself go and tell her since July.**"
+"**Because on the eleventh of the seventh a woman of twenty-six at a counter told me the thing I had paid for was a return, and a return is not a party to a question, and I had been going to that counter twice a month for two months and I had not heard it. And a return is made out on the rateable value of properties. I corrected it myself, on a form, in the guild's own series, in the guild's own hand, out of my own pocket, on the first of the fifth, in four minutes, and it cost eighty-two shillings, and the ward's rate went up a shilling and tenpence in the pound on the strength of it, which is about two thousand six hundred pounds a year, and nobody in the ward knows that I am the reason, and Bessie Crane paid sixty-two shillings in coin in the seventh to be counted and did not know that I had been counted first, and I have not been able to make myself go and tell her since July.**"
 
 "That is the reason and it is a good one and it does not get any of it back."
 
@@ -140,7 +140,7 @@ Mara Venn looked at the page for a while. It was a grey ledger of about two thou
 
 "Go on."
 
-"**That is not humility. That is a man who has learned in six months that a number he likes and a number he can check are not the same object, and he has learned it from a stair, and it took him a hundred and forty questions to notice that he had learned it, and it is worth very much more than the thirty-four days and I am not going to pretend it is not worth very much more than the thirty-four days.**"
+"**That is not humility. That is a man who has learned in five months that a number he likes and a number he can check are not the same object, and he has learned it from a stair, and it took him a hundred and forty questions to notice that he had learned it, and it is worth very much more than the thirty-four days and I am not going to pretend it is not worth very much more than the thirty-four days.**"
 
 "I have not made a plan about the first of the fifth and I am going to write that down tonight so that I cannot make one later."
 

@@ -47,7 +47,7 @@ Four signatures, and the last two lines are the price, and the price is on the s
 
 There were seven people in the room. Orrin Vale was one of them.
 
-"I know what that is," she said, before she had sat down. "**I have read it. It is on the board at the pumping ward and it is on the paper you have got in your coat and I know that there are twenty-six of us and I know that I am one of them, and I have known since about the fourth of the seventh and I have not come before because nobody came.**"
+"I know what that is," she said, before she had sat down. "**I have read it. It is on the board at the pumping ward and it is on the paper you have got in your coat and I know that there are twenty-six of us and I know that I am one of them, and I have known since the twenty-ninth of the seventh, the day the mutual gave you the list, and I have not come before because nobody came.**"
 
 Nobody said anything.
 
@@ -57,13 +57,13 @@ Nobody said anything.
 
 When she had finished she sat down.
 
-"Right," she said. "**Then here is the whole of what I have come to say and it is one thing and I have been saying it to myself since about the seventh of the seventh.**
+"Right," she said. "**Then here is the whole of what I have come to say and it is one thing and I have been saying it to myself since the last week of the seventh.**
 
 "**I am not going to put my name to it.**
 
 "Mr Vale, you have not knocked on number nine and I am not going to say thank you for it, because you would have had to break a promise you made in your own book to a woman you have never met, and that is not a favour, it is arithmetic. And I want it on the record that nobody in this district has to walk up my stairs about anything.
 
-"**And that is exactly why I am not going to sign.** The first of the fourth month, a woman of twenty-six at a counter in this city told you the form you filled in is a return and a return is not a party to a question. I have never met her and I know she is right, because I live on the same main. **The only thing that has ever made a person of this district count for anything in a room is a form, and the form is two shillings the head for a year, and two shillings buys a line in a list and a line in a list is not a person.**"
+"**And that is exactly why I am not going to sign.** On the eleventh of the seventh, a woman of twenty-six at a counter in this city told you the form you filled in is a return and a return is not a party to a question. I have never met her and I know she is right, because I live on the same main. **The only thing that has ever made a person of this district count for anything in a room is a form, and the form is two shillings the head for a year, and two shillings buys a line in a list and a line in a list is not a person.**"
 
 "Go on," said Orrin Vale, and his voice was not steady and he did not try to make it so.
 
@@ -93,7 +93,7 @@ It is in an envelope in the works' file with a minute on top of it that binds no
 
 "No." He did not raise his voice. "**I said no in August for one reason and no in September for a different one and I have said both of them out loud in rooms and neither of them is this one.**
 
-"This is the third. **I have been asked whether I would put my name to it, and I would, and that is the reason. If I am one of two or three men in this district who will put their name to a document, then a document can be made here, and a district that can make a document is a district that can be asked a question, and the whole of the reason there is not one is that there has never been a room, and a man in a room is a different animal from a man on a road and I have found that out in five weeks.** So: no, and the price has not moved, and I would like it minuted that the price has not moved and that it would not have moved at a hundred times that, which is what Mr Vale wrote down at a counter in the seventh month and which is the only sentence of his that I have ever agreed with."
+"This is the third, and you have all been waiting for me to refuse on my own account, and I will not. **I would put my name to it. And if I am one of two or three men in this district who will put their name to a document, then a document can be made here, and a district that can make a document is a district that can be asked a question, and the whole of the reason there is not one is that there has never been a room, and a man in a room is a different animal from a man on a road and I have found that out in five weeks. That is all true and it is not the reason, and I am going to say the reason next and I should like it minuted, because the reason is the only one of the three that is about the document and not about me.** So: no, and the price has not moved, and I would like it minuted that the price has not moved and that it would not have moved at a hundred times that, which is what Mr Vale wrote down at a counter in the seventh month and which is the only sentence of his that I have ever agreed with."
 
 "The minute is in the works' file and it binds nobody and it can be lost."
 
@@ -113,7 +113,7 @@ The common question is on one sheet and it is the one from the twenty-eighth of 
 
 **Sabine Kaye**, forty-four, a holder of the first class, over a shop, about four certificates a month, twelve years, a watch and a second watch and a bench, who has never been to this district and has said so and was asked whether she would come and said yes and then said what it would cost.
 
-**And this is the table, and it was on the table on Thursday evening and it is on the wall in a pumping ward in a pumping ward's outer room in chalk, and it can be read by anybody who goes in there:**
+**And this is the table, and it was on the table on Thursday evening and it is on the wall of a pumping ward's outer room in chalk, and it can be read by anybody who goes in there:**
 
 > *What a rehearsal costs, the first time it is run properly, and nobody has run one.*
 >
@@ -160,9 +160,9 @@ He put his hand off the table and picked up his coat.
 
 "Nobody is to be thanked," he said, at the door. "**Especially me, and especially not on the twenty-first of the first month of the year after next.**"
 
-> *Tenth to the fourteenth of the tenth. Six months and four days since the ninth of the fourth, which is the day a man of twenty stood up in a room over a shop in Bellweather and said a printed page has no address, and neither of the two people in that argument has withdrawn a word of it, and both of them are right, and it is closed.*
+> *Tenth to the fourteenth of the tenth. Six months and five days since the ninth of the fourth, which is the day a man of twenty stood up in a room over a shop in Bellweather and said a printed page has no address, and neither of the two people in that argument has withdrawn a word of it, and both of them are right, and it is closed.*
 > *The compromise is four lines on a sheet and it is a list, and the list is twenty-six addresses and I have not knocked on any of them and I am not going to, and it is in my own book dated the day I was given them, and it has been said out loud in a room twice now and it is going to be said out loud again.*
-> *A woman of twenty-four came up a stair nobody sent her up, she lives at the ninth of the twenty-six, and she has refused to put her name to a piece of paper about her own street and has given a reason that four people in a room could not improve on, and she is the only person of this district anybody in this district has met this year, and nobody knocked.*
+> *A woman of twenty-four came up a stair nobody sent her up, she lives at the ninth of the twenty-six, and she has refused to put her name to a piece of paper about her own street and has given a reason that four people in a room could not improve on, and she is the only person of this district who has come into a room this year without being asked to, and nobody knocked.*
 > *Forty pounds is still in an envelope in a works' file. The door is still open. A rehearsal is set for the eleventh month with two operators who will not sign, three clocks, a question with nothing in it, and no person of the district, and it is on the wall in chalk with the cost on it, and it cannot stop one single thing in this city.*
 > *A scale is on two boards and the four hundred and eleven head counts want an audit, and an office of four people is going to ask for the box and has not been refused in writing and has not yet applied, and I have not been thanked and I am not going to be.*
 > *And a person asked a question out loud in a room on the fourteenth of the tenth and nobody answered it, and the question is where does a person go to refuse, and I did not answer it, and I am not going to answer it, and I have got a bench and a lease to Michaelmas and a form that runs out on the first of the fifth of next year and a line of chalk on a wall with a date on it and no name on it, and I am going to be the man who was in the room when the question was asked and I am not going to be the man who decides.*

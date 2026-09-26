@@ -4,7 +4,7 @@ A man who has worked out something on a Tuesday morning on a canal road and has 
 
 ---
 
-**Wednesday the twenty-fourth, and he did nine hours of somebody else's clock, and the stoppage that is called for a week on Thursday is eight days off.**
+**Wednesday the twenty-fourth, and he did nine hours of somebody else's clock, and the stoppage that is called for on Thursday is eight days off.**
 
 The job was a long-case of 1897 in a house in the Clockwork Quarter, a Mahogany and eight-day with a subsidiary seconds and a strike that had not been, as far as anybody could find out, for about two years. The clock was stopped when he took the weights off, which is the way clocks are.
 

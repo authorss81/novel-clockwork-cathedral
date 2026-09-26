@@ -16,13 +16,13 @@ The stoppage was never one thing and there was no day anybody could have named. 
 
 **A hospital.** Two rounds, by hand, off a bracket clock eleven inches high on a landing, twenty-two intervals and then twenty-four, in two nights in September, and four hundred and ninety-two minutes of a living person's attention taken off a night sister and two others and put into a column with a date on it, which is the only place in this book where that has ever been done.
 
-**A tram.** The route came off the public timetable on **four Wednesdays** during the five weeks, at a private hire of **four pounds eight shillings against one pound three on the public table**, the difference three pounds five shillings, carried out of a gate fund in a tin at the front office of a works with ninety-one persons in it. **Perpetua Nye, fifty-one, twenty-six years on that line, held a bus at the Green Span junction on four afternoons, for eleven minutes, eleven minutes, nineteen minutes and eleven minutes.** She is not thanked and has said she will not be, and the reason is the one she gave in August and it has not changed: stopping is her hands and not anybody's number.
+**A tram.** The route came off the public timetable on **four Wednesdays** during the five weeks, at a private hire of **four pounds eight shillings against one pound three on the public table**, the difference three pounds five shillings, carried out of a gate fund in a tin at the front office of a works with four hundred men in it. **Perpetua Nye, fifty-one, twenty-six years on that line, held a bus at the Green Span junction on four afternoons, for eleven minutes, eleven minutes, nineteen minutes and eleven minutes.** She is not thanked and has said she will not be, and the reason is the one she gave in August and it has not changed: stopping is her hands and not anybody's number.
 
 **A school.** About two hundred and ten children in two sessions, whose bus is not on a timetable and therefore is not in the box on the post, and the box governs the road anyway, and it is the same box and the same figure.
 
 **A market.** Nine stalls out of forty did not open on four Wednesdays in a row, which is a thing that ends a market, and the traders from the far side worked out about halfway through that the second session's bus and the first tram were the same afternoon, and nobody had told them and nobody had asked them.
 
-**A maintenance programme.** The district works' own men were on the road for five weeks, and the canal front's standpipes were not looked at once, and the trestle brackets' four-year interval was not due for another nine months and was not looked at, and the crossing brackets' twelve-month interval has a first inspection in programme year one and there is no first inspection in it, and the six hundred standpipe brackets on the works' own sheet at one thousand eight hundred and ninety pounds were not looked at by anybody and are on a wall in chalk in a pumping ward with the price on it.
+**A maintenance programme.** The district works' own men were on the road for five weeks, and the canal front's standpipes were not looked at once, and the trestle brackets' four-year interval was not due for another year and eleven months and were not looked at, and the crossing brackets' twelve-month interval was inspected in June and is not due again until next June, and the six hundred standpipe brackets on the works' own sheet at one thousand eight hundred and ninety pounds were not looked at by anybody and are on a wall in chalk in a pumping ward with the price on it.
 
 **And then on Wednesday the fifth of the tenth, at about half past six in the morning, at the change of shift, the last ninety men went in, and Idris Vane was not at the gate, and the reason he was not at the gate is that he does not stand at gates.**
 
@@ -47,7 +47,7 @@ It took about eleven minutes. It was lawful, it was correct, and the reasons in 
 
 **Nobody can object to a schedule they were not asked about. That is not a defect in the objection. There is no other kind in this city.** The district was not consulted because it cannot be, and it cannot be because a pumping district is a list of properties and not a body, and a list of properties has no mouth, and the clause that says so is in the ordinance, and somebody in a building had to go and look whether it was, and nobody has written down who.
 
-And the fifth week of the five is the week the tank went under a day in, and the sixth week of the five is the week it is back at four cycles in a district that has not had a hand-wound night since the second of the ninth.
+And the fourth week of the five is the week the tank went under a day in, and in the week it ended the front is back at four cycles in a district that has not had a hand-wound night since the second of the ninth.
 
 ---
 
@@ -65,13 +65,13 @@ And the one person in this district who could be asked is a man of thirty-two wi
 
 ---
 
-**And the recovery, which is a bed, a bench, and an ordinary paid week, and it is here because a man who has been awake since the twelfth of the ninth is not to be trusted with anything else this week.**
+**And the recovery, which is a bed, a bench, and an ordinary paid week, and it is here because a man who has not slept properly since the twelfth of the ninth is not to be trusted with anything else this week.**
 
 He was in bed until nine on the Thursday morning and read. He did four and a half hours on the Thursday and a full day on the Friday and a full day on the Saturday, and on the Friday the seventh he did a long-case of 1902 for a man in the Clockwork Quarter at a price agreed before the case was opened, **one pound fourteen shillings and sixpence**, being four hours at the out-of-shop rate of four shillings and sixpence, which is eighteen shillings, and sixteen shillings and sixpence of material, and the addition is exact and the invoice is the estimate. He slept nine hours on the Friday night and eight on the Saturday and he had not slept nine hours since the first of the fifth, and he wrote that down and wrote down that he wrote it down, and the reason he wrote it down is that a grey book is worth nothing in any room that is not the one it is in and this room is his and he is the only person who will ever read that line and he has decided that is allowed.
 
 **And on the Friday morning he read the sheet.**
 
-It is one sheet of foolscap in three hands with a minute on it and a date on it and three figures on it, and it was done on Saturday the third of the tenth at a quarter past four in the afternoon by three people who were not paid and who were not asked to be paid:
+It is one sheet of foolscap in three hands with a minute on it and a date on it and three figures on it, and it was done on Monday the third of the tenth at a quarter past four in the afternoon by three people who were not paid and who were not asked to be paid:
 
 > *Pumping ward, canal road, outer room — read by B. Sarr — **57 min 20 s** slow of the district reference.*
 > *Weir Two pump house, station clock — read by I. Pike — **48 min 00 s**.*
@@ -96,7 +96,7 @@ He read it in about four minutes. It is a folded card with about seventy columns
 > *26th Sept. Line lost 9.10 p.m. Restored 3.30 a.m. 24 intervals. Worst 7 min 05 s. **Total 6 h 20 min.***
 > *3rd Oct. No loss. Line held. Free v line, worst gap, **unchanged at 1 h 03 min**. Who was waiting: none.*
 
-**One hour and three minutes.** The ward's worst gap, on the third of the tenth, with the branch frozen since the second of the eighth, is **1 h 03 min**, and it is the same figure as the gap on the second of the ninth and on the twenty-sixth, and it has not moved in three weeks while the line has not moved, and **that is the first time since the twenty-fourth of the fourth that that column on that card has been the same on three consecutive nights.** The branch is 1 h 36 min 50 s out and the ward's gap is 1 h 03 min and the half hour between those two numbers has been there for four years and belongs to a bracket clock on a landing that nobody has looked at since 1949, and it is not a defect, and it is the only figure in this district that has not got worse in four months.
+**One hour and three minutes.** The ward's worst gap, on the third of the tenth, with the branch frozen since the second of the eighth, is **1 h 03 min**, and it is the same figure as the gap on the second of the ninth and on the twenty-sixth, and it has not moved in three weeks while the line has not moved, and **that is the first time since the twenty-fourth of the fourth that that column on that card has read the same on three lines.** The branch is 1 h 36 min 50 s out and the ward's gap is 1 h 03 min and the half hour between those two numbers has been there for four years and belongs to a bracket clock on a landing that nobody has looked at since 1949, and it is not a defect, and it is the only figure in this district that has not got worse in four months.
 
 The third line is the first line on that card in five months in which the column reads *unchanged*, and it was written in a different pencil, and there is a note under it in the same hand, and it says: *Free master in 1 s a day on the 20th of July and has been since. Line has not moved. **It is the first fortnight I have had where the answer did not get worse and I am putting it down because nobody would believe it and I would like it in my own hand on the third of October.***
 

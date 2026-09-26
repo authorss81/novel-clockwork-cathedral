@@ -1,6 +1,6 @@
 # Chapter 75 — The Scale, and a Girl Reading a Card
 
-Between forty thousand and sixty thousand residents of this city have been taken out of its civic model in eighteen years, and more than half of them lived in the Weirs, and they were taken out in dated batches of which four hundred and eleven are entered in a register, and every one of them is a form with a series, a head count, a price, and a countersignature, and every one of them was lawful, and it is not a scandal, and it is not a rounding error, and the reason that a man of twenty in a room full of people cannot get angry about it is that there is nothing in it to be angry at, and the reason a girl of thirteen can find her father's name in it in about eleven minutes is that it is a printed book with a margin.
+Between forty thousand and sixty thousand residents of this city have been taken out of its civic model in eighteen years, and more than half of them lived in the Weirs, and they were taken out in dated batches of which four hundred and eleven are entered in a register, and every one of them is a form with a series, a head count, a price, and a countersignature, and every one of them was lawful, and it is not a scandal, and it is not a rounding error, and the reason that a man of twenty in a room full of people cannot get angry about it is that there is nothing in it to be angry at, and the reason a girl of thirteen can find her father's name in it in about nine minutes is that it is a printed book with a margin.
 
 ---
 
@@ -11,13 +11,13 @@ Between forty thousand and sixty thousand residents of this city have been taken
 
 **Sindri Lake put it up himself, and he has been the keeper of that public room for nineteen years, and he did it in about four minutes with his own hands, and nobody asked him to.**
 
-He is sixty-one. He is a keeper and not an archivist and he says so. He has four things: a card index of names with the date each was taken out, which is the public one; a batch register, being the batches; an accession book; and a shelf list, which is public and is eleven lines long and has not changed in nineteen years. **Three of those four are Directorate records, are not in the public room, cost three shillings to ask for upstairs, and the fee is not the obstacle.** The obstacle is the other three of the four, and it has always been the other three of the four, and the price on the door is a courtesy and everybody in this city has believed it for a hundred years.
+He is sixty-one. He is a keeper and not an archivist and he says so. He has four things: a card index of names with the date each was taken out, which is in a drawer under the counter and has never been out of it in nineteen years; a batch register, being the batches; an accession book; and a shelf list, which is public and is eleven lines long and has not changed in nineteen years. **Three of those four are Directorate records, are not in the public room, cost three shillings to ask for upstairs, and the fee is not the obstacle.** The obstacle is those same three, and it has always been those same three, and the price on the door is a courtesy and everybody in this city has believed it for a hundred years.
 
 And what was on the second board, in the Registry's own type, was this, and it is the whole of the document:
 
 > *Minute of the Registry of Transfers and Access, the fifteenth day of the ninth month. **Received and noted. Published with the minutes.***
 >
-> *The Registry records that the number of residents of this city removed from the civic model in the operation of the transfer and access series, from the eleventh day of the first month, 1911, to the date above, is stated in the accompanying index to be **not less than forty thousand and not more than sixty thousand persons**; that **more than one half** of that number are resident in the pumping district of the Lower Weirs and in the wards adjoining it; and that the removals were made in dated batches, of which **four hundred and eleven** are entered in the index, each batch being a form carrying a series, a head count, a price, and a countersignature.*
+> *The Registry records that the number of residents of this city removed from the civic model in the operation of the transfer and access series, **from the storm month, being the fifth month of nineteen hundred and thirty-nine, to the date above**, is stated in the accompanying index to be **not less than forty thousand and not more than sixty thousand persons**; that **more than one half** of that number are resident in the pumping district of the Lower Weirs and in the wards adjoining it; and that the removals were made in dated batches, of which **four hundred and eleven** are entered in the index, each batch being a form carrying a series, a head count, a price, and a countersignature.*
 >
 > *Source of this minute: the batch register, being a Directorate record in a box. The reference is not stated to the public.*
 >
@@ -51,7 +51,9 @@ There are nine people who came to do what Orrin Vale did, which is read.
 
 The index is a foolscap book, about four hundred pages, and it is a single column, and every line is a batch, and the printing is the Registry's and it has been printing it since about 1920 and the type is the same type.
 
-> *BATCH 21 OF 4 — SERIES GH-9 — lodged the seventeenth day of the first month — **head count 41** — price: standing withdrawal, maintenance-deferred class, two shillings the head for a year — **countersigned**, in accordance with the standing orders of the hall, on behalf of a district having no standing under the water act.*
+> *BATCH 21 OF 4 — SERIES GH-9 — lodged the seventeenth day of the first month, 1953 — **head count 41** — price: standing withdrawal, maintenance-deferred class, two shillings the head for a year — **countersigned**, in accordance with the standing orders of the hall, on behalf of a district having no standing under the water act.*
+
+The first number on that line is not a sequence and cannot be read as one, and nobody in this building has ever been asked to explain it and there is nowhere else it is explained. It is the number the form carries, and the form carries a slash, and a printed book cannot set a slash in a column of figures, and so the book sets the slash as the word. Four hundred and eleven lines go past it and the numbers on them are not in order either, and the book is in accession order, and **a person cannot count the batches in this book and a person cannot find a year in it, and both of those are the same fact, and neither of them is a secret and both of them are the reason it took a girl of thirteen nine minutes.**
 
 There are four hundred and eleven of them. Every line has all five things on it. **The series letter in the second column, the date in the third, a head count in the fourth, a price in the fifth, and a countersignature in the sixth.** Every price on four hundred and eleven lines is a price in shillings per head per year, and the prices in the book run from a shilling and fourpence to two shillings, and there is not one of them that is not a price.
 
@@ -153,7 +155,7 @@ He has a card index of forty-one other dates in a drawer under the counter and h
 
 There were eleven people in the room and most of them had been in it since the Friday. There was no agenda. Nobody had a page. **The card was a printed index card, the same size as the ones in his own drawer, and the pencil was a stub with a piece of rubber on it, and he put them on the table in front of her and stepped back about two feet, which is the distance at which a keeper stands when he has handed a person something.**
 
-She is thirteen. She is Ada Vance. Her father was Perry Vance, of Weir Lane, who died on the night of the seventeenth of the first month at forty-one, and the drawer under the plate cloth is gone because they moved in the third month, and the card is in a box of bills in her aunt's house, and there is a number on the box.
+She is thirteen. She is Ada Vance. Her father was Perry Vance, of Weir Lane, who died on the night of the seventeenth day of the first month of this year at forty-one, four years after his own name went into the book on the table, and the drawer under the plate cloth is gone because they moved in the third month, and the card is in a box of bills in her aunt's house, and there is a number on the box.
 
 She did not read the minute on the board. She did not read the first page. **She read the left-hand margin**, because she had been reading margins since she was nine, and she went down the four hundred and eleven lines with a stub of pencil held above the page and not touching it, and the room watched, and nobody said anything, and it took her about nine minutes.
 

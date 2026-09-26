@@ -10,7 +10,7 @@ The warden's request for a review had been made in eleven words in a room over a
 
 There was no such thing. There was a review clause in a works' file, and the clause said *at the discretion of the district works*, and a discretion has no form, no ground, no notice and no person who may ask. The committee that had heard her on the tenth of the fourth month had a water schedule and no function in a ward's flood performance. The works had a table that had ended the diversion on the nineteenth and had a function in a reserve and none in the finding of a fact. A warden could be asked questions by a committee. A warden could not be reviewed by anybody, at all, by anybody, in any building in this city, and that had been true for eleven years and had been true before her and would have been true after her.
 
-The tenant council could hold a meeting. That was the whole of what it could hold, and everybody in the room knew it, and that is why twenty-two people came to a meeting on a Wednesday morning with no notice that carried a finding anybody was bound by.
+The tenant council could hold a meeting. That was the whole of what it could hold, and everybody in the room knew it, and that is why twenty-two people came to a meeting on a Tuesday morning with no notice that carried a finding anybody was bound by.
 
 "So it is nothing," said the chandler, who is the chairman of the Water Users' Committee and whose room it is and who has never once pretended otherwise. "I said in the second month that a schedule is a machine and a claim on a machine is a thing the machine can be run without. I am the chairman of a committee that can be run without and I have a shop. If the process is nothing then this is an hour of my back room and my urn, and I would like it minuted that it is an hour of my back room and my urn, because in about four years one of you is going to tell a council that the Weirs held a review."
 
@@ -26,7 +26,7 @@ She was sitting with her back to the wall and her coat on, because she came from
 
 **Two.** *That a review of a variation shall be held at the request of the council, or of the works, or of any ratepayer of the ward, on a ground named in the notice of the request; and that where a ground is named by a ratepayer, the ratepayer shall be named.*
 
-"That is not mine," said Sel Kade, "and I know exactly whose it is, and I am not going to have it in front of a room over a shop without the whole of it being said, so: it is Mr Arden's, and it was written on the back of a sheet in his own hand and brought to this room on the twenty-first, and it is the only one of the four that anybody has ever suggested in this district, and I have read it and I am not going to pretend I would have written it."
+"That is not mine," said Sel Kade, "and I know exactly whose it is, and I am not going to have it in front of a room over a shop without the whole of it being said, so: it is Mr Arden's, and it was written on the back of a sheet in his own hand and brought to this room on the Monday, and it is the only one of the four that anybody has ever suggested in this district, and I have read it and I am not going to pretend I would have written it."
 
 Nobody looked at Teo Arden, who was standing at the back by the door, where he has stood at every meeting of this council for four months, and who is twenty years old and is not a member of it and has never claimed to be.
 
@@ -50,7 +50,7 @@ The employment finding was not a ground of the review, and that was a condition 
 
 Then the ratepayer named the ground, and it was not her.
 
-Dilly Amnersley is sixty-six. She is in 4B at 12 to 20 Ferrywright Row, which is a block of twenty-two households and one of Hanna Stroud's nine, and the rent is a rate, and a ratepayer is a ratepayer, and there is no form in this city that asks a ratepayer whether she is qualified and there was no need for one because Mrs Amnersley came to the door at a quarter to eleven on the Friday morning with a folded piece of paper in her hand and asked whether a ratepayer of the ward could name a ground, and Wenna Pruitt said that was clause two, and Dilly Amnersley said, "Then I am naming the flood."
+Dilly Amnersley is sixty-six. She is in 4B at 12 to 20 Ferrywright Row, which is a block of twenty-two households and one of Hanna Stroud's nine, and the rent is a rate, and a ratepayer is a ratepayer, and there is no form in this city that asks a ratepayer whether she is qualified and there was no need for one because Mrs Amnersley came to the door at a quarter to eleven on the Monday morning with a folded piece of paper in her hand and asked whether a ratepayer of the ward could name a ground, and Wenna Pruitt said that was clause two, and Dilly Amnersley said, "Then I am naming the flood."
 
 The chandler asked her, because he is a courteous man and because nobody had thought to ask her anything, whether she had any connection to the district's water.
 
@@ -80,11 +80,11 @@ Then she went, because she had a sluice key and a bank and a shift, and she was 
 
 ---
 
-The consequences of it came out over the weekend and none of them were about the finding.
+The consequences of it came out in the week and none of them were about the finding.
 
-The galvanising and wire works on the Carrow Street main was shut from noon on the Friday the nineteenth and had not restarted by the Friday the twenty-sixth, and its certificate of the twenty-ninth of the second month — the certificate that says the main is not to be shut, signed by the works, on a works' file, four feet from the table on which the tables that ended the diversion are kept — is not being complied with, and no body in this city has the power to make those two documents agree with each other.
+The galvanising and wire works on the Carrow Street main was shut from noon on the Friday the nineteenth and had not restarted by the Friday the twenty-sixth, and its certificate of the twenty-eighth of the second month — the certificate that says the main is not to be shut, signed by the works, on a works' file, four feet from the table on which the tables that ended the diversion are kept — is not being complied with, and no body in this city has the power to make those two documents agree with each other.
 
-Ivy Pike put that on the table on the Saturday morning and nobody could answer it and nobody pretended they could.
+Ivy Pike put that on the table on the Friday morning and nobody could answer it and nobody pretended they could.
 
 "That is ninety-one," she said. "Sixty-one in this district. It has been shut seven days. Nobody in this room can make it open and nobody in this room has ever been able to make it open, and the only person who could make it open is a warden, and she did it, and she did it on the works' tables, and the works' tables are right, and I am going to be honest: I do not know what I want. I have got the pay book and I have got a certificate on a file and I have got a table on a yard, and one of those three things is going to be the reason ninety-one people are out of work in a fortnight and I cannot tell you which."
 
@@ -96,9 +96,9 @@ The chandler said it, and he said it flatly, to the room and not to anybody.
 
 The answer, when it came, was the four paragraphs in chalk on a board outside a pump house on the canal road, put up on the Friday afternoon of the twenty-sixth of the fifth month in a copyist's hand, in full, with the date on it, and a copy of it in the council's file and a copy of it on the district works' desk on the Monday morning.
 
-The Advertiser page was eleven shillings and it did not happen, and the argument about that was had on the Saturday in under ten minutes and was not resolved, and has not been resolved, and Teo Arden said the whole of his side in one sentence — *a printed page has no address, it cannot be served, it cannot be refused, and there are thirty-one people on Bellweather Road who would read it and nine hundred who would not, and both of those are the same page* — and Wenna Pruitt said the whole of hers in another, which was that a page costs eleven shillings and the tin is empty, and that the tin being empty is the reason the process exists at all, and that she is going to be doing the arithmetic in September for the spring as she does every year, and that the September is the same September and the year has changed underneath it.
+The Advertiser page was eleven shillings and it did not happen, and the argument about that was had on the Friday in under ten minutes and was not resolved, and has not been resolved, and Teo Arden said the whole of his side in one sentence — *a printed page has no address, it cannot be served, it cannot be refused, and there are thirty-one people on Bellweather Road who would read it and nine hundred who would not, and both of those are the same page* — and Wenna Pruitt said the whole of hers in another, which was that a page costs eleven shillings and the tin is empty, and that the tin being empty is the reason the process exists at all, and that she is going to be doing the arithmetic in September for the spring as she does every year, and that the September is the same September and the year has changed underneath it.
 
-And then, at about half past four on the Saturday afternoon, in the doorway of the room over the shop, with the chalk still in the copyist's hand and the finding going up on the pump house board at five, a thing happened that nobody had planned and that one clause made possible.
+And then, at about half past four on the Friday afternoon, in the doorway of the room over the shop, with the chalk still in the copyist's hand and the finding going up on the pump house board at five, a thing happened that nobody had planned and that one clause made possible.
 
 Dilly Amnersley did not look at Teo Arden for the whole of the Thursday or the whole of the Friday, and she was in the room for both, and he was in the room for both, and they had been in the same room on the Friday of the fourteenth of the fourth month on a wet fourth-floor landing with a bucket under a pipe, and a landlord of fifty-four and a woman of sixty-six and a clockmaker of thirty-two had all three said on that landing that it was the bracket on her riser and not the dark and not the clocks, and nobody in this city has said one word about it since except in the two minutes it took to say it.
 

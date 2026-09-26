@@ -18,7 +18,7 @@ She did the second half of it on the Sunday evening, in a hospital four miles aw
 
 Leda Vale stood in the nurses' room on the third floor of the Green Span hospital at about half past seven on the Sunday evening with the card in her hand and eleven people in the room, and said the number out loud, before it was spent, in front of the people whose hours it was, which is the whole of her method and has been the whole of her method since a kitchen on Weir Lane in the second month of the year.
 
-"Tomorrow, from ten past one in the morning until ten past seven, the Green Span branch is coming off the line while thirty feet of conduit comes out of a canal crossing and thirty feet goes in. Six hours.
+"On Tuesday, from ten past one in the morning until ten past seven, the Green Span branch is coming off the line while thirty feet of conduit comes out of a canal crossing and thirty feet goes in. Six hours.
 
 "Here is what that is and here is what it is not and I want both halves said out loud because we are both in this room.
 
@@ -96,7 +96,7 @@ The problem with a toll is who may certify it, and the problem was worked out in
 
 A local toll is a working window bought with minutes off a district's clocks, so that a difficult repair can be done. It is a district toll, and a district toll may be certified only by a licence of the second class or above, or by the district that owns the reserve.
 
-"There is no such thing as a second class or above in reach of this," said Ambrose, from the step, with his hat in his hand. "I have telephoned the hall. There are two first-class holders in this city and one second-class and the second-class man is sixty-eight and does not come out, and the two first-class are both in the Sloughs and are both about a bus and a half away, and it is a Tuesday morning, and either of them would do it in an afternoon for a fee, and neither of them will, because neither of them has ever in his life been asked for a toll on a pumping district's main and neither of them will turn up for a bridge in a flood on the strength of a card at a licensing counter."
+"There is no such thing as a second class or above in reach of this," said Ambrose, from the step, with his hat in his hand. "I have telephoned the hall. There are two first-class holders in this city and one second-class and the second-class man is sixty-eight and does not come out, and the two first-class are both in the Sloughs and are both about a bus and a half away, and it is a Monday morning, and either of them would do it in an afternoon for a fee, and neither of them will, because neither of them has ever in his life been asked for a toll on a pumping district's main and neither of them will turn up for a bridge in a flood on the strength of a card at a licensing counter."
 
 "The district owns the reserve."
 
@@ -123,7 +123,7 @@ He read it in the pump house standing up, all nine paragraphs, twice, in about s
 
 Then he said, "Mr Vale, I want to say one thing before I say the other thing, and I have written it down on the back of my copy because I am not going to say a thing like it twice and get it wrong.
 
-"I have been a master in that hall for thirty-one years and I have signed something at two in the morning exactly once, and it was a certificate for a man who had cut his own hand off with a lathe, and I do not know why I am telling you that and I have been trying since Tuesday to work out why I am telling you that. You did not ask me. You telephoned me on Sunday afternoon and you asked me a question and you gave me the price of a bus and you said *you do not have to come and I am not going to hold it against you*, and I have had a great many people say things to me in thirty-one years and I have never once been asked to come somewhere at two in the morning by a man who could not sign a thing himself. I have thought about it every day since and I have not found the bottom of it and I am too old now to pretend I have."
+"I have been a master in that hall for thirty-one years and I have signed something at two in the morning exactly once, and it was a certificate for a man who had cut his own hand off with a lathe, and I do not know why I am telling you that and I have been trying since Sunday to work out why I am telling you that. You did not ask me. You telephoned me on Sunday afternoon and you asked me a question and you gave me the price of a bus and you said *you do not have to come and I am not going to hold it against you*, and I have had a great many people say things to me in thirty-one years and I have never once been asked to come somewhere at two in the morning by a man who could not sign a thing himself. I have thought about it every day since and I have not found the bottom of it and I am too old now to pretend I have."
 
 "You were not obliged," said Orrin Vale.
 

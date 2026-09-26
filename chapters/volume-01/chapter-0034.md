@@ -12,7 +12,7 @@ The chairman — a chandler with a shop on Ferrywright Row and not the owner of 
 
 ---
 
-The first thing she put on the table was a certificate of the twenty-ninth of the second month, one page, the works' own letterhead, and the works' own signature, and it said two things and said them in eleven lines.
+The first thing she put on the table was a certificate of the twenty-eighth of the second month, one page, the works' own letterhead, and the works' own signature, and it said two things and said them in eleven lines.
 
 That the Carrow Street main was not to be shut. That the works employed ninety-one persons, of whom sixty-one were resident in the pumping district.
 

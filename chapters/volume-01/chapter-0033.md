@@ -53,7 +53,7 @@ It is four paragraphs long and it is the plainest thing in this book.
 >
 > *The certified return for the third month states that the ward's reserve was drawn in accordance with the standing rotation and that no variation was made. The ward's own return for the same month states a variation from the second inst. continued to the date of this note.*
 >
-> *The variation is: from the ward's reserve, to the Carrow Street main, nine thousand gallons a day, being three hundred and twenty-four thousand gallons in the thirty-six days from the second inst. to the date of this note. The Carrow Street main supplies seventy-one households and a galvanising and wire works. The diversion is required by the main, which draws on the ward's reserve and not on a separate main, and the works' certificate of the twenty-ninth of the second month states that the main is not to be shut.*
+> *The variation is: from the ward's reserve, to the Carrow Street main, nine thousand gallons a day, being three hundred and twenty-four thousand gallons in the thirty-six days from the second inst. to the date of this note. The Carrow Street main supplies seventy-one households and a galvanising and wire works. The diversion is required by the main, which draws on the ward's reserve and not on a separate main, and the works' certificate of the twenty-eighth of the second month states that the main is not to be shut.*
 >
 > *The diversion commenced on the second of the third month and is in force. It is reviewed at the next monthly return and thereafter at the discretion of the district works. Should the rotation of the district main be varied in any respect, the diverted volume shall be restored to the ward's reserve within one month of the variation.*
 >

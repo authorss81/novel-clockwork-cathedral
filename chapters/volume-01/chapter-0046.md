@@ -16,13 +16,13 @@ The tenant council could hold a meeting. That was the whole of what it could hol
 
 "It is not nothing," said Sel Kade.
 
-She was sitting with her back to the wall and her coat on, because she came from the bank and had a sluice key in her pocket and would be gone inside twenty minutes, and she had written three of the four clauses on the back of a warden's return on the Tuesday night and brought them in.
+She was sitting with her back to the wall and her coat on, because she came from the bank and had a sluice key in her pocket and would be gone inside twenty minutes, and she had written three of the four clauses on the back of a warden's return on the Monday night and brought them in.
 
 ---
 
 **One.** *That a variation of a ward's reserve shall be entered in a book kept in the ward, with the quantity, the beneficiary and the date, and posted on the ward board within one working day of being made.*
 
-"That is mine," she said. "I wrote it at eleven o'clock on Tuesday night at the end of my own table, and I am not going to pretend to anybody in this room that I did not enjoy writing it, and I wrote it because if there is one thing in this city that I have got and no form has ever had, it is a number on a piece of paper and a date beside it, and I have had that in a drawer since the second month and nobody could have it out of me because there was no reason for anybody to ask."
+"That is mine," she said. "I wrote it at eleven o'clock on Monday night at the end of my own table, and I am not going to pretend to anybody in this room that I did not enjoy writing it, and I wrote it because if there is one thing in this city that I have got and no form has ever had, it is a number on a piece of paper and a date beside it, and I have had that in a drawer since the second month and nobody could have it out of me because there was no reason for anybody to ask."
 
 **Two.** *That a review of a variation shall be held at the request of the council, or of the works, or of any ratepayer of the ward, on a ground named in the notice of the request; and that where a ground is named by a ratepayer, the ratepayer shall be named.*
 
@@ -80,7 +80,7 @@ Then she went, because she had a sluice key and a bank and a shift, and she was 
 
 ---
 
-The consequences of it came out in the week and none of them were about the finding.
+The consequences of it came out over two days and none of them were about the finding.
 
 The galvanising and wire works on the Carrow Street main was shut from noon on the Friday the nineteenth and had not restarted by the Friday the twenty-sixth, and its certificate of the twenty-eighth of the second month — the certificate that says the main is not to be shut, signed by the works, on a works' file, four feet from the table on which the tables that ended the diversion are kept — is not being complied with, and no body in this city has the power to make those two documents agree with each other.
 

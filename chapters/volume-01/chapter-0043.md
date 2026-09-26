@@ -36,7 +36,7 @@ The rate notice went up on the ward board outside the Weir Two pump house on the
 > *For the rate year last: nine pence in the pound.*
 > *The return on which this rate is based has been corrected. A ratepayer may see the corrected return at the ward office on any weekday between ten and four. Objections in writing to the ward clerk by the thirtieth of the month.*
 >
-> *Rateable value of the ward, £48,000. Increase, one shilling and a penny in the pound. **£108 6s 8d.***
+> *Rateable value of the ward, £48,000. Increase, one shilling and a penny in the pound. **£2,600.***
 
 It is a very good notice. The base is printed because the ordinance requires the base to be printed, and the objection window is generous, and a ratepayer may see the return, and the return is the corrected one, and the correction is the district works' own reconciliation note and it is in a file on the canal road and anybody may read it.
 

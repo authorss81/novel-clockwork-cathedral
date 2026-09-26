@@ -4,7 +4,7 @@ On the night of Friday the fourth of the eleventh month, at about a quarter past
 
 ---
 
-**Friday the fourth, and it is the eleventh month, and the rehearsal is not being run, and nobody in this district is going to hear the word run again until the seventeenth of this month, and two people in this city have already said in advance that they will not put their names to it, and both of them meant it.**
+**Friday the fourth, and it is the eleventh month, and the rehearsal is not being run, and nobody in this district is going to hear the word run again until the twenty-fourth of this month, and two people in this city have already said in advance that they will not put their names to it, and both of them meant it.**
 
 He wrote the figures on the wall in the morning with a date on them and no name on them, in the middle height, in the small upright hand, and the working went under them, because the working is the argument.
 

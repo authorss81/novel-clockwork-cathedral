@@ -62,7 +62,7 @@ He did not go outside. He stood at the back for another half hour.
 
 ---
 
-**And the map, on the Friday, at about half past ten, on the back of a works' counter sheet, in four minutes and eleven seconds, and it is Ruth Ashby's map and has been in this book since the thirteenth of the sixth month.**
+**And the map, on the Friday, at about half past ten, on the back of a works' counter sheet, in four minutes and eleven seconds, and it is Ruth Ashby's map and it has been in this district since the thirteenth of the sixth month.**
 
 > *Lower Weirs, for the purposes of a rehearsal of three clocks.*
 > *Eleven miles of main. Two stations, Weir One and Weir Two, with their gates. Four stopcocks. **Six clocks**, of which three are on the line and two are public and one is in an outer room. One hospital branch, entered as a draw and not as a supply, which is the auditor's own distinction and which is the only reason the ward was ever a ward.*
@@ -95,7 +95,7 @@ And then the four things that were settled, and they are four lines, and none of
 
 > **No toll is taken and none is owed. No keeper's toll has been taken in this district since the sixth month and the count is four and it is not moving.**
 > **Nothing is entered on any rail. The station on the rail takes a person of the affected district, and there is none, and there has not been one for nineteen years, and the form that would have one is two shillings the head for a year, and **nothing about this rehearsal is going onto that rail by any other road, and the three of us know exactly what the other two roads are and neither of us is going to take them.** That is what Kaye means by a thing written down by nobody and it is why she will not sign.**
-> **Nothing is filed, nothing is certified, nothing is admissible, and there is no form on which any of it could be made admissible, and no character in this book may treat one of those as a technicality that could be got round.**
+> **Nothing is filed, nothing is certified, nothing is admissible, and there is no form on which any of it could be made admissible, and nobody in this room is going to treat one of those as a technicality that could be got round.**
 > **And nothing is corrected. The count of Mr Vale's own hand corrections is two and it is two this morning; he had an opportunity on Friday with a station clock in a pump house and did not take it and wrote down that he did not, and that is the fourth time this year and he is not going to be a man who takes a third.**
 
 ---

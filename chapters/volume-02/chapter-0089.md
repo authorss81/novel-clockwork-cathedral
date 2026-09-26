@@ -1,12 +1,12 @@
 # Chapter 89 — Where Does a Person Go to Refuse
 
-Ivy Pike signs for the Weir One gate, has kept a book of her own for eleven years and has never shown it to anybody, and on Thursday the twenty-fourth of the eleventh month she went and found out what a person in this city has to do in order to refuse a thing that is being done to the street she lives on, and it is six places, and it costs fifteen shillings and sixpence, and it takes fifty-one days, and at the end of it there is no counter.
+Ivy Pike signs for the Weir One gate, has kept a book of her own for eleven years and has never shown it to anybody, and on Thursday the twenty-fourth of the eleventh month she went and found out what a person in this city has to do in order to refuse a thing that is being done to the street she lives on, and it is five places and a sixth link that is not a place at all, and it costs fifteen shillings and sixpence, and it takes fifty-one days, and at the end of it there is no counter.
 
 ---
 
 **The street is Green Row. The thing is the fourth window.**
 
-Not the fourth window as it is on the copy in Bellweather. **The window that the water actually comes through.** Green Row is off Weir Lane and it has nine houses and it has been getting its water at one in the morning since before she was born, and the standing rotation and the winter rotation both say one, and the print at the works' counter says one, and the copy with the fifteen minutes on the face of it says one, **and the second window in the two prints that disagree says something else, and the difference between them is whether the second window falls at ten past two or at twenty-five past two, and Green Row is on the second window.**
+Not the fourth window as it is on the copy in Bellweather. **The window that the water actually comes through.** Green Row is off Weir Lane and it has nine houses and it has been getting its water in the small hours since before she was born, and the standing rotation and the winter rotation both put that row on the fourth window, and the print at the works' counter says the fourth is at a quarter to four, and the copy with the fifteen minutes on the face of it says four, **and the difference between those two is the whole of the difference between the two prints, and Green Row is on the fourth window, and there is nothing in this district that says which of the two the machine is following tonight.**
 
 She has read the gauge on the district side of the Weir One gate for eleven years, in a book of her own, in her own hand, on a Sunday, about four times a year, and she has never once been asked why.
 
@@ -20,10 +20,10 @@ She has read the gauge on the district side of the Weir One gate for eleven year
 
 ---
 
-**So she did it properly, and it took four days, and here is the whole of it in the order she did it, and every line of it is a fact and every one of them was true, and not one of the six places did anything to anybody.**
+**So she did it properly, and it took four days, and here is the whole of it in the order she did it, and every line of it is a fact and every one of them was true, and not one of the five places did anything to anybody.**
 
 > **1. THE COUNTER OF THE WATER USERS' COMMITTEE, above a chandler's shop in Bellweather. Thursday the twenty-fourth, about eleven o'clock.**
-> A letter, in her own hand, four lines long, asking which of the two prints of the winter rotation the machine is following in the second window.
+> A letter, in her own hand, four lines long, asking which of the two prints of the winter rotation the machine is following in the fourth window.
 > **Nadia Erridge, clerk.** She read it standing up, which is the way that room reads everything, and she said: *I can take this. I can minute that it was received. I cannot act on it and I cannot put it to the committee, and there is no form on which a member of this committee may ask this district anything, and the district has no standing under the water act, and I wrote that sentence on a notice in April because the ordinance has no line for it.*
 > **Cost: nothing. Time: about four minutes.**
 > *And she said one more thing, at the door, which is not in the letter:* **"You have asked the wrong room first and I am telling you so that you do not waste the second one. Ask the works. The pumping is a works' asset at the boundary and they have to be told."**
@@ -53,7 +53,7 @@ She has read the gauge on the district side of the Weir One gate for eleven year
 
 > **5. THE OFFICE OF PUBLIC RECKONING. Monday the twenty-eighth, at about ten past eleven, at the one window, in a building with a court outside it.**
 > Four staff. One window. A written right to be ignored, and a drawer of printed four-line cards.
-> *And what the Office can do about it is put it on a card, and the card goes in a drawer, and a drawer holds a card about nine hundred times, and the Office has never in nine years had a second person in a room with it, and it audited a quarter of a million heads in eight days in October and published it with five sentences of margin under it, and it is the only instrument in this country that can count anything, **and it cannot make a pumping district's water come at half past two.***
+> *And what the Office can do about it is put it on a card, and the card goes in a drawer, and a drawer holds a card about nine hundred times, and the Office has never in nine years had a second person in a room with it, and it added up four hundred and eleven head counts in three sittings in October and published the sum of them with five sentences of margin under it, and it is the only instrument in this city that can count anything, **and it cannot make a pumping district's water come at a quarter to four.***
 > **Cost: nothing. Time: about four minutes and then it is in a drawer, and the drawer is not a place anybody has ever been held to account.**
 
 > **6. And there is no sixth office, and there is no sixth counter, and this is not because this city is careless. It is because the last link is not an office.**
@@ -67,13 +67,13 @@ She has read the gauge on the district side of the Weir One gate for eleven year
 
 **And the two of them were in the room on the Saturday afternoon, and they disagreed, and both of them were right, and nobody in the room is going to make them choose.**
 
-**Wenna Pruitt, 38, tenant-council organiser.** "The chain is a gift and I am not going to be the woman who says it is not. **Eleven days, twenty-one days, nineteen days, four minutes and four places, and every one of the four is a place where a person was received, and being received is not nothing — in this city being received is most of what there is.** I have spent this year saying that a page has no address, and a chain has six addresses, and I would like somebody in this room to sit with that for a minute."
+**Wenna Pruitt, 38, tenant-council organiser.** "The chain is a gift and I am not going to be the woman who says it is not. **Eleven days, twenty-one days, nineteen days, four minutes and five places, and every one of the five is a place where a person was received, and being received is not nothing — in this city being received is most of what there is.** I have spent this year saying that a page has no address, and a chain has five addresses, and I would like somebody in this room to sit with that for a minute."
 
 **Hanna Stroud, 54, nine blocks, about two hundred and eleven households.** "**And it is worth nothing, and I am not going to be the woman who says it is worth nothing, and here is the difference between us and it is not a difference of arithmetic.**
 
-"You have been in eleven rooms this year and every one of them received you. I have been in about two hundred and eleven rooms this year, one a week, on a rent dispute, and in every one of them I was received, and **in none of them was I refused anything, because I never asked to be.** That is the discovery. **There is no counter in this city that has ever refused anybody anything, because there is nothing to refuse. A refusal needs a thing to be offered. Nobody in this city offers a pumping district its water; the water is a works' asset at a boundary, and the works' office received my complaint and it is a question and a question cannot stop anything, and a body that receives a question and cannot stop anything is a counter that has never once said no in four years.**
+"You have been in eleven rooms this year and every one of them received you. I have been in about two hundred and eleven rooms this year, four a week, on a rent dispute, and in every one of them I was received, and **in none of them was I refused anything, because I never asked to be.** That is the discovery. **There is no counter in this city that has ever refused anybody anything, because there is nothing to refuse. A refusal needs a thing to be offered. Nobody in this city offers a pumping district its water; the water is a works' asset at a boundary, and the works' office received my complaint and it is a question and a question cannot stop anything, and a body that receives a question and cannot stop anything is a counter that has never once said no in four years.**
 
-"So I am not going to stand here and be grateful for six addresses. **I would rather have one counter that has said no to me.**"
+"So I am not going to stand here and be grateful for five addresses. **I would rather have one counter that has said no to me.**"
 
 **Wenna Pruitt:** "That is the best thing anybody has said in this district since September and you are not going to be thanked for it by me, and I am not going to be thanked for it by anybody, and I am going to say the half of it and then I am going to stop, and I have said since June that neither of us is going to choose.
 
@@ -95,7 +95,7 @@ The minute book in that room is 1948 and nobody wrote it down.
 
 "Which is."
 
-"**A person who knows the chain can be walked.** That is the one honest use of it and it is not nothing and it is not a comfort. **I can go into that works' office and I can say to a clerk: you have received this, and the answer you have given me is a question, and a question cannot stop a rotation, and you know that, and so do I, and there is a fourth place further along and it cannot bind you either, and there is no sixth place at all, and I have been in four rooms this week and every one of them has been extremely polite to me.** And a polite clerk is a person who is going to do nothing and is not going to be blamed, and I can say all of that in about ninety seconds, in a yard, in daylight, to a man at a counter.
+"**A person who knows the chain can be walked.** That is the one honest use of it and it is not nothing and it is not a comfort. **I can go into that works' office and I can say to a clerk: you have received this, and the answer you have given me is a question, and a question cannot stop a rotation, and you know that, and so do I, and there is a fifth place further along and it cannot bind you either, and there is no sixth counter at all, and I have been in four rooms this week and every one of them has been extremely polite to me.** And a polite clerk is a person who is going to do nothing and is not going to be blamed, and I can say all of that in about ninety seconds, in a yard, in daylight, to a man at a counter.
 
 "**And being walked is not the same as being refused. Being refused needs a man who has to say no and be able to say what happens if he does. There is no such man in this chain. And this city has never once had to make the second thing work, which is why nobody in it has noticed that the second thing is the whole of it.**"
 
@@ -106,5 +106,5 @@ She put the book in her coat.
 > *Eleven days to a review that cannot start, because there is no act. Twenty-one days to a reply that is a question and cannot stop anything. Nineteen days to the next sitting of a committee that cannot bind the works or itself. **Fifty-one days.***
 > *And at the end of the fifty-one days there is no counter, and the reason is not that this city is careless. **The reason is that every form in this city is a form for doing something, and a refusal is a thing not done, and there is no paper on which a person may say no and be heard.***
 > *And the chain has one honest use and Ivy Pike named it at the gate on the Monday at half past six, standing up, and it is this: **a person who knows the chain can be walked. And being walked is not the same as being refused, and this city has never had to make the second thing work.***
-> *Two working women disagreed on the Saturday and both of them were right and neither of them chose, and it is the fourth time and the fifth month of it, and it is not going to be settled here, and it is not going to be settled by a number on a wall.*
-> *Nobody thanked anybody. A woman of thirty-eight and a woman of fifty-four have been refusing to choose since the nineteenth of the eighth. A woman of forty-four who reads a gauge four times a year has a book nobody may ask her for. And a man of thirty-two was in the room the whole time and was not asked a question and did not put one.*
+> *Two working women disagreed on the Saturday and both of them were right and neither of them chose, and it is the fourth time he has said it and the third month of it, and it is not going to be settled here, and it is not going to be settled by a number on a wall.*
+> *Nobody thanked anybody. A woman of thirty-eight and a woman of fifty-four have been refusing to choose since the nineteenth of the eighth. A woman of sixty-one who reads a gauge four times a year has a book nobody may ask her for. And a man of thirty-two was in the room the whole time and was not asked a question and did not put one.*

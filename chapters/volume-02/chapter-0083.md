@@ -49,7 +49,7 @@ The keeper stood at the end of the table with his hands behind his back and read
 >
 > ***SUM OF HEAD COUNTS: 51,418.***
 >
-> *Of the 411 lines, **103** are countersigned on behalf of a district having no standing under the water act. The fourth rule does not hold exactly and the Office checked it twice and the figure is one hundred and three and not one hundred and two and not one hundred and four.*
+> *Of the 411 lines, **103** are countersigned on behalf of a district having no standing under the water act. **The rule is that every fourth of the four hundred and eleven is countersigned on behalf of a district having no standing, and four hundred and eleven is not divisible by four and comes to a hundred and two and three-quarters. The rule is a rule of thumb. It is in no form and it is printed nowhere and it is quoted in four rooms because a man said it once in a yard. It does not hold exactly and the Office checked it twice and the figure is one hundred and three and not one hundred and two and not one hundred and four.**
 > *Of the 411 lines, the prices run from 1s 4d to 2s the head per year. **No line carries a price that is not a price.***
 >
 > ***RECEIVED AND NOTED. Published with the working on it, in the form in which the working was made, with the number of lines and not with a copy of any of them.***
@@ -78,7 +78,7 @@ She put the card down flat on the table, which is a thing three people in this b
 
 ---
 
-**And the finding of the chapter is in the pumping ward's outer room on the Saturday evening at about six, and Bevin Sarr wrote it on the wall in chalk because that is what the wall is for, and she wrote the working on it as well because she has learned what a working is this year.**
+**And the finding is in the pumping ward's outer room on the Saturday evening at about six, and Bevin Sarr wrote it on the wall in chalk because that is what the wall is for, and she wrote the working on it as well because she has learned what a working is this year.**
 
 > *Saturday the twenty-ninth of the tenth. **51,418.** Four hundred and eleven head counts added in the order printed, three sittings, in the reading room at the Archive, with a working on it, published with the working on it, entered as received and noted. **It is not mine. It is the Office of Public Reckoning's and the woman who did it is not going to be thanked and has said so in a corridor.*
 > *The range on two boards is 40,000 to 60,000. **The figure is inside the range. That is the whole of what the figure does to the range and it does not kill it and it does not replace it: a range is what an office can say in a morning without a pencil, and a figure is what an office can be asked to defend, and this city has had one of those for eighteen years and has never had the other.*

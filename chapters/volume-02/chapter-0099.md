@@ -1,6 +1,6 @@
 # Chapter 99 — Eighteen Years of Being the Person Who Had To Be Asked
 
-On Tuesday the third of the first month a woman of forty-four refused in nine lines a post that nobody had power to give her and that she had already left on the first of September, and on the Friday the seventh of the same month she sat down in a room over a chandler's shop for the first time in nineteen years as somebody who was going to be asked rather than as the person who answered, and she is not going to be thanked and said so on the Tuesday and did not say it again; and she is not redeemed and she is not softened and she is on nobody's side, and the argument she made for giving the whole thing up is the argument this volume has been making since the fourteenth of the tenth, and she made it herself, in about nine minutes, and did not ask anybody in the room to agree with it.
+On Tuesday the third of the first month a woman of forty-four refused in nine lines a post that nobody had power to give her and that she had already left on the first of September, and on the Saturday the seventh of the same month she sat down in a room over a chandler's shop for the first time in nineteen years as somebody who was going to be asked rather than as the person who answered, and she is not going to be thanked and said so on the Tuesday and did not say it again; and she is not redeemed and she is not softened and she is on nobody's side, and the argument she made for giving the whole thing up is the argument this district has been making since the fourteenth of the tenth, and she made it herself, in about nine minutes, and did not ask anybody in the room to agree with it.
 
 ---
 
@@ -24,7 +24,7 @@ Nobody said anything. There were nine people in the room and it is the tenant co
 > *3. The alarm goes back on when somebody restores it and not when a form of four lines asks a person to restore it in the first clause. **That it is in the second clause and that there is no report required and none made is the whole of what has happened to that tank since March and it is in a letter from a works and it has taken me nine days to read.**
 > *4. I am not the person who ought to have a reserve. **A reserve with no margin in it and an alarm off since March is not a thing a person ought to have handed back to.** Whoever has that tank has been handed something that was not signed for and I signed for it for nineteen years and I am giving it back inside a box with a form on the lid and I would like it understood that I am not the person to ask whether it is all right.*
 
-And then she said the thing out loud, which took about nine minutes, and it is the argument of this volume and she made it and she did not ask anybody to agree with it and nobody agreed with her.
+And then she said the thing out loud, which took about nine minutes, and it is the argument of a year of this and she made it and she did not ask anybody to agree with it and nobody agreed with her.
 
 ---
 
@@ -36,7 +36,7 @@ And then she said the thing out loud, which took about nine minutes, and it is t
 
 "And here is what none of them ever was. **Not one of the four hundred ever said no to me.** Not one. In nineteen years. And I have worked out since about the twentieth of November why, and it is because a person who can be asked is exactly as rare in this district as a person who can refuse, and they are the same rarity, and I was the only one of either, **and a person who is the only one anybody can be asked, and is never the one anybody says no to, is not a body and is not an office and is a woman in a room being extremely helpful, and every single thing that has been decided in this district for nineteen years has been decided by a woman in a room being extremely helpful.**"
 
-She put her hand flat on the table. It is not a gesture in this book; it is a hand on a surface and it has never meant anything except that.
+She put her hand flat on the table. It is not a gesture; it is a hand on a surface and it has never meant anything except that.
 
 "That is why I am not sorry. **I was the instrument. An instrument is the thing the safeguard is written to stop, and I have been it for nineteen years and nobody wrote a safeguard about me because there was no form for me and a person does not have to be counted to be used.** And the row of houses that got asked at twenty-two doors in December found a thing in nine days that I have not been able to do in nineteen years, and the thing they found was a column of households, **and I have had a column of levels with no heading on it since 1938 and it is a column of a tank and not a column of anybody, and there is not one name in it.**"
 
@@ -48,7 +48,7 @@ Nobody in that room said anything at all for about a minute, and then a man of a
 
 ---
 
-**And on the Thursday the sixth of the first month, at about half past seven in the evening, in the same room, the council asked her to take a seat, and she took it, and she asked for one condition and got it.**
+**And on the Friday the sixth of the first month, at about half past seven in the evening, in the same room, the council asked her to take a seat, and she took it, and she asked for one condition and got it.**
 
 There was a vacancy. One of seven members resigned in the middle of November over a winter rotation he had not been able to produce and nobody had been able to produce, and there had been no replacement and there had been six members and a room and a stove and a bell that has not worked since 1949 and a minute book whose most recent volume is 1948.
 
@@ -72,7 +72,7 @@ There was a vacancy. One of seven members resigned in the middle of November ove
 
 ---
 
-**And the argument of this volume, said by her, on the Friday the seventh, at about eleven in the morning, to a man of thirty-two who had not asked her for it.**
+**And the argument of a year of this, said by her, on the Saturday the seventh, at about eleven in the morning, to a man of thirty-two who had not asked her for it.**
 
 He had come about a thing with a book in it, and she had read a page of it standing, and had said: "You have a sheet of paper in that book with two hundred and twenty-one days on it and a bill of four pounds two shillings under it and no date at the end of the hundred and fifty. **You have written a number with a bill under it and no day on it, for eleven months, and you have worked out since the twentieth of September that a form in a hall in the Clockwork Quarter runs out on the first of the fifth next year, and you have not written the day, and the reason you have not written the day is that the day is a day with nothing on it.**"
 
@@ -84,9 +84,9 @@ He had come about a thing with a book in it, and she had read a page of it stand
 
 "You have a row book with a column in it and a maintenance schedule with six names on it, and if you wrote the day down on the wall in that room then somebody in this district could be asked about it, and that is the first time in nineteen years that sentence has been true, **and it is true because a woman of thirty-three put a figure on a ward's return and it cost two hundred and eleven households a rate rise, and nobody thanked her, and now there is a room in this district with a number in it that somebody is answerable for.**" She put the book down. "So write the day down. And when somebody comes and asks you what the day is you will have to answer, and that is the whole of the difference between a number in a book and a date on a wall, and it is the only thing anybody in this district has been after all year, and it is not worth very much and it is the entire thing."
 
-Then she said the last of it, and she said it standing, and it is the sentence the volume ends its labour on and it is hers.
+Then she said the last of it, and she said it standing, and it is the last of what she said that day and it is hers.
 
-"**I was the person who had to be asked. From Friday the seventh of this month I am one of seven people in a room that can be asked what it thinks, and it can be told no, and it will be, and the first thing it is told no about will be a number on a wall in a pumping ward, and I have wanted that for about four years and I could not have had it while I was the woman somebody rang.**"
+"**I was the person who had to be asked. From Saturday the seventh of this month I am one of seven people in a room that can be asked what it thinks, and it can be told no, and it will be, and the first thing it is told no about will be a number on a wall in a pumping ward, and I have wanted that for about four years and I could not have had it while I was the woman somebody rang.**"
 
 ---
 

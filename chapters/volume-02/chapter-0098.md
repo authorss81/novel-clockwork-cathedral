@@ -4,7 +4,7 @@ On Saturday the thirty-first of the twelfth month the Registry of Transfers and 
 
 ---
 
-Saturday the thirty-first of the twelfth, at about ten in the morning, in the public Archive room on Cathedral Rise, and it is a Saturday and it is a room with tables in it and a counter and a public book on it, and **it is not a committee and nothing in this city sits in it and it is a room anybody may walk into and read a book in, and the words reading room are in this book about that room and about that room only.**
+Saturday the thirty-first of the twelfth, at about ten in the morning, in the public Archive room on Cathedral Rise, and it is a Saturday and it is a room with tables in it and a counter and a public book on it, and **it is not a committee and nothing in this city sits in it and it is a room anybody may walk into and read a book in, and the words reading room are used here of that room and of that room only.**
 
 The four hundred and eleven lines went out in a run of five hundred at fourpence a page on the foolscap sheet, eighty-two pages, and the whole of what it cost the Registry to set its own book in its own type for the first time since 1920 is **one pound seven shillings and fourpence**, and the Commissioner entered it against the Registry's own stationery account in one line with the date on it, **and it is the first time in nineteen years that a word has gone out of that building that anybody could carry away in his hand.**
 
@@ -23,7 +23,7 @@ Then the reading, and it is a reading in the ordinary sense: a public book, read
 
 ---
 
-**And a man of thirty-eight in a good coat asked four questions and got four true answers, and the fourth one is the chapter.**
+**And a man of thirty-eight in a good coat asked four questions and got four true answers, and the fourth one is the one he wrote on the back of the sheet in pencil and did not read out.**
 
 He was a schoolmaster and he was not from this district and he said so in the first thirty seconds, and he had a pencil.
 
@@ -74,10 +74,10 @@ And nobody thanked him and he is sixty-one and he is a keeper.
 **Saturday the thirty-first of the twelfth, half past seven in the morning, the third reading, and the method ran without anybody organising it.**
 
 > *Nights since the sixth of the tenth: 26 in the tenth; 30 in the eleventh; 31 in the twelfth, the first to the thirty-first inclusive. **Eighty-seven nights at fifty seconds is 4,350 seconds, which is 1 h 12 min 30 s.***
-> *Weir Two station: 48 min 00 s + 1 h 12 min 30 s = **2 h 00 min 30 s.** Read by I. Pell.*
-> *Pumping ward, outer room: 57 min 20 s + the same = **2 h 09 min 50 s.** Read by O. Vale.*
-> *Quarter hill, south: 1 h 49 min 10 s + the same = **3 h 01 min 40 s.** Read by S. Kaye.*
-> *The two separations are 9 min 20 s and 51 min 50 s and they are the separations of the first of the eighth and they have not moved in eighty-seven nights, and a method that produces the same two numbers for eighty-seven nights is not a forecast and is not a rate and is a photograph of a length of iron taken three times, and **the only thing in it that anybody can act on is the difference between two of the photographs, and the difference between the seventeenth and the thirty-first is fourteen nights at fifty seconds, which is seven hundred seconds, which is eleven minutes and forty seconds, and a reader can be wrong by a second and cannot be wrong by much, and that is the whole of what a method is worth.**
+> *Weir Two station: 48 min 00 s + 1 h 12 min 30 s + the step of 40 min 10 s = **2 h 40 min 40 s.** Read by I. Pell.*
+> *Pumping ward, outer room: 57 min 20 s + the same two = **2 h 50 min 00 s.** Read by O. Vale.*
+> *Quarter hill, south: 1 h 49 min 10 s + the same two = **3 h 41 min 50 s.** Read by S. Kaye.*
+> *The two separations are 9 min 20 s and 51 min 50 s and they are the separations of the first of the eighth and they have not moved in eighty-seven nights, and a method that produces the same two numbers for eighty-seven nights is not a forecast and is not a rate and is a photograph of a length of iron taken three times, and **the only thing in it that anybody can act on is the difference between two of the photographs, and the difference between the seventeenth and the thirty-first is fourteen nights at fifty seconds, which is seven hundred seconds, which is eleven minutes and forty seconds, and the step is in both of those two photographs and not in their difference, and a man with a rule can be wrong by a second and cannot be wrong by much, and that is the whole of what a method is worth.**
 
 **And on the Sunday the first of the first month nothing sat anywhere, and on the Monday the second, at about four in the afternoon, in the outer room of the pumping ward, a second book was written up.**
 

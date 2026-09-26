@@ -1,14 +1,14 @@
 # Chapter 96 — The Room Refuses the Number
 
-On Thursday the twenty-second and Friday the twenty-third of the twelfth month a timetable of houses, clocks and winders was made by going along a row of twenty-two houses and knocking on every door a second time, and on Friday afternoon a room over a chandler's shop in Bellweather refused a number — not the work, the number — and on Saturday the twenty-fourth, from seven in the morning until about ten to noon, five hours and three hundred minutes happened in daylight, and twelve clocks on a street off Weir Lane were wound by twelve people by hand, and nine households on that street had no water and no clock and no column, and nobody was hurt, nobody died, and the reader could not point at one person and say that one died, and the whole of what the volume has been about was in one printed line on a public sheet which says *toll: 300 minutes, paying district: LOWER WEIRS*, in which the minutes come off one district and the water comes off a street four streets away, and on Monday the twenty-sixth a man of thirty-two took a piece of chalk and rubbed a figure off a wall in a pumping ward, and Bevin Sarr would not let him do it on his own.
+On Thursday the twenty-second and Friday the twenty-third of the twelfth month a timetable of houses, clocks and winders was made by going along a row of twenty-two houses and knocking on every door a second time, and on Friday afternoon a room over a chandler's shop in Bellweather refused a number — not the work, the number — and on Saturday the twenty-fourth, from seven in the morning until about noon, five hours and three hundred minutes happened in daylight, and twelve clocks on a street off Weir Lane were wound by twelve people by hand, and nine households on that street had no water and no clock and no column, and nobody was hurt, nobody died, and there is no person anybody could point at and say that one died, and the whole of what a year of this has been about was in one printed line on a public sheet which says *toll: 300 minutes, paying district: LOWER WEIRS*, in which the minutes come off one district and the water comes off a street four streets away, and on Monday the twenty-sixth a man of thirty-two took a piece of chalk and rubbed a figure off a wall in a pumping ward, and Bevin Sarr would not let him do it on his own.
 
 ---
 
 **Thursday the twenty-second. The timetable, and it was made by hand, and there is no clerk in this city who could have made it.**
 
-It is one sheet, and it is a different sheet from the notice, and it is not a notice, and it is the only document this volume has produced that contains times against names and it exists because somebody went and asked.
+It is one sheet, and it is a different sheet from the notice, and it is not a notice, and it is the only document this district has produced that contains times against names and it exists because somebody went and asked.
 
-> *THE TIMETABLE. Saturday the twenty-fourth of the twelfth. Cistern drawn down at about seven in the morning. Refilled by about ten to noon.*
+> *THE TIMETABLE. Saturday the twenty-fourth of the twelfth. Cistern drawn down at about seven in the morning. Refilled by about eleven.*
 > *Cistern clocks, **twelve**, in thirteen houses, because two of the thirteen share one in a court. **Winders, twelve.** House, clock, winder, and the hour the winder will be at the door and the hour the winder will be back.*
 
 Twelve lines of that, and the ninth of the twelve has two houses against it and one winder, and one line — number twenty-one — has a clock in it against a name that was entered at about four o'clock on Sunday the eleventh by a man standing on a step in a lane, because the boy of nine went to fetch his mother and the mother was at home on the Sunday and the mother is a woman of about thirty-four who works Thursdays to Saturdays at a laundry in the Clockwork Quarter and will be at that door at a quarter to six in the morning on the twenty-fourth **because she has asked twice and has been given a time and not a shift.**
@@ -21,7 +21,7 @@ Twelve lines of that, and the ninth of the twelve has two houses against it and 
 
 They made it on the Thursday by going along the row in pairs from about half past nine in the morning until about half past four in the afternoon, knocking on every door, twenty-two doors, twice, and **nobody wrote a line down about what was said in any of them and nobody was asked anything except what hour you will be at the door on Saturday morning, and the sheet on that row is the first record of the twenty-two houses anybody has ever made that is not a rent book and is not a return.**
 
-They put the timetable up on the four boards and on the wall of the second court, and the four boards and the court wall are five places, and it is a notice and not a document and it will come down on the Sunday and it came down on the Sunday, and **the notice of the tenth came down on the sixteenth and the timetable of the twenty-second came down on the twenty-sixth, and that is the whole of the seven days' notice in this district, twice, and neither time was required by anybody.**
+They put the timetable up on the four boards and on the wall of the second court, and the four boards and the court wall are five places, and it is a notice and not a document and it will come down on the Sunday, which was the twenty-fifth, and it came down on the Sunday, **and the notice of the tenth came down on the sixteenth and the timetable of the twenty-second came down on the Monday the twenty-sixth, and that is the whole of the seven days' notice in this district, twice, and neither time was required by anybody.**
 
 ---
 
@@ -37,7 +37,7 @@ Wenna Pruitt said why, standing up, before anybody had started, and said it flat
 
 "**Not one of you is one of the twenty-six and the twenty-six have not been told anything and nobody is going to tell them anything and that has not changed and will not change, and if anybody in this room has come here to make it change, they can go home.**"
 
-Nobody had come for that. Nine people from a street of twenty-two houses were in a room over a chandler's shop in Bellweather on a Friday afternoon in December because a number had walked down their road, and the price of that, which is the last line of a signed undertaking and has been named out loud in a room three times, is that **a number said in a room goes where the number goes, and this time it went to the people the number is about, which is the one time in this volume anybody has wanted it to.**
+Nobody had come for that. Nine people from a street of twenty-two houses were in a room over a chandler's shop in Bellweather on a Friday afternoon in December because a number had walked down their road, and the price of that, which is the last line of a signed undertaking and has been named out loud in a room three times, is that **a number said in a room goes where the number goes, and this time it went to the people the number is about, which is the one time anybody in this district has wanted it to.**
 
 The four lines went on the table and the timetable went on the table and the column of names went on the table and the three sheets from Saturday the seventeenth went on the table in three hands, and nobody held all three.
 
@@ -79,23 +79,23 @@ Nobody went out of that door thinking that. She made sure of it at the door, in 
 
 ---
 
-**Saturday the twenty-fourth, from about seven in the morning until about ten to noon.**
+**Saturday the twenty-fourth, from about seven in the morning until about noon.**
 
 The vault is at the north end of the row and it is a brick arch at street level with an iron plate on it that had not been lifted in anybody's memory, and the handwheel is under the plate at about three feet down a stone step, and there was four feet of water in it from the canal and about a foot and a half of the cistern's own, and **nobody went under and nobody went in past the second step and there was no lamp in it and there is no light in a vault.**
 
-Three people went down the step with a lamp and a bar and about forty minutes: **Bevin Sarr**, who is thirty-three and the ward clerk for the canal front and who has been in that vault twice before in her life and both times for the works, **Ivy Pike**, who is sixty-one and who said afterwards that she would not do it again and came back at about a quarter to eleven to check it, and **Teo Arden**, who is twenty and who held the lamp in Ferrywright Row on the fourth of the eleventh for four and a half hours and who wrote those hours on a folded paper and gave them to nobody and was not thanked for them then either.
+Three people went down the step with a lamp and a bar and about an hour and five minutes: **Bevin Sarr**, who is thirty-three and the ward clerk for the canal front and who has been in that vault twice before in her life and both times for the works, **Ivy Pike**, who is sixty-one and who said afterwards that she would not do it again and came back at about a quarter to eleven to check it, and **Teo Arden**, who is twenty and who held the lamp in Ferrywright Row on the fourth of the eleventh for four and a half hours and who wrote those hours on a folded paper and gave them to nobody and was not thanked for them then either.
 
 The wheel was stiff. It is a handwheel on a screw spindle put in in 1889 and it had not been turned since 1911 and it took about twenty minutes of three people and a bar, and it was freed at about five past eight.
 
-The water went at about ten past eight and it was down by about half past and it was about four feet down and it stayed there, and it was full again at about **ten to noon**, and **two hours and fifty minutes**, and the five hours is the whole of the operation from the first wheel to the last and there was a hundred and ten minutes of it when the cistern was sitting empty with a screw open and nothing at all happening.
+The water went at about ten past eight and it was down by about half past and it was about four feet down and it stayed there, and **from half past eight until about twenty past ten it was sitting empty with the screw open and nothing at all happening, and that is a hundred and ten minutes, and the water was let back in at about twenty past ten and the cistern was full again at about eleven o'clock, which is two hours and fifty minutes after the water went, and then the twelve clocks were wound and the two standpipes were reconnected and looked at for the last hour, and the whole of the operation from the first wheel at about seven to the last check at about noon is the five hours and three hundred minutes that the sheet said it would be.**
 
 **Twelve clocks went free and twelve people wound them, and the ninth of the twelve is a woman of about sixty-two winding one clock for two houses, and that is the only set of hours in the whole of this business that belongs to a household whose clock is wound by somebody who does not live in it, and there is no form in this city on which an hour like that can be entered and there is no person who may be thanked for it.**
 
-> *Saturday the twenty-fourth of the twelfth, seven in the morning until about ten to noon.*
-> *Twelve clocks on the cistern, in thirteen houses. Twelve winders. Nine households on the row with no clock on the cistern and no water from about ten past eight until about ten to noon.*
+> *Saturday the twenty-fourth of the twelfth, seven in the morning until about noon.*
+> *Twelve clocks on the cistern, in thirteen houses. Twelve winders. Nine households on the row with no clock on the cistern and no water from about ten past eight until about eleven.*
 > *Two standpipes dry, the north and the second court, and about a hundred and ten minutes with the cistern empty and the screw open and nothing whatever happening, which is a number nobody had on the sheet and which four people on Friday afternoon agreed to write down when they found it.*
-> *The valve at the north end, the step, the lamp: **B. Sarr, I. Pike, T. Arden**, and the wheel was freed at about five past eight and the cistern was full at about ten to noon.*
-> *Nobody was hurt. Nobody was in a cellar and there was no cellar. **No one on that row died, and there is no card anywhere in this volume with a name on it for anything that happened on that row, and the reader will not be able to point at a person and say that one died, and that is the correct shape of a morning in this district and it is not a small thing to have arranged.**
+> *The valve at the north end, the step, the lamp: **B. Sarr, I. Pike, T. Arden**, and the wheel was freed at about five past eight and the water went at about ten past eight and the cistern was full at about eleven.*
+> *Nobody was hurt. Nobody was in a cellar and there was no cellar. **No one on that row died, and there is no card anywhere in this district with a name on it for anything that happened on that row, and nobody will be able to point at a person and say that one died, and that is the correct shape of a morning in this district and it is not a small thing to have arranged.**
 > *Sixty hours. Twelve people, five hours each, and **five of the sixty are the hours of one household in a court whose clock is wound by a person who lives at the other end of the row, and the man at number eight is not one of them, he winds his own, and he asked to be asked on a Friday and was asked on a Friday.**
 
 And the nine households without a clock had a hundred and ten minutes of no water in the middle of it and were not asked about anything and were not in any column, and Hanna Stroud went round those nine doors at about eleven in the morning with a jug she had filled at her own block, and **she did not say anything about the cistern, and she did not say she was sorry, and she did not leave a note, and she has said since that if anybody had thanked her for the jug she would have taken it back.**
@@ -104,9 +104,9 @@ And the nine households without a clock had a hundred and ten minutes of no wate
 
 **Sunday the twenty-fifth. Nothing sat anywhere, and the row got its clocks back, and nobody thanked anybody for any hour of it.**
 
-**And on the Monday the twenty-sixth, at about ten in the morning, in the outer room of the pumping ward, a man of thirty-two went back with the refusal in his hand, and going back with it is the hardest thing anybody does in this volume and nobody was ever in any danger.**
+**And on the Monday the twenty-sixth, at about ten in the morning, in the outer room of the pumping ward, a man of thirty-two went back with the refusal in his hand, and going back with it is the hardest thing anybody does in this district and nobody was ever in any danger.**
 
-The refusal is a sheet of foolscap with nineteen and twenty on it in two columns, and the count was nineteen for the number and twenty against, and there are about forty people in that room and the rest put a hand up neither way, because a show of hands in a room with no minute book is not a vote and a person is allowed to do nothing, and **Hanna Stroud said so before it happened and Wenna Pruitt wrote *nineteen and twenty, reasons not taken, no vote, this binds nobody* on the back of a 1948 minute book and did not read it out.**
+The refusal is a sheet of foolscap with nineteen and twenty on it in two columns, and the count was nineteen for the number and twenty against, and there are forty-one people in that room and two of them put a hand up neither way, because a show of hands in a room with no minute book is not a vote and a person is allowed to do nothing, and **Hanna Stroud said so before it happened and Wenna Pruitt wrote *nineteen and twenty, reasons not taken, no vote, this binds nobody* on the back of a 1948 minute book and did not read it out.**
 
 He had to go and rub a figure off a wall. The wall in the outer room of the pumping ward has had **300 — LOWER WEIRS** on it in chalk in a hand about four feet from the ground since the fourteenth of the November, under a heading, with the paying district in capitals, and about nine people a day read that wall and four of them work in that building and two of them are named on it and one of them is the ward clerk.
 
@@ -126,10 +126,10 @@ So they rubbed it off together, and he did the first eight inches and she did th
 
 And where the capitals were, Bevin Sarr wrote three lines under the price in chalk, standing, from about four feet, which is the way she reads.
 
-> *Sat. 24 xii. Cistern drawn down 7 a.m. Full again about 10 to noon. Five hours, 300 minutes.*
+> *Sat. 24 xii. Cistern drawn down 7 a.m. Full again about 11 a.m. Five hours, 300 minutes.*
 > *Paying district: **NOT ENTERED.** A toll of minutes has to name a district and the district it names is not the street it happens on and that is the whole of what has happened here in December. **Refused by a room on the twenty-third, nineteen and twenty, reasons not taken, no vote, binds nobody.***
 > *Entered instead in the row book on the ledge, with the street, the date, the number and the column for durations left empty, because no instrument recorded whose duration three hundred minutes was.*
 
 And the row book is on the ledge, and it is about a hundred and forty pages and it is bound in a piece of sacking and the first page has a line at the head of it in a hand that is not the Office's type and is not the district works' hand and is not anybody's hand except the six or seven hands of a street, and it is not written up yet, and the headnote at the top of it is written in five lines and it says the same thing the Office's headnote says, in the same five lines, and it says it about the column that is empty.
 
-Nobody thanked anybody. The reader will not be able to point at a person and say that one died, and the two of them are standing at a wall in a pumping ward in the middle of the day on a Monday in December with a wet cloth in a bucket and a ghost of six figures that is not coming off.
+Nobody thanked anybody. There is no person in the district anybody can point at and say that one died, and the two of them are standing at a wall in a pumping ward in the middle of the day on a Monday in December with a wet cloth in a bucket and a ghost of six figures that is not coming off.

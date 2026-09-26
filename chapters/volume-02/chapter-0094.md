@@ -1,12 +1,12 @@
 # Chapter 94 — What the Street Said and What the Street Did Not Say
 
-The four days from the thirteenth to the sixteenth of the twelfth are the fourth, the fifth, the sixth and the seventh days of a notice that this city has no right to give and that twenty-two households are being given anyway, house by house, in the same four words, and in those four days a woman of thirty-three put a figure on a ward's return that makes two hundred and eleven households pay for water they have been carrying since 1936, and a man of thirty-two told her a second thing he had told nobody in three months because a street has been asked and a district has been told and it would be cowardice not to; and the clause on the page between them — *neither of us uses a result without naming its blind margin* — was used for the last time in this volume, and what it cost them was not a number.
+The four days from the thirteenth to the sixteenth of the twelfth are the fourth, the fifth, the sixth and the seventh days of a notice that this city has no right to give and that twenty-two households are being given anyway, house by house, in the same four words, and in those four days a woman of thirty-three put a figure on a ward's return that makes two hundred and eleven households pay for water they have been carrying since 1936, and a man of thirty-two told her a second thing he had told nobody in three months because a street has been asked and a district has been told and it would be cowardice not to; and the clause on the page between them — *neither of us uses a result without naming its blind margin* — was used for the last time anybody in this district used it, and what it cost them was not a number.
 
 ---
 
 Tuesday the thirteenth, at about ten in the morning, in a room with a court outside the window and one window in it, and three of the four staff in the room because the fourth had a drawer.
 
-**The return went to the rate authority on Friday the fifth of the twelfth and the answer came back on Friday the twelfth, and the answer is a figure and the figure is the price of the water, and Mara Venn put it on the table face up.**
+**The return went to the rate authority on Monday the fifth of the twelfth and the answer came back on Monday the twelfth, and the answer is a figure and the figure is the price of the water, and Mara Venn put it on the table face up.**
 
 "Auditing schedule, entered on the ward's return, with the working and the five lines, before the rate is struck. Received and noted at the authority on the fifth. **The rate is struck on the corrected return and the corrected return carries a rateable figure of £6,960, and the district safety levy is three shillings in the pound on the rateable value as entered in the district return, so £6,960 at three shillings in the pound is £1,044 0s 0d a year, and none of it has been collected since the storm month, because a nil return is a good return.**"
 
@@ -28,7 +28,7 @@ The three of them then did the thing they do, which is that a result goes on the
 
 **The street, on Saturday the tenth, in the four words of a notice, at twenty-two doors.**
 
-"Twenty-two houses. Thirteen of them have a clock on that cistern in it, and there are twelve clocks, because two of the thirteen share one in a court. Twelve said yes. One said no at a door in about nine seconds and gave a reason about a washing stand and a son of five, and asked to be asked again on a Friday, and I am not writing his name in this book and Hanna Stroud wrote his number on the back of her hand and did not write his name either."
+"Twenty-two houses. Thirteen of them have a clock on that cistern in it, and there are twelve clocks, because two of the thirteen share one in a court. Twelve said yes. One said no at a door in about nine seconds and gave a reason about a washing stand and a son of five, and asked to be asked again on a Friday, and I am not writing his name down anywhere and Hanna Stroud wrote his number on the back of her hand and did not write his name either."
 
 "**Blind margin of that, and I am going to name it before you do, because I have read it four times since Saturday and I have got it down and I want to know if I have got it down.**"
 
@@ -86,7 +86,7 @@ She did not say anything for about a minute, and she is a woman who has been in 
 
 "**I am not going to answer it**," said Mara Venn, "and I am not going to be thanked for not answering it, and there is a difference between those two things that I have had four years to learn and it is the only thing in this office I am proud of."
 
-And then, at the door, with her hand on the frame, she said the other thing, and it is one sentence and it is the only time in this volume that anything of the kind is said, and **it does not contain a name.**
+And then, at the door, with her hand on the frame, she said the other thing, and it is one sentence and it is the only time in a year of this that anything of the kind is said, and **it does not contain a name.**
 
 "My mother would have said that a card in a drawer in a building with one window is a card in a drawer, and then she would have asked who keeps the drawer, and nobody has ever been able to answer that question about anything. **You are not going to ask me her name and I am not going to tell you and we are both going to behave as though this afternoon was about a tank.**"
 

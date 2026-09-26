@@ -6,7 +6,7 @@ On the twenty-seventh to the thirtieth of the twelfth month a district keeps fou
 
 **The reading of the twenty-fourth, at half past seven in the morning, seventeen minutes after seven, with the screw of a cistern open under a row of twenty-two houses and twelve clocks on the row going free.**
 
-The method was printed on Sunday the twenty-sixth at about eleven in the morning on two sheets, one for the wall and one for the ledge, and it is the first document this district has ever printed about itself, and it is four paragraphs and a table and it does not grow.
+The method was printed on Monday the twenty-sixth at about eleven in the morning on two sheets, one for the wall and one for the ledge, and it is the first document this district has ever printed about itself, and it is four paragraphs and a table and it does not grow.
 
 > **THREE CLOCKS, ONE QUESTION, FOUR MINUTES, AND WHAT IT IS NOT.**
 > **1.** Three clocks: the pumping ward, canal road, outer room; the Weir Two pump house, station clock; the Quarter hill, south public clock. Two are hung in public places and one is in a room with a glass case in it, and anybody may stand at any of the three and read any of them, and nobody needs to know anybody to do it.
@@ -26,7 +26,7 @@ And the maintenance schedule, which is the second thing on the sheet and is the 
 > | 6 | W. Pruitt, tenant council | the room, the minutes, and the putting of them where anybody may read them | her work |
 > | 7 | — | — | — |
 
-**Three of the six are the operators, and the chapter has to say where the other three came from, and the reason they are not operators is the whole of the argument this volume has been making for a year.**
+**Three of the six are the operators, and the other three came from somewhere else, and the reason they are not operators is the whole of the argument a year of this has been making.**
 
 "A method is three clocks and a question and two other people's hands. That is a rehearsal and that is all a rehearsal is, and you can run it in a shed with a gate on it. **What you cannot do in a shed is find out whether the result is going to be refused, and that is the part that has to be maintained and it is not done by an operator.**" He had the four of them in a room over a chandler's shop on the Monday and it took about ninety minutes and nobody enjoyed it.
 
@@ -59,7 +59,7 @@ And the maintenance schedule, which is the second thing on the sheet and is the 
 
 "**The line is empty and the line is on the schedule and the schedule is on the wall, and anybody who comes into that room from now on is going to see a row with nothing in it and there is nobody in this city who could tell them what it is for except the six of us, and two of us did not read the strip until the twentieth of the tenth.**" He put his hand flat on the table, which means nothing and has always meant nothing except that a hand is going on a surface. "And I am not going to fill it in and I am not going to take it out, and if anybody in this district ever asks me what an empty line on a schedule is, I am going to say that in this city there is a column in a glass case with a name in it and nothing beside the name, and there is a dash in a book in a store in Green Span, and there is a line on a wall in a pumping ward, and **they are all the same sentence and the sentence was written by three offices that have never met and none of them knows the other two exist.**"
 
-Nobody asked him anything else about it. It is the fifth time in a year that a man has been found by reading and never asked, and the count of people in this volume who have been found by reading and never asked is now five, and it is a number, and it is a number about a practice and not about a man.
+Nobody asked him anything else about it. It is the fifth time in a year that a man has been found by reading and never asked, and the count of people in this district who have been found by reading and never asked is now five, and it is a number, and it is a number about a practice and not about a man.
 
 ---
 

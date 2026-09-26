@@ -610,3 +610,62 @@ A reviewer read all ten delivered chapters against `state/continuity.md` §Estab
 ### Confirmed by the reviewer and left exactly as it stands
 
 The word-count claim; the whole spine arithmetic to the second; the other money figures; **every weekday name in Chapters 61–70**; and every guardrail — Ada Vance asked nothing and was not thanked, the count of hand corrections stays two and is stated on the page in Chapters 61, 62 and 64, the empty duration column is untouched, four keeper's tolls, no forbidden hardware named, Orrin certifies nothing, no midpoint scale leaked, no manufactured cliffhanger, and the Teo–Wenna argument moved without settling. **The batch ran to 39,777 words as first written and 40,414 after this pass, which added prose and removed none of consequence.** `workspace/continuation/next/.wip-conflict` is a controller-generated empty marker committed in `bd8bd40`; it is not the writer's to remove and has not been touched, **but it is worth a human look before the next dispatch.**
+
+---
+
+## Housekeeping pass, the twenty-sixth of September — a mis-dispatch, and four residues it found
+
+**This phase was handed the Volume 02 batch 0001 prompt, which says the batch is written, that the prose in Chapters 51–60 governs, and that the next dispatch is `workspace/volume-02/batch-0002/PROMPT.md`. All three statements were true when the prompt was written and none of them is true now, because the repository had already run three further phases.** Recorded here so that a maintainer reading the ledger can see what happened and why no chapter was written.
+
+**What the repository actually held when this phase opened.** `chapters/volume-02/chapter-0051.md` … `chapter-0070.md` exist, are finished prose, and have been reviewed and repaired. `state/current.md`, `state/continuity.md`, `state/chapter-summaries.md`, `state/batch-summaries.md`, `state/character-state.md` and this file are all written as at the end of Chapter 70, with the batch 0002 repair pass applied. `outline/batches/volume-02-batch-0002.md` and `workspace/volume-02/batch-0002/PROMPT.md` both exist. `workspace/volume-02/batch-0003/PROMPT.md` exists, is 115 lines, and is the prompt `state/current.md` names as the next phase.
+
+**What this phase therefore did not do, deliberately.** It did not write or rewrite a word of Chapters 51–70. It did not create `workspace/volume-02/batch-0002/PROMPT.md`, because that file exists and its batch has been written and reviewed, and overwriting it would have handed the next dispatch a plan for ten chapters that are already on the page. It did not create a fourth batch directory, a volume-close prompt, or a batch 0003 card file, because a batch 0003 prompt already exists and `AGENTS.md` forbids creating more than the next phase. It did not touch `state/phase-ledger.json`, `scripts/`, `.github/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `NOVEL_CATALOG.md`, `opencode.json` or any `.done` marker.
+
+**The real next dispatch is `workspace/volume-02/batch-0003/PROMPT.md`, Chapters 71–80, and it is the file this phase repaired.** It was the only artefact of the next phase inside this agent's remit, and it had four defects that would have been copied into the prose of the volume's midpoint batch. All four are closed.
+
+### 1. A canon figure the batch 0002 repair pass had already corrected was still live in the next dispatch
+
+`workspace/volume-02/batch-0003/PROMPT.md` card 74 read **"Eight hundred pounds, a gate fund"** — the figure that pass found to be wrong by a factor of twenty. Two of its three hard-coded occurrences had been corrected and the third had not, so the prompt would have re-imported **eight hundred pounds** as canon into the batch that owns the volume's midpoint. **Card 74 now reads *Forty pounds, a gate fund*,** which is what `chapter-0070.md:107` says in Ambrose's mouth and what `chapter-0070.md:160` says in the grey book.
+
+**The same pass also left two occurrences in `state/batch-summaries.md`,** in *What it cost* and in *The batch's arithmetic*, so the sentence in `state/continuity.md` §Review repair pass claiming that **no occurrence remains anywhere in the manuscript** was false while it stood. Both summary lines are now written from Chapter 70's own arithmetic. The first was wrong in a second way as well: it attached *nobody is levying*, which belongs to **£9,150 a year**, to the gate fund, and said **forty men on a gate** where the page says **four hundred**. **That sentence in `state/continuity.md` has been amended to record the miss instead of continuing to assert a clean sweep, because a false clean-sweep claim is how the next reader loses an afternoon.** The four surviving occurrences of the phrase in the state files are the repair-pass record naming the error and are correct as they stand.
+
+### 2. Seven weekday names in the next dispatch's day map were wrong, which is the fourth time in this volume
+
+Every range in the batch 0003 day map and in all ten card lead-ins was re-derived from the month map in `state/current.md`. **Chapters 71, 79 and 80 were right. Chapters 72 to 78 were all wrong**, and each was wrong in the same direction, by being carried along from the eighth month into the ninth without re-deriving it:
+
+| Ch | Was | Is |
+| --- | --- | --- |
+| 72 | Mon to **Fri** | Mon to **Sun** |
+| 73 | **Sat** to **Wed** | **Mon** to **Fri** |
+| 74 | **Thu** to **Mon** | **Sat** to **Wed** |
+| 75 | **Tue** to **Sat** | **Thu** to **Mon** |
+| 76 | **Sun** to **Thu** | **Tue** to **Sat** |
+| 77 | **Fri** to **Tue** | **Sun** to **Thu** |
+| 78 | **Wed** to **Tue** | **Fri** to **Tue** |
+
+The ninth month is thirty days beginning Thursday the first, which is the anchor the map had lost. All fourteen names — seven in the map, seven in the cards — are corrected, the map is now a table rather than a run-on sentence so that a reader can check a row against a month without doing arithmetic in their head, and the file says in terms that the map governs if the two ever disagree.
+
+**This is the fourth instance in the volume** of a weekday name surviving a shift in the day map, after `chapter-0060.md:37`, `chapter-0065.md:146` and the batch 0002 pass's own catch. **The standing house rule is unchanged and is restated where a writer will meet it: take the month map from `state/current.md`, check every weekday name against it before writing it, and never derive a weekday from a date.**
+
+### 3. Eight of the ten chapters in that batch contain a Sunday, and the prompt did not say so
+
+With the map corrected, **Chapters 71, 72, 74, 75, 77, 78 and 79 each contain exactly one Sunday, and Chapters 73, 76 and 80 contain none.** The batch's hard rule is that no Assembly, committee, guild counter, water committee or mutual sits on a Sunday, and **two of this batch's fixed events are meetings**: the standing protection lapses in Chapter 74 and the Water Users' Committee re-votes the front's draw in Chapter 79. Under the uncorrected map both chapters looked as though they were mid-week. **The Sundays are now listed by date in the prompt, and both meetings are given the four weekdays available to them**, so that neither can be placed on a Sunday by a writer working from the card alone.
+
+### 4. A card for a closed batch still dated the gate man's two hours to the wrong month
+
+`outline/batches/volume-02-batch-0002.md` card 70 ended with the gate man putting his hand on a wheel for two hours **in the sixth month of this year**. **The fifth month is canon**, and the prose, `state/current.md`, `state/character-state.md`, `state/chapter-summaries.md`, `state/batch-summaries.md`, this file and the batch 0003 prompt all said so. `state/open-threads.md` recorded that the prose "was the sole outlier against six files"; **it was seven files, and the card was the one the review had not opened.** The card is corrected, so the figure is now uniform in all eight files that carry it. **He remains a man of about forty, unnamed, in a warden's book, and may not be named before Chapter 72 or 73 and never afterwards as anything but a name.**
+
+### One title that does not match its chapter's span, left alone on purpose
+
+**Chapter 79 is called "The Fifteenth of the Tenth, and Who Was Asked" and its span is the fifth to the ninth of the tenth.** The fifteenth of the tenth falls in Chapter 80's week or after it, not in Chapter 79's. The card's actual content is the end of the stoppage, the lapsing of the standing protection, the Water Users' Committee's re-vote, and a recovery week, and every one of those fits the fifth to the ninth. **The title is not corrected, because a title is not a date claim, because nothing in the card's argument depends on the fifteenth, and because the batch 0002 repair pass learned the cost of rewriting a plan file to match a guess.** It is recorded so that the Chapter 79 writer does not try to build a scene around a day that is not in the chapter, and so that whoever owns the volume's titles can decide later whether it wants the card's name or the card's span.
+
+### One finding logged and deliberately not edited
+**`chapter-0058.md:40`, in closed batch 0001.** Bessie Crane says her margin is a penny a sheet, that the laundry does about four hundred sheets on a Friday, and then puts the new annual cost against **"about four shillings a week."** Four hundred sheets at a penny is four hundred pence, which is **33s 4d on the Friday alone**, so the comparison is out by a factor of about eight. **The error runs in the direction that weakens her argument rather than strengthening it**, because the chapter's point is that *the arithmetic is not the problem* — and at 33s 4d the shilling and twopence is about three per cent of a day's margin, which makes that sentence true rather than merely asserted. The batch 0001 review pass corrected a different figure in the same paragraph, the weekly conversion of the sixty-two shillings into *a shilling and two and a third pence*, and did not catch this one.
+
+**It is not edited, for the reason the same file records about `chapter-0060.md:37`: batch 0001 is closed and has had its own review cycle, and this phase is not that cycle.** It is left here for a maintainer or the next repair pass that touches Volume 02 batch 0001. **The correction, when it is made, is one clause and not a number swap**, and the reading it should take is *about thirty-three shillings on a Friday* — which is exactly what the sentence immediately before it already establishes, and which is the figure that carries her argument.
+
+### What this pass adds to the two house rules
+
+- **A repair pass that finds a figure in eleven files must grep for the phrase afterwards, and must not trust its own file list.** The batch 0002 pass listed eleven files and corrected eight of them correctly; the three it missed were the two summary lines and the one prompt card that mattered most, and it then wrote a sentence asserting there were none. **The assertion is the dangerous artefact, because it stops the next reader from looking.** Find the phrase, then say what is left and why.
+- **A day map that runs on from one month into the next must be re-derived at the boundary, not carried.** Seven consecutive chapters were wrong in the same direction for one reason: the eighth month's shape was carried into the ninth month's. A table with one row per chapter is now used, because a table is checkable and a run-on sentence is not.
+

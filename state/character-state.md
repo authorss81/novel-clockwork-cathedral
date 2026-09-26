@@ -502,3 +502,14 @@ Every one is functional, competent at their own work, and not an organisation, a
   - **Nadia Erridge, the Water Users' Committee's clerk,** named again and given her reason: a notice is not a document, a notice has no form, and about eleven people a day read the board outside the Weir Two pump house and eleven of them are him.
   - **A man of twenty-one to eighty at the doors of Sluice Row** — a fitter of forty-four who said no in nine seconds, a compositor of thirty who offered the whole of it, a woman of sixty-two who owns a clock in a passage, a woman of about thirty-four who works Thursdays to Saturdays at a laundry in the Clockwork Quarter, a woman of fifty-four who asked whether it was a committee thing, a woman of sixty-two's neighbour at number seven whose name is refused because the first name said on a step ought to be said by the person it belongs to, a boy of nine, and a woman of nineteen's mother. **None of them is named, on purpose, and the chapter says so, and one number was written on the back of a hand in grease pencil and no name against it.**
   - **Ostrow, the Toll Stair chalker, is not on the page in this batch. Nella Rook is not named. Alma Festinger is not named. Halden Rusk is not a character and is not named. Hester Lomas is not on the page in this batch.**
+
+### Volume 03, Batch 0001 (Chapters 101–110) — character deltas
+
+- **Orrin Vale 32:** suspended, poor, narrow book in use; declines third correction with new reason; refuses three spends for want of standing, writes each; carries Voss letter unanswered; never certifies; no toll.
+- **Mara Venn 33:** rate schedule in own name (£1,044 on £6,960); auditing market with working, knows will cost post, does not appeal in advance; Office right to be ignored intact.
+- **Teo Arden 20:** walks arcade, does not buy/sell; says doors sentence; not leader, no office.
+- **Leda Vale 27:** ward method (say number before spending); disagrees with Nella, neither chooses; answers forgiveness as tell-next-one-first.
+- **Nella Rook 28 (new):** hospital clock nurse, Imani's niece said once; buys G100 for ward in kitchen, four women no officials; working woman not symbol.
+- **Sel Kade 44:** tenant rep not chair; only person who can be asked about market (room/light/stair, not water).
+- **Corvin Hale 41 (new):** broker No.14 one pitch one book, rate card, 4s6d; writes council 3rd, refused 10th, keeps book; competent, not plant, not redeemed.
+- **Anja Voss 49:** letter only, unanswered. **Ivo Pell 36:** documentary reference only, not in city. **Halden Rusk/Alma/Ada:** absent.

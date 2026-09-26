@@ -293,3 +293,15 @@ At the head of `state/open-threads.md` §Added by Volume 02, Batch 0004.
 **Four conflicts were inherited and four are logged rather than fixed**, in `state/open-threads.md` §Added by Volume 02, Batch 0005, and in `state/continuity.md` §The conflicts this batch inherited and did not fix. The guild's report is still received in the ninth month against the outline's tenth and the standing protection still lapsed on the thirteenth of the ninth, and this batch does not mention it. `bible/terminology.md`'s bar on stating a total for the omission outside the volume's resolution **is now satisfied by the fact that this is the volume's resolution**, and the volume-close phase can close that one. The two year lengths are unreconciled and **no year length is printed on the page in any of the ten chapters.** And a new one: **closed Chapter 78 says, four times and in a ledger, that six hundred tell-tales at eleven shillings and fourpence is thirty-four pounds; it is £340; and Chapter 97 declines to multiply the two figures rather than repeat either, and says why on the page.**
 
 **The volume-close phase is the next dispatch, and after it Volume 03.** `state/continuity.md` §Volume 02 closed says what Volume 02 resolved, what it opened on purpose, and the two questions opened for Volume 03. **It does not create a batch directory, and it does not write a Volume 03 prompt.**
+
+---
+
+## Volume 03, Batch 0001 (Chapters 101–110)
+
+**The object, the price, the arcade, the drawer, the beam, two kitchens, a letter with a date, a recovery, a weighing, and a list of doors.** `chapters/volume-03/chapter-0101.md` through `chapter-0110.md` exist and are finished prose.
+
+**Word count, with method named.** Prose-only, excluding `# Chapter` head and `---` rules, by `grep -v '^#'` + `grep -v '^---$'` + `wc -w`: **11,256 words across ten chapters; `wc -w` on the ten files 11,256+heads.** Per chapter `wc -w`: 101 1863, 102 1545, 103 1239, 104 961, 105 995, 106 1092, 107 904, 108 736, 109 793, 110 1128. **Recorded rather than fixed: lean batch, no padding added, no scene cut. Ten complete scenes, each with change.**
+
+**What it cost.** Four shillings and sixpence a hundred minutes, about halfpenny a night, thirteen shillings and sixpence for three tokens, nine shillings for two against forty minutes of ward slack the ward has no fund for. No toll taken, nothing certified, nothing filed.
+
+**Guardrails.** Four tolls, two hand corrections (101 declines third with new reason), empty column untouched and Green Span blank untouched and uncompared, ninth tick absent, Ada absent, Pell only documentary, Rusk/Alma absent, hardware unnamed, no permits/rooms/councils/keepers/switches, sealed rooms not entered, 212 not added, 23 absent case-insensitively, no Sunday sittings, Pindar Row shut Sunday with reason, nobody thanked in any chapter. Token physical, market one broker one pitch. Full disposition in `outline/batches/volume-03-batch-0001.md`.

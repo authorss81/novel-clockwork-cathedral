@@ -1032,3 +1032,12 @@ The reviewer read all ten chapters against `state/continuity.md` §Established o
 - **A figure with a working on it is a thing a room can be given, and the same figure as a printed list is a thing four hundred and eleven strangers can check with a pencil in forty minutes, and the difference between those two things is the whole of the difference between publishing a range and publishing a list.**
 - **A refusal binds the person who asked and nobody else, and both kinds of refusal stand, and there is nowhere to carry either.** This is the first time in the series that a refusal has been entered anywhere.
 - **A neighbourhood is not a body, and a rehearsal is not an instrument, and a right that only binds other people is a permit.** The district is now the first place in this book with something it can refuse, and the thing it can refuse is a question about its own clocks.
+
+### Added by Volume 03, Batch 0001 (Chapters 101–110)
+
+- **Market open:** Q/G tokens at 4s6d moving openly Tue/Fri; supply 261/206/940/516 on hall plate; assay free unused; no counterfeit weighed (1,700 book figure only). Who brings tenth? Orrin did (printer's Q, real 1,860).
+- **Right tested once:** Hale refused 10th binds Hale only; brass in Sluice Row 11 days after by householder. What does council do when refusal does not stop brass? Open into batch 0002.
+- **Audit coming:** Mara's market audit (240 households/four streets ground prepared, not published here) will cost post. Open.
+- **Kitchens:** Bellweather 4th floor token held not spent; nurses' kitchen token held not spent; laundry token found not spent. All refusals written. What spends first? Open.
+- **Sealed rooms/unit/machine:** Voss door offered for Tuesday, unanswered. Not entered here; batch 0002 may enter rooms/unit as absence with shape, no mechanism, machine seen not named. Carried.
+- **Conflicts inherited, none created:** £34/£340 not mentioned (guardrail: £1,890 and 11s4d never in one sentence, observed); guild report tenth vs ninth not mentioned; year lengths not printed; 51,418 used once as Office figure with no ratio.

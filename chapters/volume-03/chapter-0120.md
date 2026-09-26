@@ -46,7 +46,7 @@ On the Sunday the twenty-sixth nothing happened, and the arcade was shut, and th
 
 And on the Sunday afternoon, at about four o'clock, five of them were in a kitchen nine feet by eleven on the fourth floor of a boardinghouse in Bellweather Road, and it was not a meeting of anything, because there was nothing to meet about, and there was no Assembly man and no Directorate man and no guild man in it, and a kitchen is where this city does its business when it is being honest.
 
-There was a list on a nail. There was a gas ring. There were Miriam Coss, thirty-four, with a token on the table in front of her that had been carried up and down four flights of stairs every day since the seventeenth of the first month; Nella Rook, twenty-eight, off shift; a conductress of thirty-three called Nita Bramhall who had walked up Bellweather Road on her day off and had brought a ticket roll; Teo Arden, twenty; and the man with the lamp, who had come because the porter on the second landing of the hospital had told a ward sister, and the ward sister had told a nurse, and the nurse had rung the shop.
+There was a list on a nail. There was a gas ring. There were Miriam Coss, thirty-four, with a token on the table in front of her that had been carried up and down four flights of stairs every day since the seventeenth of the first month; Nella Rook, twenty-eight, off shift; a conductor of thirty-three called Nita Bramhall who had walked up Bellweather Road on her day off and had brought a ticket roll; Teo Arden, twenty; and the man with the lamp, who had come because the porter on the second landing of the hospital had told a ward sister, and the ward sister had told a nurse, and the nurse had rung the shop.
 
 They disagreed inside about eleven minutes.
 
@@ -66,7 +66,7 @@ Nobody could tell her. That was the point and it was also true, and there was no
 
 She pushed the token toward the middle of the table.
 
-"Nine weeks and five days," she said. "I have carried that up and down those stairs since the seventeenth of the first and I have not spent it and I am not going to, and I would like somebody to say one true thing about it, and there is nobody in this city who can, and I have now asked four of you and one of you found out how late my bell is and did not charge me for it and I have not forgotten that, and it is the only thing anybody has done for me in ten weeks and it was not about the token at all."
+"Nine weeks and six days," she said. "I have carried that up and down those stairs since the seventeenth of the first and I have not spent it and I am not going to, and I would like somebody to say one true thing about it, and there is nobody in this city who can, and I have now asked four of you and one of you found out how late my bell is and did not charge me for it and I have not forgotten that, and it is the only thing anybody has done for me since the seventeenth of the first and it was not about the token at all."
 
 Teo Arden put his hands flat on the table, which he does, and which he has done since he was seventeen, and said the thing that he had said in a room in Bellweather Road in the fifteenth of the first month and had not said since.
 
@@ -82,7 +82,7 @@ Nella Rook looked at him.
 
 "Now the difference is that the second time there are five of us in a kitchen and one of us is on the card," he said, "and the second time I am saying it about a card that was printed and given away and not about a book in a drawer, and the second time it is worse, because a printed card is a thing a frightened person will put in an envelope, and she did, and it is in a building with a window in it, and I am not saying print it and I am saying *know what it is*."
 
-The room did not agree. That is what happened in that kitchen, and nobody tried to make it agree, and there is no committee anywhere in that kitchen and there never will be, and one of them was twenty and had no title and gave no order on anything, and one of them was a nurse and one a conductress and one a woman with a token and one a clockmaker who had come because a porter on a hospital landing said four words in a corridor.
+The room did not agree. That is what happened in that kitchen, and nobody tried to make it agree, and there is no committee anywhere in that kitchen and there never will be, and one of them was twenty and had no title and gave no order on anything, and one of them was a nurse and one a conductor and one a woman with a token and one a clockmaker who had come because a porter on a hospital landing said four words in a corridor.
 
 On the Monday the twenty-seventh of the third month the figures were in three buildings and they could not be un-arrived, and no instrument in Morrowfen can un-arrive anything, and the reason is that nobody took them.
 
@@ -90,4 +90,4 @@ A printed card at the end of a row, given away free. An envelope, posted, signed
 
 Nobody stole anything. Nobody broke a rule. Nobody forged a card or copied a book or lifted a single line out of the twenty-six, which is still twenty-six, and the undertaking on it is unaltered, and the households are still not told, and the twenty-two are still not the twenty-six.
 
-The number said in a room goes where the number goes, and this time it went into three buildings and out through a window into an envelope and down a street to a kitchen where a woman of thirty-four turned a brass disc with ten weeks of a pocket worn bright on one edge and could not tell which of the four figures on a printed card was her street, and that was on the Monday, and it had been true since the middle of January, and it took ten weeks and a printed card and five people in a kitchen and nobody's thanks to get here.
+The number said in a room goes where the number goes, and this time it went into three buildings and out through a window into an envelope and down a street to a kitchen where a woman of thirty-four turned a brass disc that had been in a pocket for nine weeks and six days, worn bright on one edge, and could not tell which of the four figures on a printed card was her street, and that was on the Monday, and it had been true since the middle of January, and it took nine weeks and six days and a printed card and five people in a kitchen and nobody's thanks to get here.

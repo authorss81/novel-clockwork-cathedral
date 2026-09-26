@@ -48,7 +48,7 @@ At about eleven he took the grey ledger off the shelf and did the arithmetic he 
 
 *Weir Two pump house, 2 h 41 min 20 s. Pumping ward outer room, 2 h 50 min 40 s. Quarter hill south, 3 h 42 min 30 s. Weir One gate, 4 h 22 min 40 s. Separations 9 min 20 s and 51 min 50 s, and they have not moved, and a step is a displacement and is permanent.*
 
-He wrote that and then sat looking at it, because the two separations had not moved by a second in sixty-three nights, and the absolute figures had walked a full hour in five weeks, and he still did not entirely believe the second half of that sentence and would not have believed it in a room.
+He wrote that and then sat looking at it, because the two separations had not moved by a second in sixty-three nights, and the absolute figures had walked fifty-two and a half minutes in nine weeks, and he still did not entirely believe the second half of that sentence and would not have believed it in a room.
 
 On the Monday the twenty-first he took a long-case in from Green Row that had been standing eleven weeks and beating a bad time, and it wanted a new pallet and half a day, and the man had brought it to the shop in a handcart and had asked, in the doorway, whether the man on Cathedral Rise was any good.
 

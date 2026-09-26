@@ -18,7 +18,7 @@ They wrote that out in the nurses' kitchen and none of it was thanked, because i
 
 The night itself went like this.
 
-The free master's pallet fouled again some time after eleven, and after half past eleven the free master stopped keeping time altogether and lost about four minutes an hour, which on a fouled pallet is not a fault of rate but a fault of letting go, and nobody noticed for two hours, and when the second dose went out on the dead master the interval on the card for the ninth patient read what it read.
+The free master's pallet fouled again some time after eleven, and after half past eleven the free master stopped keeping time in any way a person could use, and it did not run slow, which would have been the good kind, it let go, and there is no rate to a thing that lets go, and four minutes an hour is what the letting go came to over the whole of the night and not a figure anybody could have applied to one interval or predicted with, and nobody noticed for two hours, and when the second tray went out at ten to three the interval on the card for the bed it went to read eight minutes, and eight is what a card says when the only clock it has ever been written from has stopped having an opinion.
 
 At about ten to three Cobb came round the end of the corridor with the second tray and stopped, and put it down on the windowsill, and did not go on.
 
@@ -40,7 +40,7 @@ The total for the night across the eleven patients was six hours and forty-one m
 
 The old card had said six hours and twenty-four minutes, and the difference is seventeen minutes, and the seventeen minutes is four and a quarter hours of a free master standing at half past eleven, and the free master was the instrument the ward had trusted for eleven years, and it was an honest instrument that had been fouled by a pallet, and there is no column in any building in this city for the difference between what a machine said and what a pair of watches said.
 
-The worst single interval of the night was eleven minutes and forty seconds, and it belonged to the ninth patient at about half past nine, an hour before the master fouled, which is the point of it, and Cobb wrote it without softening it, and nobody in the corridor asked who the ninth patient was, because the ninth patient is a number the ward uses and not a person, and Leda had put the two columns in that card in December, *pain* and *waiting*, precisely so that a number could be on a board without a face being beside it.
+The worst single interval of the night was eleven minutes and forty seconds, and it belonged to the ninth patient at about half past nine, two hours before the master fouled, which is the point of it, and Cobb wrote it without softening it, and nobody in the corridor asked who the ninth patient was, because the ninth patient is a number the ward uses and not a person, and Leda had put the two columns in that card in December, *pain* and *waiting*, precisely so that a number could be on a board without a face being beside it.
 
 Beth Ollerton was thirty-four and had come in in October and was the eighth of the eleven.
 

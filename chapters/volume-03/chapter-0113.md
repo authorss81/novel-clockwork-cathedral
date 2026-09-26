@@ -122,7 +122,7 @@ So: the room had four minutes and eleven seconds, and two men with a watch and a
 
 "Two seconds," said Nye, when he was told. He was not disappointed, and he was not triumphant, and he said the next thing himself before Orrin could. "Two seconds is the price of a room that anybody can walk into. If I had put the three clocks on the district reference in January and kept them on it every month, the price would be about four shillings a night of my time and I would not have a room at all, I would have a certificate with a hole in it, and there is no form in this city for the first thing and there never will be, and that is not a complaint, it is the trade."
 
-On the Tuesday the first of the third month Orrin walked down to nine Bellweather Road at about half past seven in the evening and went up four floors past a man playing with a knife and put a card on the table of a kitchen nine feet by eleven with a gas ring and a list on a nail.
+On the Wednesday the first of the third month Orrin walked down to nine Bellweather Road at about half past seven in the evening and went up four floors past a man playing with a knife and put a card on the table of a kitchen nine feet by eleven with a gas ring and a list on a nail.
 
 The card had the date on it, the hour, five names, and a figure.
 
@@ -146,7 +146,7 @@ Miriam Coss read it twice and then looked at the brass token, which was where it
 
 "The bell is the smaller thing and the smaller thing is the one that is actually happening," he said. "That is not a comforting sentence and I have not got a better one."
 
-Coming down Bellweather Road on the Tuesday he had come within a sight of the Weigh Lane end of Pindar Row, which was open, and had counted the tray outside number fourteen, and there were eleven brass out on it and a piece of card on the tray-edge with the price, and the rate card was fresh, and the number of people standing at the end of the row reading a board in chalk was four times what it had been a month ago.
+Coming down Bellweather Road on the Wednesday he had come within a sight of the Weigh Lane end of Pindar Row, which was open, and had counted the tray outside number fourteen, and there were eleven brass out on it and a piece of card on the tray-edge with the price, and the rate card was fresh, and the number of people standing at the end of the row reading a board in chalk was four times what it had been a month ago.
 
 Nobody in that row thanked him and he did not go in. He wrote the whole of the twenty-eighth in the grey ledger and the whole of the first of the third, and the rule at the bottom of the room's card went into his own book on its own, in his own hand, because a rule written by a man who makes scales and has never been in a hall is worth more than one written by a man who is standing in one.
 

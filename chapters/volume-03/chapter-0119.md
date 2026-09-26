@@ -20,13 +20,13 @@ Nita Bramhall did not run the service off the signal and she did not run it off 
 
 "The service runs on mine and the stops run on the timetable and the two of them are four minutes apart on a bad day," said Nita Bramhall, "and there is a certificate on the signal that says the signal is a minute and a half out, and I have never been able to work out whether that is the same four minutes and I have never asked, because if I ask and the answer is yes then the certificate is a lie about the timetable, and if the answer is no then the signal is lying about the timetable, and either way the driver's watch is the only one of the three I can be held to, and I have been held to it twice for two stops in eleven years and both times I was right and one of those times I was four minutes and the other I was two, and neither of them went in a book that anybody has ever read."
 
-On the Wednesday the twenty-second she held the bus twice.
+Later the same day she held the tram twice.
 
-The first was at the Weir Lane stop at about four in the afternoon, a Tuesday-service stop with about nine people on it, and her watch said the stop was a minute and a half ahead of the timetable's idea of it, and she waited one and a half minutes at the stop with the door shut and nine people standing in a cold street, and the guard came and said nothing because the guard had been on that line for nineteen years and had watched her do it before.
+The first was at the Weir Lane stop at about four in the afternoon, a Tuesday-service stop with about nine people on it, and her watch said the stop was a minute and a half ahead of the timetable's idea of it, and she waited one and a half minutes at the stop with the door shut and nine people standing in a cold street, and the conductor came and said nothing because the conductor had been on that line for nineteen years and had watched her do it before.
 
 The second was at Green Span at about five, and there she did not wait, and Orrin got off at the second stop and walked back to the hospital to find out why.
 
-Because at Green Span the timetable and her watch had come back together, and the bus was four minutes early, and a hospital stop four minutes early is not a nicety, it is eleven people getting a lift they did not ask for and a driver who is now going to be four minutes late back, and she held it, and the reason she held it was that her watch said she was early and her watch was the one she could be held to.
+Because at Green Span the timetable and her watch had come back together, and the tram was four minutes early, and a hospital stop four minutes early is not a nicety, it is eleven people getting a lift they did not ask for and a driver who is now going to be four minutes late back, and she held it, and the reason she held it was that her watch said she was early and her watch was the one she could be held to.
 
 "What does the timetable say?" he asked.
 
@@ -36,7 +36,7 @@ Because at Green Span the timetable and her watch had come back together, and th
 
 "I have been wrong about a stop twice in twenty-one years," she said, "and both times the ward rang the works and both times it was me, and I would rather be wrong at a hospital than right at a factory, and that is not a rule and it is not in any book and it is the whole of what I have got."
 
-She wrote both of the times on the back of a spoiled ticket roll in the cab in pencil, with the date and the stop and the number of minutes, and the roll went into her coat, and the coat went home, and there is no form in this city on which anybody may ask a conductress for a ticket roll.
+She wrote both of the times on the back of a spoiled ticket roll in the cab in pencil, with the date and the stop and the number of minutes, and the roll went into her coat, and the coat went home, and there is no form in this city on which anybody may ask a conductor for a ticket roll.
 
 He said thank you and she stopped writing.
 
@@ -46,7 +46,7 @@ He said thank you and she stopped writing.
 
 "You have been on the front twice," said Nita Bramhall, "and that is the only difference and I am not going to be thanked for it."
 
-He was at the boundary gate on the Wednesday afternoon at about half past three, on the day after the two holds and about nine hours after the second of them, and the works' man had gone home, and the gearbox was warm, and the override was standing out at a right angle to the frame, and a man alone in a concrete box with a 1911 clock-driven valve in it is a man with a machine in front of him that nobody has asked him anything about, and it was, as far as he could tell standing there, the first time in his life that those two facts had been both true and both available at once.
+He was at the boundary gate on the Wednesday afternoon at about half past three, the day after the two holds, and the works' man had gone home, and the gearbox was warm, and the override was standing out at a right angle to the frame, and a man alone in a concrete box with a 1911 clock-driven valve in it is a man with a machine in front of him that nobody has asked him anything about, and it was, as far as he could tell standing there, the first time in his life that those two facts had been both true and both available at once.
 
 The telephone was in a hut eleven yards away with a door that did not shut, and it rang at about half past four, and it was the ward.
 
@@ -66,7 +66,7 @@ She put the phone down.
 
 He stood in the box for about four minutes longer and then put the override back to neutral and locked the hut and signed nothing, because there is no column for *I did not do it*, and that is a thing the third month found out.
 
-On the night of Wednesday the twenty-second into Thursday the twenty-third the ward was on two watches for the third time, and the second ward came into it on the Monday, and the difference between the two was written down at every handover, and the total for that night across eleven patients was six hours and fifty-eight minutes, and the worst single interval was fourteen minutes and five seconds, and Cobb wrote it and the fourth line was hers and there was a column headed with the fourth of the third and the eleventh of the third and it was going to end in eight days whichever way the week went.
+On the night of Wednesday the twenty-second into Thursday the twenty-third the ward was on two watches for the third time, and the second ward, which had come into it on the Monday evening after the fourth, was on it again, and the difference between the two was written down at every handover, and the total for that night across eleven patients was six hours and fifty-eight minutes, and the worst single interval was fourteen minutes and five seconds, and Cobb wrote it and the fourth line was hers and there was a column headed with the fourth of the third and the eleventh of the third and it was going to end in eight days whichever way the week went.
 
 So: three things held, and none of them was asked for.
 
@@ -74,11 +74,11 @@ And the three records do not agree, and the reason they do not agree is that eac
 
 The gate's is a line in a log book in a works' hand and it says *override, cold, eleven minutes four seconds, J.B., O.V.* and it does not say what was behind the valve or whose water it was and could not, because the man who wrote it was not there to see it.
 
-The bus's is a ticket roll in a coat in a cupboard in Bellweather Road with two lines in pencil and the dates, and it does not say how many people were standing at the Weir Lane stop, which was nine, and it does not say that the certificate on the signal says something different, which it does.
+The tram's is a ticket roll in a coat in a cupboard in Bellweather Road with two lines in pencil and the dates, and it does not say how many people were standing at the Weir Lane stop, which was nine, and it does not say that the certificate on the signal says something different, which it does.
 
 The ward's is a card on a board with the date, four names, a total, a worst figure, and a column with two watches' difference in it three times, and it does not say that the same free master has fouled twice since September, because the free master is on the other card and nobody joins the two cards.
 
-Eleven minutes and four seconds in a log, five and a half minutes on a ticket roll, and a difference of eleven seconds at three in the morning, in three buildings, on one day, about three pieces of the same city, and not one of the three documents could be laid beside another without a person who knew all three, and there is one such person in Morrowfen and she is a ward sister of about fifty who read two hundred and twenty-five hours off a board in chalk in the third month and went back to work, and she was not asked and was not thanked and said so out loud to nobody in particular at about four o'clock on the Thursday, and the sentence was, "Nobody is thanked and I have stopped waiting, and I would like it on the record that the day somebody thanks me for a thing I have been doing unpaid for four years is the day somebody thinks I can be asked to do a fifth."
+Eleven minutes and four seconds in a log, five and a half minutes on a ticket roll, and a difference of eleven seconds at three in the morning, in three buildings, in one ordinary week, about three pieces of the same city, and not one of the three documents could be laid beside another without a person who knew all three, and there is one such person in Morrowfen and she is a ward sister of about fifty who read two hundred and twenty-five hours off a board in chalk in the third month and went back to work, and she was not asked and was not thanked and said so out loud to nobody in particular at about four o'clock on the Thursday, and the sentence was, "Nobody is thanked and I have stopped waiting, and I would like it on the record that the day somebody thanks me for a thing I have been doing unpaid for four years is the day somebody thinks I can be asked to do a fifth."
 
 The best interval on that ward all night was under a minute and the worst was fourteen minutes and five seconds, and the ward's whole slack on the best night of the year is forty minutes, and a hundred minutes is two and a half times that, and the card does not say what the difference between the two is called, and the hospital branch is three hours and fifty-six minutes out and stepping fifty seconds a night, and a printed card with four streets on it has been read by about two hundred and forty households in four streets and there are ten brass in this city in a pocket or on a table or in a drawer, and not one of the three things that held that week would have failed if none of that were true, and none of them would have held if a man had put his hand on a gearbox at half past three on the Wednesday afternoon, and nobody knew that except the four people who had each independently written it down in a place nobody reads.
 

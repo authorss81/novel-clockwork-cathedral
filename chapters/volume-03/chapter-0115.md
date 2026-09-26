@@ -16,7 +16,7 @@ Nobody left, and the reason nobody left is that in a hospital the number of peop
 
 "That is the correct statement to make and it is the wrong order," said Leda. "Say the thing you want first, in case you run out of time, and then say the other thing."
 
-"I want the hours," said Imani Rook. "I want to know, across this hospital, how many hours a week are spent by the staff of this hospital on clock work. Not medicine. Clock work. The writing, the reading, the comparing, the reconciling, the going round with a card. I want it in a year and I want it in a ward and I want it by grade, and I want it for the eleven wards in the city and I cannot get it for one of them."
+"I want the hours," said Imani Rook. "I want to know, across this hospital, how many hours a week are spent by the staff of this hospital on clock work. Not medicine. Clock work. The writing, the reading, the comparing, the reconciling, the going round with a card. I want it in a year and I want it in a ward and I want it by grade, and I want it for the wards in all eleven of the hospitals in this city and I cannot get it for one of them."
 
 "Why not?"
 
@@ -58,7 +58,7 @@ He did it three times and wrote the three figures and the mean, and the three we
 
 "Then call the column what it is."
 
-He called the column what it was. There are two columns in that table now, *best observed* and *worst observed*, and the mean of the three is thirty-six minutes a day, and the worst is thirty-seven, and the report prints the worst, and the worst is two hundred and twenty-five hours and five minutes, which is nine days and nine hours of one person's working year, and the report says in a footnote that it is the worst rather than the mean, and the footnote was Imani Rook's and it is the reason the figure is worth anything at all, and the number that will be quoted at her by people who have read the first page and not the footnote is two hundred and nineteen, and she would like that on the record as the first thing that will go wrong with it.
+He called the column what it was. There are two columns in that table now, *best observed* and *worst observed*, and the mean of the three is thirty-six minutes a day, and the worst is thirty-seven, and the report prints the worst, and the worst is two hundred and twenty-five hours and five minutes, which is nine days and nine hours and five minutes of one person's working year, and the report says in a footnote that it is the worst rather than the mean, and the footnote was Imani Rook's and it is the reason the figure is worth anything at all, and the number that will be quoted at her by people who have read the first page and not the footnote is two hundred and nineteen, and she would like that on the record as the first thing that will go wrong with it.
 
 Imani Rook did not check it. She took the figure and the working and the two days and she did not send one letter to anybody, and the reason she gave, on the Wednesday, to Orrin, who had come in at ten with a lamp he had not needed, is the sentence that the whole of the third month is standing on.
 
@@ -84,7 +84,7 @@ Leda's own contribution to the day was the reason the figure exists, and she put
 
 "You have," Leda said, "and one of them was in a room of forty people, and I have not thanked you for any of them and I am not going to start."
 
-On Thursday the ninth of the third month the working went up on the board outside the board room on the third landing, in chalk, at the height of a person who is not tall, with the date and the two days and the ten words *nothing here is a certification and nothing here stops anything*, because Orrin Vale had put those six words on a card in a shop in Hobden Street in the last week of the second month and had said out loud in a room that they were the only part of a form that anybody in a bad situation can use, and Imani Rook had heard him say it and had written it on the back of her own sheet and had not told him she had done so.
+On Thursday the ninth of the third month the working went up on the board outside the board room on the third landing, in chalk, at the height of a person who is not tall, with the date and the two days and the ten words *nothing here is a certification and nothing here stops anything*, which were the ten words on the card Orrin Vale had left on a kitchen table in Bellweather Road on the first of the third month, and which he had said out loud in a room were the only part of a form that anybody in a bad situation can use, and Imani Rook had heard him say it and had written it on the back of her own sheet and had not told him she had done so.
 
 Two hundred and nineteen hours, in chalk, where any person in that building who could read could read it, and about nine people read it before lunch, and one of them was a ward sister of about fifty who said, out loud, to nobody, that she had known it was three years and had not known it was two hundred and nineteen hours, and went back to her work.
 

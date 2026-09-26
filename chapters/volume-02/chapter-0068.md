@@ -62,7 +62,7 @@ Nobody put a number on that and neither of them tried. There is no column in thi
 
 She shut the box.
 
-"There are thirty-eight cards in the drawer," she said. "Thirty-four on the sixth of the seventh. Eleven on the seventeenth of the third. **That is about six a month across the three and a half months, and since the sixth of the seventh it has gone up four in five weeks, which is not a different rate, it is a smaller number.** It has never once been emptied, and the thing you are going to want to do with what is on that card is to write to her, and you are not going to, because you would have to tell her why and she would have to answer and neither of you would know what the answer was for."
+"There are thirty-eight cards in the drawer," she said. "Thirty-four on the sixth of the seventh. Eleven on the seventeenth of the third. **Thirty-four from eleven in about three and a half months is about six a month, and since the sixth of the seventh it has gone up four in five weeks, which is not a different rate, it is a smaller number.** It has never once been emptied, and the thing you are going to want to do with what is on that card is to write to her, and you are not going to, because you would have to tell her why and she would have to answer and neither of you would know what the answer was for."
 
 ---
 
